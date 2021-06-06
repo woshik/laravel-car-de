@@ -1,0 +1,480 @@
+@extends('layouts.app')
+
+@section('title', 'Car Detailing')
+
+@section('style-file')
+    <link rel="stylesheet" href="{{ mix('/css/car_detailing.css') }}">
+@endsection
+
+@section('content')
+    <video src="/video/Design Digitalprint.mp4" autoplay muted loop id="myVideo"></video>
+
+    <header class="header">
+        <div class="gradient-header-main-bottom"></div>
+        <div class="header-content-box">
+            <h1 class="h1 sup-bold-Italic">Detailing</h1>
+            <p class="h5 sup-light">Auto cosmetology</p>
+        </div>
+    </header>
+
+    <div class="background-website">
+        <section class="section-main-page-1">
+            <div class="wrapper">
+                <div class="box-left-text-right-image">
+                    <div class="row box-left-text-right-image-mobile">
+                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car10.png" alt="" />
+                    </div>
+                    <div class="row">
+                        <div>
+                            <h2 class="zag">
+                                Protection and care <br />behind your car
+                            </h2>
+                            <span class="p-reg roboto-regular">
+                                <p class="p1">
+                                    Craftsmen restore the surface of your
+                                    car, give it a shine - and create an
+                                    invisible but very effective layer of
+                                    protection
+                                </p>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="row box-left-text-right-image-pc">
+                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car10.png" alt="" />
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div class="background-website">
+        <section class="section-deteiling-page-1">
+            <div class="background-col-8-icons">
+                <img class="parallax" src="/images/p67png" alt="" />
+            </div>
+            <h2 class="zag text-center">Detailing capabilities</h2>
+            <p class="sup-light text-center">
+                Modern protection technologies <br />and caring for your car
+            </p>
+            <div class="wrapper">
+                <div class="div-table">
+                    <div class="row-4">
+                        <i class="info-icon" style="
+                                    background: url(/images/deteiling-info-7.svg);
+                                "></i>
+                        <span class="name-icon-box">Leather</span>
+                    </div>
+                    <div class="row-4">
+                        <i class="info-icon" style="
+                                    background: url(/images/deteiling-info-6.svg);
+                                "></i>
+                        <span class="name-icon-box">Body</span>
+                    </div>
+                    <div class="row-4">
+                        <i class="info-icon" style="
+                                    background: url(/images/deteiling-info-5.svg);
+                                "></i>
+                        <span class="name-icon-box">Glass</span>
+                    </div>
+                    <div class="row-4">
+                        <i class="info-icon" style="background: url(/images/test-copy-19.svg)"></i>
+                        <span class="name-icon-box">Chromium</span>
+                    </div>
+                    <div class="row-4">
+                        <i class="info-icon" style="background: url(/images/glass-copy.svg)"></i>
+                        <span class="name-icon-box">Disks</span>
+                    </div>
+                    <div class="row-4">
+                        <i class="info-icon" style="
+                                    background: url(/images/deteiling-info-3.svg);
+                                "></i>
+                        <span class="name-icon-box">Rubber</span>
+                    </div>
+                    <div class="row-4">
+                        <i class="info-icon" style="
+                                    background: url(/images/deteiling-info-1.svg);
+                                "></i>
+                        <span class="name-icon-box">Dashboard</span>
+                    </div>
+                    <div class="row-4">
+                        <i class="info-icon" style="
+                                    background: url(/images/deteiling-info-2.svg);
+                                "></i>
+                        <span class="name-icon-box">Carpets</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div class="background-website">
+        <section class="section-range-tonirovka zaschita-plenka">
+            <h2 class="zag text-center">Protect your car</h2>
+            <p class="sup-light text-center">
+                Choose your level of protection
+            </p>
+            <div class="wrapper">
+                <div id="slidersec" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content">
+                    <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" style="left: 0%"></span>
+                    <div class="name-slider-range-col number-col-slidersec-1" style="left: 0%">
+                        <div class="cifra-text_cifra">01</div>
+                        <i>From dirt</i>
+                    </div>
+                    <div class="name-slider-range-col number-col-slidersec-2" style="left: 50%">
+                        <div class="cifra-text_cifra">02</div>
+                        <i>Additional protection against mechanical
+                            damage</i>
+                    </div>
+                    <div class="name-slider-range-col number-col-slidersec-3" style="left: 100%">
+                        <div class="cifra-text_cifra">03</div>
+                        <i>Maximum degree with mechanical protection</i>
+                    </div>
+                </div>
+                <button class="blue-form-btn zakaz-zashita-modal-form-btn">
+                    Order protection
+                </button>
+            </div>
+        </section>
+    </div>
+
+    <div class="background-website">
+        <section class="section-main-page-1">
+            <div class="wrapper">
+                <div class="box-left-text-right-image">
+                    <div class="row box-left-text-right-image-mobile">
+                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car11.png" alt="" />
+                    </div>
+                    <div class="row">
+                        <div>
+                            <h2 class="zag">
+                                Cleaning and preserving leather goods
+                            </h2>
+                            <span class="p-reg roboto-regular">
+                                <p>
+                                    Cleaning helps to restore the leather
+                                    interior or keep the softness of new
+                                    leather, prevents deep wrinkles,
+                                    protects against dirt and allows the
+                                    skin to "breathe".
+                                </p>
+                                <p>
+                                    Your car interior stays cleaner and
+                                    looks like new for longer
+                                </p>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="row box-left-text-right-image-pc">
+                        <img class="box-left-text-right-image__img parallax lazy loaded" src="/images/car11.png" alt="" />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <div class="background-website">
+        <section class="section-main-page-1">
+            <div class="wrapper">
+                <div class="box-left-image-right-text">
+                    <div class="row">
+                        <img class="box-left-image-right-text__img parallax" src="/images/car12.png" alt="" />
+                    </div>
+                    <div class="row">
+                        <div>
+                            <h2 class="zag">
+                                Restoration of decorative elements of the
+                                cabin
+                            </h2>
+                            <span class="p-reg roboto-regular">
+                                <p>
+                                    Masters use only special tools and
+                                    professional salon polishing products.
+                                </p>
+                                <p>
+                                    They also perform lamination of parts
+                                    with carbon
+                                </p>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <section class="section-main-page-3" data-block="7">
+        <h2 class="zag text-center">WE ARE IN NUMBERS</h2>
+        <div class="gradient-header-top"></div>
+        <div class="gradient-header-bottom"></div>
+        <div class="wrapper">
+            <div class="info-box ">
+                <div class="row-4">
+                    <span class="cifra-info"> <b class="b-count"><span class='numscroller' data-min='1' data-max='3'
+                                data-delay='5' data-increment='1'>3</span> - <span class='numscroller' data-min='1'
+                                data-max='5' data-delay='5' data-increment='1'>5</span></b> <i>SESSIONS</i></span>
+                    <p class="roboto-regular">New skin effect</p>
+                </div>
+                <div class="row-4">
+                    <span class="cifra-info"> <b class="b-count">in <span class='numscroller' data-min='1' data-max='7'
+                                data-delay='5' data-increment='1'>7</span> - <span class='numscroller' data-min='1'
+                                data-max='9' data-delay='5' data-increment='1'>9</span></b>
+                        <i>TIMES</i></span>
+                    <p class="roboto-regular">Reduces the number of washes</p>
+                </div>
+                <div class="row-4">
+                    <span class="cifra-info"> <b class="b-count"><span class='numscroller' data-min='1' data-max='6'
+                                data-delay='5' data-increment='1'>6</span> - <span class='numscroller' data-min='1'
+                                data-max='24' data-delay='5' data-increment='1'>24</span></b> <i>MONTHS</i></span>
+                    <p class="roboto-regular">Service life</p>
+                </div>
+                <div class="row-4">
+                    <span class="cifra-info"> <b class="b-count">from <span class='numscroller' data-min='1' data-max='3'
+                                data-delay='5' data-increment='1'>3</span> - <span class='numscroller' data-min='1'
+                                data-max='40' data-delay='5' data-increment='1'>40</span></b> <i>KM /
+                            H</i></span>
+                    <p class="roboto-regular">Clean windshield in the rain</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="background-website">
+        <section class="section-main-page-1">
+            <div class="wrapper">
+                <div class="box-left-text-right-image">
+                    <div class="row box-left-text-right-image-mobile">
+                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car13.png" alt="" />
+                    </div>
+                    <div class="row">
+                        <div>
+                            <h2 class="zag">
+                                Application of quartz composition to the
+                                body
+                            </h2>
+                            <span class="p-reg roboto-regular">
+                                <p>
+                                    Modern safe body chemistry keeps the car
+                                    surface clean for longer.
+                                </p>
+                                <p>
+                                    The master uses a more concentrated
+                                    element when it is necessary to provide
+                                    little protection against mechanical
+                                    damage.
+                                </p>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="row box-left-text-right-image-pc">
+                        <img class="box-left-text-right-image__img parallax lazy loaded" src="/images/car13.png" alt="" />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <div class="background-website">
+        <section class="section-main-page-1">
+            <div class="wrapper">
+                <div class="box-left-image-right-text">
+                    <div class="row">
+                        <img class="box-left-image-right-text__img parallax" src="/images/car14.png" alt="" />
+                    </div>
+                    <div class="row">
+                        <div>
+                            <h2 class="zag">Safe body polishing</h2>
+                            <span class="p-reg roboto-regular">
+                                <p>
+                                    Our craftsmen carry out individual work
+                                    with each car. When restoring glossy
+                                    shine and color depth, the lacquer layer
+                                    on the body, its reaction to temperature
+                                    and mechanical stress are taken into
+                                    account
+                                </p>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <section class="section-main-page-3" data-block="10">
+        <h2 class="zag text-center">Additional services</h2>
+        <div class="gradient-header-top"></div>
+        <div class="gradient-header-bottom"></div>
+        <div class="wrapper">
+            <div class="div-table">
+                <div class="row-4">
+                    <span class="cifra-text_cifra">01</span>
+                    <span class="name-icon-box">Deep cleaning of paintwork</span>
+                </div>
+                <div class="row-4">
+                    <span class="cifra-text_cifra">02</span>
+                    <span class="name-icon-box">Long-lasting anti-rain</span>
+                </div>
+                <div class="row-4">
+                    <span class="cifra-text_cifra">03</span>
+                    <span class="name-icon-box">Protection Glossy Buttons
+                    </span>
+                </div>
+                <div class="row-4">
+                    <span class="cifra-text_cifra">04</span>
+                    <span class="name-icon-box">Protection of interior wood and lacquer
+                        coatings</span>
+                </div>
+                <div class="row-4">
+                    <span class="cifra-text_cifra">05</span>
+                    <span class="name-icon-box">Detailing of the engine compartment</span>
+                </div>
+                <div class="row-4">
+                    <span class="cifra-text_cifra">06</span>
+                    <span class="name-icon-box">Pure rubber up to six months</span>
+                </div>
+                <div class="row-4">
+                    <span class="cifra-text_cifra">07</span>
+                    <span class="name-icon-box">Protecting calipers from dirt</span>
+                </div>
+                <div class="row-4">
+                    <span class="cifra-text_cifra">08</span>
+                    <span class="name-icon-box">Removing scale from the surface of the car
+                    </span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="background-website">
+        <section class="section-main-page-1">
+            <div class="wrapper">
+                <div class="box-left-image-right-text">
+                    <div class="row">
+                        <img class="box-left-image-right-text__img parallax" src="/images/car15.png" alt="" />
+                    </div>
+                    <div class="row">
+                        <div>
+                            <h2 class="zag">What we work with</h2>
+                            <span class="p-reg roboto-regular">
+                                <p>
+                                    We use only the best products and
+                                    technologies for caring for your car
+                                </p>
+                                <ul>
+                                    <li>Polishing equipment Rupes</li>
+                                    <li>Chemistry</li>
+                                </ul>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <div class="background-website">
+        <section class="section-deteiling-page-1">
+            <div class="background-col-8-icons">
+                <img class="parallax" src="" data-paroller-factor="-0.3" data-paroller-type="foreground"
+                    data-paroller-direction="vertical" style="
+                            transform: translateY(-92px);
+                            transition: transform 0s linear 0s;
+                            will-change: transform;
+                        " />
+            </div>
+            <h2 class="zag text-center">Stages of work</h2>
+            <p class="sup-light text-center">
+                How we protect and care for your car
+            </p>
+            <div class="wrapper">
+                <div class="div-table">
+                    <div class="row-3">
+                        <i class="info-icon" style="
+                                    background: url(/images/test-copy-5-1.svg);
+                                "></i>
+                        <span class="name-icon-box">Body - perfect polish</span>
+                    </div>
+                    <div class="row-3">
+                        <i class="info-icon" style="
+                                    background: url(/images/test-copy-12-1.svg);
+                                "></i>
+                        <span class="name-icon-box">Application of silicon composition</span>
+                    </div>
+                    <div class="row-3">
+                        <i class="info-icon" style="background: url(/images/handshake.svg)"></i>
+                        <span class="name-icon-box">Drying with special equipment</span>
+                    </div>
+                    <div class="row-3">
+                        <i class="info-icon" style="background: url(/images/test-copy-16.svg)"></i>
+                        <span class="name-icon-box">Temperature control</span>
+                    </div>
+                    <div class="row-3">
+                        <i class="info-icon" style="
+                                    background: url(/images/test-copy-11-1.svg);
+                                "></i>
+                        <span class="name-icon-box">Control inspection</span>
+                    </div>
+                    <div class="row-3">
+                        <i class="info-icon" style="background: url(/images/test-copy-17.svg)"></i>
+                        <span class="name-icon-box">Car delivery</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div class="background-website">
+        <section class="section-main-page-7">
+            <div class="wrapper">
+                <div class="div-table">
+                    <div class="row-form-box mobile-box-footer-form">
+                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car16.png" alt="" />
+                    </div>
+                    <div class="row-form-box">
+                        <h2 class="zag">Order detailing services</h2>
+                        <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
+                            <div class="screen-reader-response"></div>
+                            <form action="/#wpcf7-f121-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+                                <div style="display: none">
+                                    <input type="hidden" name="_wpcf7" value="121" />
+                                    <input type="hidden" name="_wpcf7_version" value="5.1" />
+                                    <input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+                                    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f121-o1" />
+                                    <input type="hidden" name="_wpcf7_container_post" value="0" />
+                                    <input type="hidden" name="g-recaptcha-response" value="" />
+                                </div>
+                                <p>
+                                    <input type="text" name="your-name" value="" size="40"
+                                        class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-form"
+                                        id="name" autocomplete="name" aria-required="true" aria-invalid="false"
+                                        placeholder="&nbsp;" /><label for="name" class="label-form">Name</label><br />
+                                    <input type="tel" name="tel-178" value="" size="40"
+                                        class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel input-form"
+                                        id="tel" aria-required="true" aria-invalid="false" placeholder="&nbsp;" /><label
+                                        for="tel" class="label-form">Telephone</label>
+                                </p>
+                                <p>
+                                    <input type="submit" value="To get the consultation"
+                                        class="wpcf7-form-control wpcf7-submit" />
+                                </p>
+                                <div class="wpcf7-response-output wpcf7-display-none"></div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="row-form-box pc-box-footer-form">
+                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car16.png" alt="" />
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+@endsection
+
+
+@section('script-file')
+    <script src="{{ mix('/js/car_detailing.js') }}"></script>
+@endsection
