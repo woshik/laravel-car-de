@@ -7,7 +7,7 @@
 @endsection
 
 @section('content')
-    <video src="/video/Design Digitalprint.mp4" autoplay muted loop id="myVideo"></video>
+    <video src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/Design%20Digitalprint.mp4" autoplay muted loop id="myVideo"></video>
 
     <header class="header">
         <div class="gradient-header-main-bottom"></div>

@@ -291,14 +291,6 @@
 		});
 });
 
-setTimeout(
-	function () {
-		$('.load-anim').addClass('disable');
-		$('body').addClass('animate-body');
-	}.bind(this),
-	0
-);
-
 function opacityHeaderImage() {
     var header = $('.opacity-box');
     var range = $('.header-content').height() / 4;
@@ -411,3 +403,9 @@ $(document).ready(function () {
 		},
 	});
 });
+
+
+setTimeout(() => {
+	$('.load-anim').addClass('disable');
+	$('body').addClass('animate-body');
+}, 1000);

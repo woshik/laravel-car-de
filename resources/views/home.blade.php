@@ -25,7 +25,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img" src="/images/feature-images/home-BMWfolierenSchweiz.png" alt="BMW Folientechnik Schweiz" />
+                        <img class="box-left-text-right-image__img lazy" data-src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/home-BMWfolierenSchweiz.png" alt="BMW Folientechnik Schweiz" />
                     </div>
                     <div class="row">
                         <div>
@@ -55,7 +55,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img lazy" data-src="/images/feature-images/home-BMWfolierenSchweiz.png" alt="BMW Folientechnik Schweiz" />
+                        <img class="box-left-text-right-image__img lazy" data-src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/home-BMWfolierenSchweiz.png" alt="BMW Folientechnik Schweiz" />
                     </div>
                 </div>
             </div>
@@ -98,12 +98,12 @@
             <div class="wrapper">
                 <div class="slick-slider">
 
-                    <div><img src="/images/team/Team Bilder Folientechnik Schweiz-06.png" src=""></div>
-                    <div><img src="/images/team/Team Bilder Folientechnik Schweiz-07.png" src=""></div>
-                    <div><img src="/images/team/Team Bilder Folientechnik Schweiz-08.png" src=""></div>
-                    <div><img src="/images/team/Team Bilder Folientechnik Schweiz-09.png" src=""></div>
-                    <div><img src="/images/team/Team Bilder Folientechnik Schweiz-05.png" src=""></div>
-                    <div><img src="/images/team/Team Bilder Folientechnik Schweiz-10.png" src=""></div>
+                    <div><img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Team%20Bilder%20Folientechnik%20Schweiz-06.png" /></div>
+                    <div><img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Team%20Bilder%20Folientechnik%20Schweiz-07.png" /></div>
+                    <div><img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Team%20Bilder%20Folientechnik%20Schweiz-08.png" /></div>
+                    <div><img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Team%20Bilder%20Folientechnik%20Schweiz-09.png" /></div>
+                    <div><img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Team%20Bilder%20Folientechnik%20Schweiz-05.png" /></div>
+                    <div><img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Team%20Bilder%20Folientechnik%20Schweiz-10.png" /></div>
                 </div>
             </div>
         </section>
@@ -145,7 +145,7 @@
                         </div>
                     </div>
                     <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img" src="/images/feature-images/FolierungAuto1.png" />
+                        <img class="box-left-text-right-image__img lazy" data-src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/FolierungAuto1.png" />
                     </div>
                 </div>
             </div>

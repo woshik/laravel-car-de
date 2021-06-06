@@ -16,30 +16,30 @@ body {
   font-family: supermolot-regular;
   font-style: normal;
   font-style: italic;
-  src: url(fonts/supermolot-regular.ttf) format("truetype");
+  src: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/fonts/supermolot-regular.ttf) format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: supermolot-bold-Italic;
-  src: url(fonts/supermolot-bold-Italic.ttf) format("truetype");
+  src: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/fonts/supermolot-bold-Italic.ttf) format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: supermolot-Italic;
   font-style: italic;
-  src: url(fonts/supermolot-Italic.ttf) format("truetype");
+  src: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/fonts/supermolot-Italic.ttf) format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: supermolot-light;
   font-style: normal;
-  src: url(fonts/supermolot-light.ttf) format("truetype");
+  src: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/fonts/supermolot-light.ttf) format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: roboto-regular;
   font-style: normal;
-  src: url(fonts/roboto-regular.ttf) format("truetype");
+  src: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/fonts/roboto-regular.ttf) format("truetype");
   font-display: swap;
 }
 
@@ -338,7 +338,7 @@ body {
   );
 }
 .top-bg {
-  background-image: url("/images/bg-images/home.webp");
+  background-image: url("https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/bg-images/home.webp");
   background-repeat: no-repeat;
 }
 .service-1-bg {
@@ -436,7 +436,7 @@ body {
   padding: 1vw;
 }
 .logo {
-  background: url(/images/logo.png);
+  background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/logo.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;

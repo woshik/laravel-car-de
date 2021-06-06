@@ -7,7 +7,7 @@
 @endsection
 
 @section('content')
-    <video src="/video/RocketGuard SelfHealing_2 (online-video-cutter.com)_2_2_2.mp4" autoplay muted loop autoplay id="myVideo"></video>
+    <video src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/RocketGuard%20SelfHealing_2%20(online-video-cutter.com)_2_2_2.mp4" autoplay muted loop autoplay id="myVideo"></video>
 
     <header class="header">
         <div class="gradient-header-main-bottom"></div>
