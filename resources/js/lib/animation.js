@@ -408,4 +408,4 @@ $(document).ready(function () {
 setTimeout(() => {
 	$('.load-anim').addClass('disable');
 	$('body').addClass('animate-body');
-}, 1000);
+}, 1500);

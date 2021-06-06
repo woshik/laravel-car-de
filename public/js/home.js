@@ -2045,7 +2045,7 @@ $(document).ready(function () {
 setTimeout(() => {
 	$('.load-anim').addClass('disable');
 	$('body').addClass('animate-body');
-}, 1000);
+}, 1500);
 $(document).ready(function () {
     $(".scroll-down-box-over").click(function () {
         $("body,html").animate({ scrollTop: $(window).height() }, 800);

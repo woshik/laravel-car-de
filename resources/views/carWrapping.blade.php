@@ -22,7 +22,7 @@
                 <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
                         <img class="box-left-text-right-image__img"
-                            src="/images/feature-images/AutofolierungSchweiz---Bild-Nr.1-.png" alt="" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/AutofolierungSchweiz---Bild-Nr.1-.png" />
                     </div>
                     <div class="row">
                         <div>
@@ -45,7 +45,7 @@
                     </div>
                     <div class="row box-left-text-right-image-pc">
                         <img class="box-left-text-right-image__img lazy"
-                            src="/images/feature-images/AutofolierungSchweiz---Bild-Nr.1-.png" alt="" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/AutofolierungSchweiz---Bild-Nr.1-.png" />
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@
             <div class="wrapper">
                 <div class="box-left-image-right-text">
                     <div class="row"><img class="box-left-image-right-text__img"
-                            src="/images/feature-images/Orange Chrom Matte.png" alt="">
+                            src="https://github.com/woshik/laravel-car-de/blob/main/public/images/feature-images/Orange%20Chrom%20Matte.png?raw=true">
                     </div>
                     <div class="row">
                         <div style="width: 555px;">
@@ -77,7 +77,7 @@
 
                                 <button onclick="openContactModal()"
                                     class="nice-btn plenka-modal-decor-btn custom-button-style" style="padding: 5px 0">
-                                    <img width="60%" src="/images/extra/button.png" />
+                                    <img width="60%" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/extra/button.png" />
                                 </button>
                             </span>
                         </div>
@@ -92,7 +92,7 @@
                 <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
                         <img class="box-left-text-right-image__img lazy"
-                            src="/images/feature-images/BMW Z4 - Chrom Matte Folierung_.png" alt="">
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/BMW%20Z4%20-%20Chrom%20Matte%20Folierung_.png">
                     </div>
                     <div class="row">
                         <div>
@@ -121,7 +121,7 @@
                     </div>
                     <div class="row box-left-text-right-image-pc">
                         <img class="box-left-text-right-image__img lazy"
-                            src="/images/feature-images/BMW Z4 - Chrom Matte Folierung_.png" alt="">
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/BMW%20Z4%20-%20Chrom%20Matte%20Folierung_.png">
                     </div>
                 </div>
             </div>
@@ -136,35 +136,35 @@
             <div class="wrapper">
                 <div class="div-table">
                     <div class="row-4">
-                        <i class="info-icon" style="background: url(/images/test-copy-2.svg);"></i>
+                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-2.svg"></i>
                         <span class="name-icon-box">3 Phasen Handwäsche</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon" style="background: url(/images/test-copy-5.svg);"></i>
+                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-5.svg"></i>
                         <span class="name-icon-box">Lackzusstandskontrolle</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon" style="background: url(/images/test-copy-4.svg);"></i>
+                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-4.svg"></i>
                         <span class="name-icon-box">fachgerechte Demontage</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon" style="background: url(/images/test-copy-3.svg);"></i>
+                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-3.svg"></i>
                         <span class="name-icon-box">Wax, Kleberesteentfernung <br> und Entfetten</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon" style="background: url(/images/test-copy.svg);"></i>
+                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy.svg"></i>
                         <span class="name-icon-box">fachgerechte Folierung <br> vom Profi</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon" style="background: url(/images/test-copy-6.svg);"></i>
+                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-6.svg"></i>
                         <span class="name-icon-box">fachgerechte Montage</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon" style="background: url(/images/test-copy-12.svg);"></i>
+                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-12.svg"></i>
                         <span class="name-icon-box">Aufbereitung <br> zur Auslieferung</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon" style="background: url(/images/test-copy-11.svg);"></i>
+                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-11.svg"></i>
                         <span class="name-icon-box">Qualitätskontrolle</span>
                     </div>
                 </div>
@@ -177,7 +177,7 @@
                 <div class="box-left-image-right-text">
                     <div class="row">
                         <img class="box-left-image-right-text__img"
-                            src="/images/feature-images/Bild-3-I-Wrapping.png" alt="">
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Bild-3-I-Wrapping.png">
                     </div>
                     <div class="row">
                         <div>
@@ -276,7 +276,7 @@
                     </div>
                     <div class="row-form-box pc-box-footer-form">
                         <img class="box-left-text-right-image__img"
-                            src="/images/feature-images/Manufaktur-Folien-Schweiz---gross.png" alt="" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Manufaktur-Folien-Schweiz---gross.png" />
                     </div>
                 </div>
             </div>
