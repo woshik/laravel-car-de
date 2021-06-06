@@ -22,7 +22,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car10.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car10.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -40,7 +40,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car10.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car10.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -50,7 +50,7 @@
     <div class="background-website">
         <section class="section-deteiling-page-1">
             <div class="background-col-8-icons">
-                <img class="parallax" src="/images/p67png" alt="" />
+                <img class="parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/p67png" alt="" />
             </div>
             <h2 class="zag text-center">Detailing capabilities</h2>
             <p class="sup-light text-center">
@@ -60,45 +60,45 @@
                 <div class="div-table">
                     <div class="row-4">
                         <i class="info-icon" style="
-                                    background: url(/images/deteiling-info-7.svg);
+                                    background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/deteiling-info-7.svg);
                                 "></i>
                         <span class="name-icon-box">Leather</span>
                     </div>
                     <div class="row-4">
                         <i class="info-icon" style="
-                                    background: url(/images/deteiling-info-6.svg);
+                                    background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/deteiling-info-6.svg);
                                 "></i>
                         <span class="name-icon-box">Body</span>
                     </div>
                     <div class="row-4">
                         <i class="info-icon" style="
-                                    background: url(/images/deteiling-info-5.svg);
+                                    background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/deteiling-info-5.svg);
                                 "></i>
                         <span class="name-icon-box">Glass</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon" style="background: url(/images/test-copy-19.svg)"></i>
+                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-19.svg)"></i>
                         <span class="name-icon-box">Chromium</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon" style="background: url(/images/glass-copy.svg)"></i>
+                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/glass-copy.svg)"></i>
                         <span class="name-icon-box">Disks</span>
                     </div>
                     <div class="row-4">
                         <i class="info-icon" style="
-                                    background: url(/images/deteiling-info-3.svg);
+                                    background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/deteiling-info-3.svg);
                                 "></i>
                         <span class="name-icon-box">Rubber</span>
                     </div>
                     <div class="row-4">
                         <i class="info-icon" style="
-                                    background: url(/images/deteiling-info-1.svg);
+                                    background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/deteiling-info-1.svg);
                                 "></i>
                         <span class="name-icon-box">Dashboard</span>
                     </div>
                     <div class="row-4">
                         <i class="info-icon" style="
-                                    background: url(/images/deteiling-info-2.svg);
+                                    background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/deteiling-info-2.svg);
                                 "></i>
                         <span class="name-icon-box">Carpets</span>
                     </div>
@@ -142,7 +142,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car11.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car11.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -165,7 +165,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img parallax lazy loaded" src="/images/car11.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax lazy loaded" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car11.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -178,7 +178,7 @@
             <div class="wrapper">
                 <div class="box-left-image-right-text">
                     <div class="row">
-                        <img class="box-left-image-right-text__img parallax" src="/images/car12.png" alt="" />
+                        <img class="box-left-image-right-text__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car12.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -244,7 +244,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car13.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car13.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -267,7 +267,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img parallax lazy loaded" src="/images/car13.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax lazy loaded" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car13.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -280,7 +280,7 @@
             <div class="wrapper">
                 <div class="box-left-image-right-text">
                     <div class="row">
-                        <img class="box-left-image-right-text__img parallax" src="/images/car14.png" alt="" />
+                        <img class="box-left-image-right-text__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car14.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -353,7 +353,7 @@
             <div class="wrapper">
                 <div class="box-left-image-right-text">
                     <div class="row">
-                        <img class="box-left-image-right-text__img parallax" src="/images/car15.png" alt="" />
+                        <img class="box-left-image-right-text__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car15.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -394,32 +394,32 @@
                 <div class="div-table">
                     <div class="row-3">
                         <i class="info-icon" style="
-                                    background: url(/images/test-copy-5-1.svg);
+                                    background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-5-1.svg);
                                 "></i>
                         <span class="name-icon-box">Body - perfect polish</span>
                     </div>
                     <div class="row-3">
                         <i class="info-icon" style="
-                                    background: url(/images/test-copy-12-1.svg);
+                                    background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-12-1.svg);
                                 "></i>
                         <span class="name-icon-box">Application of silicon composition</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(/images/handshake.svg)"></i>
+                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/handshake.svg)"></i>
                         <span class="name-icon-box">Drying with special equipment</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(/images/test-copy-16.svg)"></i>
+                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-16.svg)"></i>
                         <span class="name-icon-box">Temperature control</span>
                     </div>
                     <div class="row-3">
                         <i class="info-icon" style="
-                                    background: url(/images/test-copy-11-1.svg);
+                                    background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-11-1.svg);
                                 "></i>
                         <span class="name-icon-box">Control inspection</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(/images/test-copy-17.svg)"></i>
+                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-17.svg)"></i>
                         <span class="name-icon-box">Car delivery</span>
                     </div>
                 </div>
@@ -432,7 +432,7 @@
             <div class="wrapper">
                 <div class="div-table">
                     <div class="row-form-box mobile-box-footer-form">
-                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car16.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car16.png" alt="" />
                     </div>
                     <div class="row-form-box">
                         <h2 class="zag">Order detailing services</h2>
@@ -466,7 +466,7 @@
                         </div>
                     </div>
                     <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img parallax lazy" src="/images/car16.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car16.png" alt="" />
                     </div>
                 </div>
             </div>

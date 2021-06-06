@@ -31,32 +31,32 @@
                 <div class="div-table">
                     <div class="row-4">
                         <span class="name-icon-box box-icon-top-text">100% Steinschlagschutz</span>
-                        <i class="info-icon box-icon-custom-style"
-                            style="background: url(/images/icon/rocket-icon.svg);"></i>
+                        <i class="info-icon box-icon-custom-style lazy"
+                            data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/rocket-icon.svg"></i>
                         <span class="name-icon-box box-icon-top-text no-height">ROCK SOLID TOPCOAT</span>
                         <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Besonders robuste
                             Oberflache</span>
                     </div>
                     <div class="row-4">
                         <span class="name-icon-box box-icon-top-text">Selbstheilungseffekt</span>
-                        <i class="info-icon box-icon-custom-style"
-                            style="background: url(/images/icon/heart-icon.svg);"></i>
+                        <i class="info-icon box-icon-custom-style lazy"
+                            data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/heart-icon.svg"></i>
                         <span class="name-icon-box box-icon-top-text no-height">INSTANT SELF HEALING</span>
                         <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Selbstheilung bei
                             Raumtemperatur</span>
                     </div>
                     <div class="row-4">
                         <span class="name-icon-box box-icon-top-text">Hydrophope oberfäche</span>
-                        <i class="info-icon box-icon-custom-style"
-                            style="background: url(/images/icon/drop-icon.svg);"></i>
+                        <i class="info-icon box-icon-custom-style lazy"
+                            data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/drop-icon.svg"></i>
                         <span class="name-icon-box box-icon-top-text no-height">EXTREM HYDROPHOB</span>
                         <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Oberflache wie
                             nanoversiegelt</span>
                     </div>
                     <div class="row-4">
                         <span class="name-icon-box box-icon-top-text">Super Flexibel - 3D verlegbar</span>
-                        <i class="info-icon box-icon-custom-style"
-                            style="background: url(/images/icon/web-icon.svg);"></i>
+                        <i class="info-icon box-icon-custom-style lazy"
+                            data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/web-icon.svg"></i>
                         <span class="name-icon-box box-icon-top-text no-height">DRIVEN TO DELIGHT</span>
                         <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Support &amp;
                             Kundenservice</span>
@@ -123,13 +123,13 @@
         <section class="section-main-garant custom-slider-style">
             <div class="slick-slider">
                 <div><a href="https://www.hexis-graphics.com/fr/" target="_blank" rel="nofollow"><img
-                            src="/images/brand/bodyfencelong.png" /></a></div>
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/bodyfencelong.png" /></a></div>
                 <div><a href="https://rocketguard.shop/" target="_blank" rel="nofollow"><img
-                            src="/images/brand/RocketGuard Logo-03.png"></a></div>
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/RocketGuard Logo-03.png"></a></div>
                 <div><a href="https://www.scotchgard.com/3M/en_US/scotchgard/" target="_blank" rel="nofollow"><img
-                            src="/images/brand/scotchguard3Mweiss-01.png"></a></div>
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/scotchguard3Mweiss-01.png"></a></div>
                 <div><a href="https://www.xpel.com/" target="_blank" rel="nofollow"><img
-                            src="/images/brand/XPEL_White.png"></a></div>
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/XPEL_White.png"></a></div>
             </div>
         </section>
     </div>
@@ -140,7 +140,7 @@
                 <div class="box-left-image-right-text">
                     <div class="row">
                         <img class="box-left-image-right-text__img "
-                            src="/images/feature-images/Lackschutzfolien Bild 1-02.png" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Lackschutzfolien Bild 1-02.png" />
                     </div>
                     <div class="row">
                         <div>
@@ -190,7 +190,7 @@
                 <div class="box-left-image-right-text">
                     <div class="row box-left-image-right-text__img"
                         style="display: flex;justify-content: center;align-items: center;">
-                        <img class="box-left-image-right-text__img tonirovka-fon" src="/images/slider/ppf-1.png" />
+                        <img class="box-left-image-right-text__img tonirovka-fon" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/ppf-1.png" />
                     </div>
                     <div class="row display-flex-center">
                         <div class="tonirovka-info-box"
@@ -315,7 +315,7 @@
                 </div>
                 <div class="row-form-box pc-box-footer-form">
                     <img class="box-left-text-right-image__img lazy"
-                        src="/images/feature-images/Lackschutzfolien Bild 2-02-03.png" />
+                        src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Lackschutzfolien Bild 2-02-03.png" />
                 </div>
             </div>
         </div>

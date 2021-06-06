@@ -25,7 +25,7 @@
                 <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
                         <img class="box-left-text-right-image__img lazy"
-                            src="/images/feature-images/Scheibentönung-BIld-1.png" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-1.png" />
                     </div>
                     <div class="row">
                         <div>
@@ -49,7 +49,7 @@
                     </div>
                     <div class="row box-left-text-right-image-pc">
                         <img class="box-left-text-right-image__img"
-                            src="/images/feature-images/Scheibentönung-BIld-1.png" alt="" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-1.png" alt="" />
                     </div>
                     <div></div>
                 </div>
@@ -65,8 +65,8 @@
                     <div class="row box-left-image-right-text__img"
                         style="display: flex;justify-content: center;align-items: center;">
                         <img class="box-left-image-right-text__img tonirovka-fon"
-                            src="/images/slider/background.png" />
-                        <img class="box-left-image-right-text__img tonirovka-back" src="/images/slider/tint.png"
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/background.png" />
+                        <img class="box-left-image-right-text__img tonirovka-back" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/tint.png"
                             style="opacity: 0.4" />
                     </div>
                     <div class="row display-flex-center">
@@ -131,7 +131,7 @@
                 <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
                         <img class="box-left-text-right-image__img lazy"
-                            src="/images/feature-images/Scheibentönung-BIld--3.png" alt="" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld--3.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -159,7 +159,7 @@
                     </div>
                     <div class="row box-left-text-right-image-pc">
                         <img class="box-left-text-right-image__img lazy loaded"
-                            src="/images/feature-images/Scheibentönung-BIld--3.png" alt="" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld--3.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -208,7 +208,7 @@
                     </div>
                     <div class="row-form-box pc-box-footer-form">
                         <img class="box-left-text-right-image__img lazy"
-                            src="/images/feature-images/Scheibentönung-BIld-4.png" alt="" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-4.png" alt="" />
                     </div>
                 </div>
             </div>

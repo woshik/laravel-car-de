@@ -24,7 +24,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img lazy" src="/images/s1.png" alt="">
+                        <img class="box-left-text-right-image__img lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/s1.png" alt="">
                     </div>
                     <div class="row">
                         <div>
@@ -52,7 +52,7 @@
 
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img lazy" src="/images/s1.png" alt="">
+                        <img class="box-left-text-right-image__img lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/s1.png" alt="">
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
             <div class="wrapper">
                 <div class="box-left-image-right-text">
                     <div class="row">
-                        <img class="box-left-image-right-text__img parallax" src="/images/car9.png" alt="">
+                        <img class="box-left-image-right-text__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car9.png" alt="">
                     </div>
                     <div class="row">
                         <div>
@@ -90,7 +90,7 @@
 
     <div class="background-website">
         <section class="section-deteiling-page-1">
-            <div class="background-col-8-icons"><img class="parallax" src="/images/C-bg.png"
+            <div class="background-col-8-icons"><img class="parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/C-bg.png"
                     data-paroller-factor="-0.3" data-paroller-type="foreground" data-paroller-direction="vertical">
             </div>
             <h2 class="zag text-center">WIE GESTALTEST DU DEINE EIGENE FOLIE?</h2>
@@ -98,27 +98,27 @@
             <div class="wrapper">
                 <div class="div-table">
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(/images/micro.svg);"></i>
+                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/micro.svg);"></i>
                         <span class="name-icon-box">Interview</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(/images/design.svg);"></i>
+                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/design.svg);"></i>
                         <span class="name-icon-box">Designerstellung</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(/images/handshake.svg);"></i>
+                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/handshake.svg);"></i>
                         <span class="name-icon-box">Deal mit dem Grafiker</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(/images/test-copy-11-1.svg);"></i>
+                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-11-1.svg);"></i>
                         <span class="name-icon-box">Offerte zur Umsetzung</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(/images/table-printer.svg);"></i>
+                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/table-printer.svg);"></i>
                         <span class="name-icon-box">Druck auf Folie</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(/images/test-copy-1.svg);"></i>
+                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-1.svg);"></i>
                         <span class="name-icon-box">Folierung</span>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img parallax" src="/images/car20.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car20.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -150,7 +150,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img parallax" src="/images/car20.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car20.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -162,7 +162,7 @@
             <div class="wrapper">
                 <div class="box-left-image-right-text">
                     <div class="row">
-                        <img class="box-left-text-right-image__img parallax" src="/images/car21.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car21.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -223,7 +223,7 @@
                         </div>
                     </div>
                     <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img parallax" src="/images/car19.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car19.png" alt="" />
                     </div>
                 </div>
             </div>

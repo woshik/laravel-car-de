@@ -81,7 +81,7 @@ function sliderbulets() {
 			slide: function (event, ui) {
 				$number = ui.value;
 				if ($number == 1) {
-					$('.tonirovka-fon').attr('src', '/images/slider/ppf-1.png');
+					$('.tonirovka-fon').attr('src', 'https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/ppf-1.png');
 					$('#name-tonirovka').val('CR 40');
 					$('.range-text').html(
 						`
@@ -92,7 +92,7 @@ function sliderbulets() {
 					);
 				}
 				if ($number == 2) {
-					$('.tonirovka-fon').attr('src', '/images/slider/ppf-2.png');
+					$('.tonirovka-fon').attr('src', 'https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/ppf-2.png');
 					$('#name-tonirovka').val('CR 50');
 					$('.range-text').html(
 						`
@@ -104,7 +104,7 @@ function sliderbulets() {
 					);
 				}
 				if ($number == 3) {
-					$('.tonirovka-fon').attr('src', '/images/slider/ppf-3.png');
+					$('.tonirovka-fon').attr('src', 'https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/ppf-3.png');
 					$('#name-tonirovka').val('CR 60');
 					$('.range-text').html(
 						`
@@ -118,7 +118,7 @@ function sliderbulets() {
 					);
 				}
 				if ($number == 4) {
-					$('.tonirovka-fon').attr('src', '/images/slider/ppf-4.png');
+					$('.tonirovka-fon').attr('src', 'https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/ppf-4.png');
 					$('#name-tonirovka').val('CR 70');
 					$('.range-text').html(
 						`
