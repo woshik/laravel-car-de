@@ -121,15 +121,9 @@
                         <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
                             <div class="screen-reader-response"></div>
                             <form action="/#wpcf7-f121-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-                                <div style="display: none;">
-                                    <input type="hidden" name="_wpcf7" value="121" />
-                                    <input type="hidden" name="_wpcf7_version" value="5.1" />
-                                    <input type="hidden" name="_wpcf7_locale" value="ru_RU" />
-                                    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f121-o1" />
-                                    <input type="hidden" name="_wpcf7_container_post" value="0" />
-                                    <input type="hidden" name="g-recaptcha-response" value="" />
-                                </div>
-                                <p><input type="text" name="your-name" value="" size="40"
+                              
+                                <p>
+                                    <input type="text" name="your-name" value="" size="40"
                                         class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-form"
                                         id="name" autocomplete="name" aria-required="true" aria-invalid="false"
                                         placeholder="&nbsp;" /><label for="name" class="label-form">Name</label><br />
@@ -138,7 +132,8 @@
                                         id="tel" aria-required="true" aria-invalid="false" placeholder="&nbsp;" /><label
                                         for="tel" class="label-form">Telefonnummer</label>
                                 </p>
-                                <p><input type="submit" value="KONTAKT ANFORDERN" class="wpcf7-form-control wpcf7-submit" />
+                                <p>
+                                    <input type="submit" value="KONTAKT ANFORDERN" class="wpcf7-form-control wpcf7-submit" />
                                 </p>
                                 <div class="wpcf7-response-output wpcf7-display-none"></div>
                             </form>

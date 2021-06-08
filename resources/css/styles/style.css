@@ -10455,3 +10455,8 @@ button.swiper-pagination-bullet {
 .padding-bottom-0 {
   padding-bottom: 0;
 }
+
+.element-center {
+  display: flex;
+  justify-content: center;
+}

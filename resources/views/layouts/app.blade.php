@@ -28,8 +28,10 @@
         @yield('content')
     </div>
 
-    @include('partials.footer')
-
+    @section('footer')
+        @include('partials.footer')
+    @show
+    
     @yield('script-file')
 
 </body>
