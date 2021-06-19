@@ -9,21 +9,6 @@
     margin: 0 auto;
 }
 
-.contact-submit-button {
-    background: #3075bb;
-    color: #fff;
-    border: initial;
-    padding: 12px;
-    font-size: .8rem;
-    text-transform: uppercase;
-    font-family: supermolot-regular;
-    text-align: center;
-    width: 250px;
-    transition: all 0.3s;
-    outline: none;
-    cursor: pointer;
-}
-
 @media only screen and (max-width: 920px) {
     .contact-wrapper {
         width: 90%;

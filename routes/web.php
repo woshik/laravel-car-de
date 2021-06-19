@@ -41,3 +41,5 @@ use Illuminate\Support\Facades\Route;
 
     Route::get('/car-wrapping-design', [CarWrappingDesign::class, 'view'])->name('car-wrapping-design');
 
+    Route::post('/send-mail', [Contact::class, 'sendEmail'])->name('send-email');
+

@@ -119,24 +119,7 @@
                     <div class="row-form-box contact-form-box">
                         <h2 class="zag">LASSEN SIE SICH<br />VON UNS BERATEN</h2>
                         <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
-                            <div class="screen-reader-response"></div>
-                            <form action="/#wpcf7-f121-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-                              
-                                <p>
-                                    <input type="text" name="your-name" value="" size="40"
-                                        class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-form"
-                                        id="name" autocomplete="name" aria-required="true" aria-invalid="false"
-                                        placeholder="&nbsp;" /><label for="name" class="label-form">Name</label><br />
-                                    <input type="tel" name="tel-178" value="" size="40"
-                                        class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel input-form"
-                                        id="tel" aria-required="true" aria-invalid="false" placeholder="&nbsp;" /><label
-                                        for="tel" class="label-form">Telefonnummer</label>
-                                </p>
-                                <p>
-                                    <input type="submit" value="KONTAKT ANFORDERN" class="wpcf7-form-control wpcf7-submit" />
-                                </p>
-                                <div class="wpcf7-response-output wpcf7-display-none"></div>
-                            </form>
+                            <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT ANFORDERN</button>
                         </div>
                     </div>
                     <div class="row-form-box pc-box-footer-form">

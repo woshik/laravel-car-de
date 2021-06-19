@@ -1,3 +1,4 @@
+let timer = null
 $(document).ready(function () {
     $(".scroll-down-box-over").click(function () {
         $("body,html").animate({ scrollTop: $(window).height() }, 800);
@@ -41,6 +42,63 @@ $(document).ready(function () {
     $(".close-modal").click(function () {
         $("#contact-modal").toggleClass("active-modal");
     });
+
+    $("#contact-form").unbind('submit').bind('submit', function(e) {
+        e.preventDefault()
+
+        var form = $(this);
+		var url = form.attr('action');
+		var type = form.attr('method');
+
+        $.ajax({
+			url: url,
+			type: type,
+			data: form.serialize(),
+			dataType: 'json',
+            beforeSend: function() {
+                $("#contact-form-button").prop("disabled",true);
+            },
+			success: function(res) {
+                if (res.success) {
+                    $("#success-alert-message").text(res.success)
+                    $("#success-alert-box").fadeIn("slow")
+                    $("#contact-form")[0].reset();
+
+                    clearTimeout(timer)
+                    timer = setTimeout(() => {
+                        $("#success-alert-box").fadeOut("slow")
+                    }, 5000);
+                }
+            },
+            error: function(err) {
+                const errResponse = err.responseJSON
+                let errorArray
+                
+                if (!errResponse) {
+                    return;
+                }
+
+                for (const key in errResponse.errors) {
+                    if (Object.hasOwnProperty.call(errResponse.errors, key)) {
+                        errorArray = errResponse.errors[key];
+                    }
+                }
+
+                if (Array.isArray(errorArray) && errorArray.length) {
+                    $("#danger-alert-message").text(errorArray[0])
+                    $("#danger-alert-box").fadeIn("slow")
+                }
+
+                clearTimeout(timer)
+                timer = setTimeout(() => {
+                    $("#danger-alert-box").fadeOut("slow")
+                }, 5000);
+            },
+            complete: function () {
+                $("#contact-form-button").prop("disabled",false);
+            }
+        })
+    })
 });
 
 document.addEventListener("DOMContentLoaded", function () {

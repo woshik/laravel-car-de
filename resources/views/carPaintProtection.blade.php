@@ -101,7 +101,7 @@
                 </div>
             </div>
             <button class="nice-btn">
-                <i></i><span class="zadat-vopros-modal-form-btn">MEHR DAZU</span><i></i>
+                <i></i><span class="zadat-vopros-modal-form-btn" onclick="openContactModal()">MEHR DAZU</span><i></i>
             </button>
             <div class="info-box-ragant">
                 <div class="icon-garant-box"></div>
@@ -203,7 +203,7 @@
                                 <p class="ppf-info"> - Stossstange vorne</p>
                                 <p class="ppf-info"> - Spiegelkappen</p>
                             </div>
-                            <a href="./contact.html" class="blue-btn-form range-modal-form-btn">
+                            <a href="javascript:void(0)" onclick="openContactModal()" class="blue-btn-form range-modal-form-btn">
                                 Termin zur Beratung
                             </a>
                         </div>
@@ -287,30 +287,7 @@
                     </h2>
                     <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
                         <div class="screen-reader-response"></div>
-                        <form action="/#wpcf7-f121-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-                            <div style="display: none">
-                                <input type="hidden" name="_wpcf7" value="121" />
-                                <input type="hidden" name="_wpcf7_version" value="5.1" />
-                                <input type="hidden" name="_wpcf7_locale" value="ru_RU" />
-                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f121-o1" />
-                                <input type="hidden" name="_wpcf7_container_post" value="0" />
-                                <input type="hidden" name="g-recaptcha-response" value="" />
-                            </div>
-                            <p>
-                                <input type="text" name="your-name" value="" size="40"
-                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-form" id="name"
-                                    autocomplete="name" aria-required="true" aria-invalid="false"
-                                    placeholder="&nbsp;" /><label for="name" class="label-form">Name</label><br />
-                                <input type="tel" name="tel-178" value="" size="40"
-                                    class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel input-form"
-                                    id="tel" aria-required="true" aria-invalid="false" placeholder="&nbsp;" /><label
-                                    for="tel" class="label-form">Telefonnummer</label>
-                            </p>
-                            <p>
-                                <input type="submit" value="KONTAKT ANFORDERN" class="wpcf7-form-control wpcf7-submit" />
-                            </p>
-                            <div class="wpcf7-response-output wpcf7-display-none"></div>
-                        </form>
+                        <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT ANFORDERN</button>
                     </div>
                 </div>
                 <div class="row-form-box pc-box-footer-form">

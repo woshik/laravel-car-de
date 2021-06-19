@@ -24,13 +24,15 @@
 
     @include('partials.navbar')
     
-    <div class="animsition">
+    <div>
         @yield('content')
     </div>
 
     @section('footer')
         @include('partials.footer')
     @show
+
+    @include('partials.popup-contact')
     
     @yield('script-file')
 
