@@ -28,6 +28,6 @@ class ContactEmail extends Mailable
      */
     public function build()
     {
-        return $this->markdown('emails.contact')->from(env('MAIL_FROM_ADDRESS'));
+        return $this->markdown('emails.contact')->from(env('MAIL_FROM_ADDRESS'))->subject('Kontakt eMail');
     }
 }
