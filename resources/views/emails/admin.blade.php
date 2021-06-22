@@ -1,5 +1,6 @@
 @component('mail::message')
-# Introduction
+
+Gratulation!!! <br />
 
 <p>
     Name: {{ $name }}
@@ -18,9 +19,11 @@
 </p>
 
 @component('mail::button', ['url' => config('app.url')])
-Website
+{{ config('app.name') }}
 @endcomponent
 
-Thanks,<br>
-{{ config('app.name') }}
+Vielen Dank,<br />
+{{ config('app.name') }} Team <br />
+Grosswisstrasse 7<br />
+8548 Ellikon an der Thur
 @endcomponent

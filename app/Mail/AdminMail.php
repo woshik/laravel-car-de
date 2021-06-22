@@ -29,6 +29,6 @@ class AdminMail extends Mailable
      */
     public function build()
     {
-        return $this->markdown('emails.admin', $this->data)->from(env('MAIL_FROM_ADDRESS'));
+        return $this->markdown('emails.admin', $this->data)->from(env('MAIL_FROM_ADDRESS'))->subject('Kontakt eMail');
     }
 }
