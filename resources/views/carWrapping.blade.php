@@ -55,8 +55,8 @@
         <section class="section-main-page-1">
             <div class="wrapper">
                 <div class="box-left-image-right-text">
-                    <div class="row"><img class="box-left-image-right-text__img"
-                            src="https://github.com/woshik/laravel-car-de/blob/main/public/images/feature-images/Orange%20Chrom%20Matte.png?raw=true">
+                    <div class="row">
+                        <img class="box-left-image-right-text__img" src="https://github.com/woshik/laravel-car-de/blob/main/public/images/feature-images/Orange%20Chrom%20Matte.png?raw=true">
                     </div>
                     <div class="row">
                         <div style="width: 555px;">

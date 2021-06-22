@@ -10469,6 +10469,10 @@ button.swiper-pagination-bullet {
   align-items: center !important;
 }
 
+.justify-content-center {
+  justify-content: center !important;
+}
+
 .ml-4 {
   margin-left: 1rem !important;
 }
@@ -10515,4 +10519,12 @@ button.swiper-pagination-bullet {
   transition: all 0.3s;
   outline: none;
   cursor: pointer;
+}
+
+.image-width-75 {
+  width: 75% !important;
+}
+
+.image-width-100 {
+  width: 100% !important;
 }

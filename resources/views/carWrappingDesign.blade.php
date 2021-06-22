@@ -22,9 +22,9 @@
     <div class="background-website">
         <section class="section-main-page-1">
             <div class="wrapper">
-                <div class="box-left-text-right-image">
+                <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/s1.png" alt="">
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Freebird%20Design%20Profilbild.png" alt="">
                     </div>
                     <div class="row">
                         <div>
@@ -54,8 +54,8 @@
                         </div>
 
                     </div>
-                    <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/s1.png" alt="">
+                    <div class="row box-left-text-right-image-pc d-flex align-items-center justify-content-center">
+                        <img class="box-left-text-right-image__img image-width-75" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Freebird%20Design%20Profilbild.png" alt="">
                     </div>
                 </div>
             </div>
@@ -66,8 +66,8 @@
         <section class="section-main-page-1">
             <div class="wrapper">
                 <div class="box-left-image-right-text">
-                    <div class="row">
-                        <img class="box-left-image-right-text__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car9.png" alt="">
+                    <div class="row d-flex align-items-center justify-content-center">
+                        <img class="box-left-image-right-text__img image-width-100" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car9.png" alt="">
                     </div>
                     <div class="row">
                         <div>
@@ -93,7 +93,7 @@
 
     <div class="background-website">
         <section class="section-deteiling-page-1">
-            <div class="background-col-8-icons"><img class="parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/C-bg.png"
+            <div class="background-col-8-icons"><img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/C-bg.png"
                     data-paroller-factor="-0.3" data-paroller-type="foreground" data-paroller-direction="vertical">
             </div>
             <h2 class="zag text-center">WIE GESTALTEST DU DEINE EIGENE FOLIE?</h2>
@@ -134,7 +134,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car20.png" alt="" />
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Corvette%20folieren_.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -152,8 +152,8 @@
                             </span>
                         </div>
                     </div>
-                    <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car20.png" alt="" />
+                    <div class="row box-left-text-right-image-pc d-flex align-items-center justify-content-center">
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Corvette%20folieren_.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -164,8 +164,8 @@
         <section class="section-main-page-1">
             <div class="wrapper">
                 <div class="box-left-image-right-text">
-                    <div class="row">
-                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car21.png" alt="" />
+                    <div class="row d-flex align-items-center justify-content-center">
+                        <img class="box-left-text-right-image__img image-width-75" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/BMW%20Turbomeister.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -192,20 +192,21 @@
         </section>
     </div>
 
+    <div class="gradient-header-bottom"></div>
     <div class="background-website">
         <section class="section-main-page-7">
             <div class="wrapper">
                 <div class="div-table">
-                    <div class="row-form-box">
-                        <h2 class="zag">FINDE MEHR DAZU RAUS</br>
-                            ÜBER EIN DESIGN AUF IHREM AUTO</h2>
+                    <div class="row-form-box contact-form-box">
+                        <h2 class="zag">FINDE MEHR DAZU RAUS <br />
+                            ÜBER EIN DESIGN AUF IHREM AUTO
+                        </h2>
                         <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
-                            <div class="screen-reader-response"></div>
                             <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT ANFORDERN</button>
                         </div>
                     </div>
                     <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car19.png" alt="" />
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/NissanGTRWRap.png" alt="" />
                     </div>
                 </div>
             </div>
