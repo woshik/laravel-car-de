@@ -7,7 +7,6 @@
 @endsection
 
 @section('content')
-
     <div class="header-content back-box top-bg">
         <div class="gradient-header-top parallax-gradient"></div>
         <div class="gradient-header-bottom parallax-gradient"></div>
@@ -25,7 +24,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img lazy" data-src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/home-BMWfolierenSchweiz.png" alt="BMW Folientechnik Schweiz" />
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/home-BMWfolierenSchweiz.png" alt="BMW Folientechnik Schweiz" />
                     </div>
                     <div class="row">
                         <div>
@@ -55,7 +54,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img lazy" data-src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/home-BMWfolierenSchweiz.png" alt="BMW Folientechnik Schweiz" />
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/home-BMWfolierenSchweiz.png" alt="BMW Folientechnik Schweiz" />
                     </div>
                 </div>
             </div>
@@ -70,23 +69,19 @@
             <div class="wrapper">
                 <div class="info-box ">
                     <div class="row-4">
-                        <span class="cifra-info"> <b class="b-count"><span class="numscroller" data-min="1" data-max="485"
-                                    data-delay="5" data-increment="2">485</span></b> </span>
+                        <span class="cifra-info"> <b class="b-count"><span class="numscroller">485</span></b></span>
                         <p class="roboto-regular">Anfragen</p>
                     </div>
                     <div class="row-4">
-                        <span class="cifra-info"> <b class="b-count"><span class="numscroller" data-min="1" data-max="47"
-                                    data-delay="5" data-increment="1">47</span></b> </span>
+                        <span class="cifra-info"> <b class="b-count"><span class="numscroller">47</span></b></span>
                         <p class="roboto-regular">Abgeschlossene Arbeiten</p>
                     </div>
                     <div class="row-4">
-                        <span class="cifra-info"> <b class="b-count"><span class="numscroller" data-min="1" data-max="3800"
-                                    data-delay="5" data-increment="5">3800</span> +</b> </span>
+                        <span class="cifra-info"> <b class="b-count"><span class="numscroller">3800</span>+</b></span>
                         <p class="roboto-regular">Verklebte Folie</p>
                     </div>
                     <div class="row-4">
-                        <span class="cifra-info"> <b class="b-count"><span class="numscroller" data-min="1" data-max="11"
-                                    data-delay="5" data-increment="1">11</span></b> </span>
+                        <span class="cifra-info"> <b class="b-count"><span class="numscroller">11</span></b></span>
                         <p class="roboto-regular">Zertifizierte Spezialisten</p>
                     </div>
                 </div>
@@ -109,8 +104,6 @@
         </section>
     </div>
 
-
-
     <div class="gradient-header-bottom"></div>
     <div class="background-website">
         <section class="section-main-page-7">
@@ -123,7 +116,7 @@
                         </div>
                     </div>
                     <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img lazy" data-src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/FolierungAuto1.png" />
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/FolierungAuto1.png" />
                     </div>
                 </div>
             </div>

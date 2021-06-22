@@ -1,11 +1,11 @@
 @component('mail::message')
 
-Thanks for browsing my website.
+Gratulation!!! Ihr Anfrage wurde gesendet. In der Regel erhalten Sie eine Antwort binnen 48 Stunden, sollte das ihnen zu lange gehen rufen Sie uns an. +41522428364
 
 @component('mail::button', ['url' => config('app.url')])
-Website
+{{ config('app.name') }}
 @endcomponent
 
-Thanks,<br>
-{{ config('app.name') }}
+Vielen Dank,<br>
+{{ config('app.name') }} Team
 @endcomponent

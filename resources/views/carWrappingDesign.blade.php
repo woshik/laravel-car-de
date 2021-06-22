@@ -24,7 +24,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/s1.png" alt="">
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/s1.png" alt="">
                     </div>
                     <div class="row">
                         <div>
@@ -52,7 +52,7 @@
 
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/s1.png" alt="">
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/s1.png" alt="">
                     </div>
                 </div>
             </div>

@@ -24,7 +24,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img lazy"
+                        <img class="box-left-text-right-image__img"
                             src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-1.png" />
                     </div>
                     <div class="row">
@@ -130,7 +130,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img lazy"
+                        <img class="box-left-text-right-image__img"
                             src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld--3.png" alt="" />
                     </div>
                     <div class="row">
@@ -158,7 +158,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img lazy loaded"
+                        <img class="box-left-text-right-image__img loaded"
                             src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld--3.png" alt="" />
                     </div>
                 </div>
@@ -183,7 +183,7 @@
                         </div>
                     </div>
                     <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img lazy"
+                        <img class="box-left-text-right-image__img"
                             src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-4.png" alt="" />
                     </div>
                 </div>

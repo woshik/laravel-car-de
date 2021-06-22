@@ -7,7 +7,9 @@
 @endsection
 
 @section('content')
-    <video src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/RocketGuard%20SelfHealing_2%20(online-video-cutter.com)_2_2_2.mp4" autoplay muted loop autoplay id="myVideo"></video>
+    <video
+        src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/RocketGuard%20SelfHealing_2%20(online-video-cutter.com)_2_2_2.mp4"
+        autoplay muted loop autoplay id="myVideo"></video>
 
     <header class="header">
         <div class="gradient-header-main-bottom"></div>
@@ -31,32 +33,32 @@
                 <div class="div-table">
                     <div class="row-4">
                         <span class="name-icon-box box-icon-top-text">100% Steinschlagschutz</span>
-                        <i class="info-icon box-icon-custom-style lazy"
-                            data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/rocket-icon.svg"></i>
+                        <i class="info-icon box-icon-custom-style"
+                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/rocket-icon.svg)"></i>
                         <span class="name-icon-box box-icon-top-text no-height">ROCK SOLID TOPCOAT</span>
                         <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Besonders robuste
                             Oberflache</span>
                     </div>
                     <div class="row-4">
                         <span class="name-icon-box box-icon-top-text">Selbstheilungseffekt</span>
-                        <i class="info-icon box-icon-custom-style lazy"
-                            data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/heart-icon.svg"></i>
+                        <i class="info-icon box-icon-custom-style"
+                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/heart-icon.svg)"></i>
                         <span class="name-icon-box box-icon-top-text no-height">INSTANT SELF HEALING</span>
                         <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Selbstheilung bei
                             Raumtemperatur</span>
                     </div>
                     <div class="row-4">
                         <span class="name-icon-box box-icon-top-text">Hydrophope oberfäche</span>
-                        <i class="info-icon box-icon-custom-style lazy"
-                            data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/drop-icon.svg"></i>
+                        <i class="info-icon box-icon-custom-style"
+                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/drop-icon.svg)"></i>
                         <span class="name-icon-box box-icon-top-text no-height">EXTREM HYDROPHOB</span>
                         <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Oberflache wie
                             nanoversiegelt</span>
                     </div>
                     <div class="row-4">
                         <span class="name-icon-box box-icon-top-text">Super Flexibel - 3D verlegbar</span>
-                        <i class="info-icon box-icon-custom-style lazy"
-                            data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/web-icon.svg"></i>
+                        <i class="info-icon box-icon-custom-style"
+                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/web-icon.svg)"></i>
                         <span class="name-icon-box box-icon-top-text no-height">DRIVEN TO DELIGHT</span>
                         <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Support &amp;
                             Kundenservice</span>
@@ -100,8 +102,8 @@
                     </div>
                 </div>
             </div>
-            <button class="nice-btn">
-                <i></i><span class="zadat-vopros-modal-form-btn" onclick="openContactModal()">MEHR DAZU</span><i></i>
+            <button class="nice-btn" onclick="openContactModal()">
+                <i></i><span class="zadat-vopros-modal-form-btn">MEHR DAZU</span><i></i>
             </button>
             <div class="info-box-ragant">
                 <div class="icon-garant-box"></div>
@@ -123,13 +125,17 @@
         <section class="section-main-garant custom-slider-style">
             <div class="slick-slider">
                 <div><a href="https://www.hexis-graphics.com/fr/" target="_blank" rel="nofollow"><img
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/bodyfencelong.png" /></a></div>
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/bodyfencelong.png" /></a>
+                </div>
                 <div><a href="https://rocketguard.shop/" target="_blank" rel="nofollow"><img
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/RocketGuard Logo-03.png"></a></div>
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/RocketGuard Logo-03.png"></a>
+                </div>
                 <div><a href="https://www.scotchgard.com/3M/en_US/scotchgard/" target="_blank" rel="nofollow"><img
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/scotchguard3Mweiss-01.png"></a></div>
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/scotchguard3Mweiss-01.png"></a>
+                </div>
                 <div><a href="https://www.xpel.com/" target="_blank" rel="nofollow"><img
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/XPEL_White.png"></a></div>
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/XPEL_White.png"></a>
+                </div>
             </div>
         </section>
     </div>
@@ -190,7 +196,8 @@
                 <div class="box-left-image-right-text">
                     <div class="row box-left-image-right-text__img"
                         style="display: flex;justify-content: center;align-items: center;">
-                        <img class="box-left-image-right-text__img tonirovka-fon" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/ppf-1.png" />
+                        <img class="box-left-image-right-text__img tonirovka-fon"
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/ppf-1.png" />
                     </div>
                     <div class="row display-flex-center">
                         <div class="tonirovka-info-box"
@@ -203,7 +210,8 @@
                                 <p class="ppf-info"> - Stossstange vorne</p>
                                 <p class="ppf-info"> - Spiegelkappen</p>
                             </div>
-                            <a href="javascript:void(0)" onclick="openContactModal()" class="blue-btn-form range-modal-form-btn">
+                            <a href="javascript:void(0)" onclick="openContactModal()"
+                                class="blue-btn-form range-modal-form-btn">
                                 Termin zur Beratung
                             </a>
                         </div>
@@ -212,10 +220,10 @@
                 <div id="slider" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content">
                     <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" style="left: 0%"></span>
                     <div class="name-slider-range-col number-col-slider-1" style="left: 0%">
-                        <i>Frontschutz<br />light</br></i>
+                        <i>Frontschutz<br />light</i>
                     </div>
                     <div class="name-slider-range-col number-col-slider-2" style="left: 33.33333%">
-                        <i>Frontschutz<br />Standart</br></i>
+                        <i>Frontschutz<br />Standart</i>
                     </div>
                     <div class="name-slider-range-col number-col-slider-3" style="left: 66.666666%">
                         <i>Frontschutz<br />Premium</i>
@@ -233,7 +241,7 @@
     </div>
 
 
-    <section class="section-main-page-3" data-block="7">
+    <section class="section-main-page-3">
         <h2 class="zag text-center">LACKSCHUTZ IN ZAHLEN 2020</h2>
         <div class="gradient-header-top"></div>
         <div class="gradient-header-bottom"></div>
@@ -242,7 +250,7 @@
                 <div class="row-4">
                     <span class="cifra-info">
                         <b class="b-count">
-                            <span class='numscroller' data-min='1' data-max='84' data-delay='5' data-increment='1'></span>
+                            <span class='numscroller'>84</span>
                         </b>
                     </span>
                     <p class="roboto-regular">Frontschutzpakete</p>
@@ -250,8 +258,7 @@
                 <div class="row-4">
                     <span class="cifra-info">
                         <b class="b-count">mehr als
-                            <span class='numscroller' data-min='1' data-max='8000' data-delay='5'
-                                data-increment='10'>8000</span>
+                            <span class='numscroller'>8000</span>
                         </b>
                     </span>
                     <p class="roboto-regular">Steinschläge abgewärt</p>
@@ -259,7 +266,7 @@
                 <div class="row-4">
                     <span class="cifra-info">
                         <b class="b-count">
-                            <span class='numscroller' data-min='1' data-max='48' data-delay='5' data-increment='1'>3</span>
+                            <span class='numscroller'>48</span>
                         </b>
                         <i>Autos</i>
                     </span>
@@ -268,7 +275,7 @@
                 <div class="row-4">
                     <span class="cifra-info">
                         <b class="b-count">
-                            <span class='numscroller' data-min='1' data-max='1825' data-delay='5' data-increment='4'></span>
+                            <span class='numscroller'>1825</span>
                         </b>
                         <i>lfm+</i>
                     </span>
@@ -287,11 +294,12 @@
                     </h2>
                     <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
                         <div class="screen-reader-response"></div>
-                        <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT ANFORDERN</button>
+                        <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT
+                            ANFORDERN</button>
                     </div>
                 </div>
                 <div class="row-form-box pc-box-footer-form">
-                    <img class="box-left-text-right-image__img lazy"
+                    <img class="box-left-text-right-image__img"
                         src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Lackschutzfolien Bild 2-02-03.png" />
                 </div>
             </div>

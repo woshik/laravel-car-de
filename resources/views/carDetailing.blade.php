@@ -22,7 +22,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car10.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car10.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -40,7 +40,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car10.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car10.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -142,7 +142,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car11.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car11.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -165,7 +165,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img parallax lazy loaded" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car11.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax loaded" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car11.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -244,7 +244,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car13.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car13.png" alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -267,7 +267,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img parallax lazy loaded" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car13.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax loaded" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car13.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -432,7 +432,7 @@
             <div class="wrapper">
                 <div class="div-table">
                     <div class="row-form-box mobile-box-footer-form">
-                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car16.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car16.png" alt="" />
                     </div>
                     <div class="row-form-box">
                         <h2 class="zag">Order detailing services</h2>
@@ -442,7 +442,7 @@
                         </div>
                     </div>
                     <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img parallax lazy" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car16.png" alt="" />
+                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car16.png" alt="" />
                     </div>
                 </div>
             </div>

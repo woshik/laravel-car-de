@@ -44,7 +44,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img lazy"
+                        <img class="box-left-text-right-image__img"
                             src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/AutofolierungSchweiz---Bild-Nr.1-.png" />
                     </div>
                 </div>
@@ -91,7 +91,7 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img lazy"
+                        <img class="box-left-text-right-image__img"
                             src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/BMW%20Z4%20-%20Chrom%20Matte%20Folierung_.png">
                     </div>
                     <div class="row">
@@ -120,7 +120,7 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img lazy"
+                        <img class="box-left-text-right-image__img"
                             src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/BMW%20Z4%20-%20Chrom%20Matte%20Folierung_.png">
                     </div>
                 </div>
@@ -136,35 +136,35 @@
             <div class="wrapper">
                 <div class="div-table">
                     <div class="row-4">
-                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-2.svg"></i>
+                        <i class="info-icon" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-2.svg)"></i>
                         <span class="name-icon-box">3 Phasen Handwäsche</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-5.svg"></i>
+                        <i class="info-icon" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-5.svg)"></i>
                         <span class="name-icon-box">Lackzusstandskontrolle</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-4.svg"></i>
+                        <i class="info-icon" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-4.svg)"></i>
                         <span class="name-icon-box">fachgerechte Demontage</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-3.svg"></i>
+                        <i class="info-icon" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-3.svg)"></i>
                         <span class="name-icon-box">Wax, Kleberesteentfernung <br> und Entfetten</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy.svg"></i>
+                        <i class="info-icon" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy.svg)"></i>
                         <span class="name-icon-box">fachgerechte Folierung <br> vom Profi</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-6.svg"></i>
+                        <i class="info-icon" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-6.svg)"></i>
                         <span class="name-icon-box">fachgerechte Montage</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-12.svg"></i>
+                        <i class="info-icon" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-12.svg)"></i>
                         <span class="name-icon-box">Aufbereitung <br> zur Auslieferung</span>
                     </div>
                     <div class="row-4">
-                        <i class="info-icon lazy" data-bg="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-11.svg"></i>
+                        <i class="info-icon" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-11.svg)"></i>
                         <span class="name-icon-box">Qualitätskontrolle</span>
                     </div>
                 </div>
@@ -219,23 +219,19 @@
         <div class="wrapper">
             <div class="info-box ">
                 <div class="row-4">
-                    <span class="cifra-info"> <b class="b-count"><span class='numscroller' data-min='1' data-max='192'
-                                data-delay='5' data-increment='2'>192</span></b> </span>
+                    <span class="cifra-info"> <b class="b-count"><span class='numscroller'>192</span></b> </span>
                     <p class="roboto-regular">abgeschlossene Aufträge</p>
                 </div>
                 <div class="row-4">
-                    <span class="cifra-info"> <b class="b-count"><span class='numscroller' data-min='1' data-max='4852'
-                                data-delay='5' data-increment='20'>4852</span></b> </span>
+                    <span class="cifra-info"> <b class="b-count"><span class='numscroller'>4852</span></b> </span>
                     <p class="roboto-regular">Laufmeter Folie</p>
                 </div>
                 <div class="row-4">
-                    <span class="cifra-info"> <b class="b-count"><span class='numscroller' data-min='1' data-max='16'
-                                data-delay='5' data-increment='1'>16</span></b> </span>
+                    <span class="cifra-info"> <b class="b-count"><span class='numscroller'>16</span></b> </span>
                     <p class="roboto-regular">Designfolierungen</p>
                 </div>
                 <div class="row-4">
-                    <span class="cifra-info"> <b class="b-count"><span class='numscroller' data-min='1' data-max='1420'
-                                data-delay='5' data-increment='1'>1420</span></b> </span>
+                    <span class="cifra-info"> <b class="b-count"><span class='numscroller'>1420</span></b> </span>
                     <p class="roboto-regular">bedruckte Folie</p>
                 </div>
             </div>
