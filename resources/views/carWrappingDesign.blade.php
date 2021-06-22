@@ -29,25 +29,28 @@
                     <div class="row">
                         <div>
                             <h2 class="zag">
-                                Der Beste der Besten!<br />
-                                ALEXANDRA LITUTA
+                                Nur das Beste<br />
+                                von den Besten!
                             </h2>
                             <span class="p-reg roboto-regular">
-                                <p>Seit 2011 pflegen wir engen Kontakt zu einer der Top 3 Car Livery Designer
-                                    dieser Welt. Der in der Szene bekannte Rennwagen Designer Alexander Lituta
-                                    mit dem Hauptsitz in Kiew, designed personlich mit unseren Kunden eine
-                                    individuelle
-                                    Folie die es nur einmal auf dieser Welt gibt.</p>
                                 <p>
-                                    Ob kleine Details oder vollflächiger Digitalprint auf Folie Alexander zaubert
-                                    stets ein
-                                    „Wau“ auf die Strassen. überzeugen Sie sich selbst und holen Sie sich eine
-                                    inspiration
-                                    auf seinem Instagram Account.
+                                    Wir arbeiten seit 2011 intensiv mit den Top 3 Livery
+                                    Designern der Welt zusammen und bieten so das
+                                    beste Know How in Sachen Grafikdesign das es am
+                                    Markt gibt. Mit Grössen wir Freebird Design, Alexander
+                                    Lituta oder TT Studio haben Sie die Qual der Wahl in
+                                    Sachen Digitaldruck Design.
                                 </p>
+                                <p>
+                                    Ob kleine Details oder vollflächige Digitalprints auf
+                                    Folie, Sie erhalten stets indiviuelle und einmalige Designs von uns. Wir zaubern ihnen ein „ Wau “ auf die
+                                    Strasse. 
+                                </p>
+                                <p>überzeugen Sie sich selbst und holen Sie sich eine inspiation auf den Instagram Account von Free Bird Design.</p>
                             </span>
-                            <button class="nice-btn" onclick="openContactModal()"><i></i>hier zur
-                                Gallery<i></i></button>
+                            <button class="nice-btn" onclick="openContactModal()">
+                                <i></i>hier zur Gallery<i></i>
+                            </button>
                         </div>
 
                     </div>
