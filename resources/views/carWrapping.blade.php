@@ -16,7 +16,7 @@
             <p class="h5 sup-light">Die Kunst zu folieren...</p>
         </div>
     </header>
-    <div class="background-website">
+    <div class="background-website background-website-padding-top padding-bottom-0">
         <section class="section-main-page-1">
             <div class="wrapper">
                 <div class="box-left-text-right-image clearfix">
@@ -51,15 +51,15 @@
             </div>
         </section>
     </div>
-    <div class="background-website">
+    <div class="background-website padding-bottom-0">
         <section class="section-main-page-1">
             <div class="wrapper">
-                <div class="box-left-image-right-text">
-                    <div class="row">
-                        <img class="box-left-image-right-text__img" src="https://github.com/woshik/laravel-car-de/blob/main/public/images/feature-images/Orange%20Chrom%20Matte.png?raw=true">
+                <div class="box-left-text-right-image flex-reverse-row clearfix">
+                    <div class="row box-left-text-right-image-mobile">
+                        <img class="box-left-text-right-image__img" src="https://github.com/woshik/laravel-car-de/blob/main/public/images/feature-images/Orange%20Chrom%20Matte.png?raw=true">
                     </div>
                     <div class="row">
-                        <div style="width: 555px;">
+                        <div>
                             <h2 class="zag">FARBFOLIE WÄHLEN...</h2>
                             <span class="p-reg roboto-regular">
                                 <p>Wi r von Folientechnik Schweiz machen Sie sichtbar.</p>
@@ -74,19 +74,26 @@
                                 <p>Um ihre richtige Folienfarbe wählen zu können, haben wir
                                     eine „ Box with Style“ zusammengestellt, die Sie kostenlose
                                     bei uns bestellen können.</p>
-
-                                <button onclick="openContactModal()"
-                                    class="nice-btn plenka-modal-decor-btn custom-button-style" style="padding: 5px 0">
-                                    <img width="60%" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/extra/button.png" />
-                                </button>
+                                <div class="div-flex">
+                                    <button onclick="openContactModal()"
+                                        class="width-260 nice-btn plenka-modal-decor-btn custom-button-style" style="padding: 5px 0">
+                                        <img width="60%" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/extra/button.png" />
+                                    </button>
+                                </div>
+                                
                             </span>
                         </div>
+                    </div>
+                    <div class="row box-left-text-right-image-pc">
+                        <img class="box-left-text-right-image__img"
+                            src="https://github.com/woshik/laravel-car-de/blob/main/public/images/feature-images/Orange%20Chrom%20Matte.png?raw=true" />
                     </div>
                 </div>
             </div>
         </section>
     </div>
-    <div class="background-website">
+
+    <div class="background-website padding-bottom-0">
         <section class="section-main-page-1">
             <div class="wrapper">
                 <div class="box-left-text-right-image clearfix">
@@ -110,12 +117,13 @@
                                     Preisofferte für ihren Farbwechsel mit Folie. Ein Gespräch dazu können Sie hier
                                     buchen.
                                 </p>
-
-
-                                <button onclick="openContactModal()"
-                                    class="nice-btn plenka-modal-protection-btn custom-button-style">
-                                    Jetzt Termin vereinbaren
-                                </button>
+                                
+                                <div class="div-flex">
+                                    <button onclick="openContactModal()"
+                                        class="width-320 nice-btn plenka-modal-protection-btn custom-button-style" style="padding: 5px 0">
+                                        Jetzt Termin vereinbaren
+                                    </button>
+                                </div>
                             </span>
                         </div>
                     </div>
@@ -127,14 +135,14 @@
             </div>
         </section>
     </div>
-    <div class="background-website">
+    <div class="background-website padding-bottom-0">
         <section class="section-deteiling-page-1">
             <h2 class="zag text-center">Was ist in unserem service <br /> inbegriffen?</h2>
             <p class="sup-light text-center">In der Regel dauern unsere Projekte 3 - 7 Werkstage<br>je nach Umfang
                 des
                 Projektes!</p>
             <div class="wrapper">
-                <div class="div-table">
+                <div class="div-flex-wrap">
                     <div class="row-4">
                         <i class="info-icon" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-2.svg)"></i>
                         <span class="name-icon-box">3 Phasen Handwäsche</span>
@@ -174,9 +182,9 @@
     <div class="background-website">
         <section class="section-main-page-1">
             <div class="wrapper">
-                <div class="box-left-image-right-text">
-                    <div class="row">
-                        <img class="box-left-image-right-text__img"
+                <div class="box-left-text-right-image flex-reverse-row clearfix">
+                    <div class="row box-left-text-right-image-mobile">
+                        <img class="box-left-text-right-image__img"
                             src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Bild-3-I-Wrapping.png">
                     </div>
                     <div class="row">
@@ -201,12 +209,16 @@
                                     umsetzen können.</p>
                                 <p>Wir haben somit die Möglkeit nicht nur ihre Farbe zu wechseln sondern können
                                     ihre.</p>
-
-                                <button class="nice-btn" onclick="openContactModal()"><i></i>EIGENE FOLIE
-                                    GESTALTEN...<i></i></button>
-
+                                <div class="div-flex">
+                                    <button class="nice-btn" onclick="openContactModal()"><i></i>EIGENE FOLIE
+                                        GESTALTEN...<i></i></button>
+                                </div>
                             </span>
                         </div>
+                    </div>
+                    <div class="row box-left-text-right-image-pc">
+                        <img class="box-left-text-right-image__img"
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Bild-3-I-Wrapping.png" />
                     </div>
                 </div>
             </div>
@@ -238,20 +250,22 @@
         </div>
     </section>
 
-    <div class="background-website">
+    <div class="gradient-header-bottom"></div>
+    <div class="background-website padding-bottom-top">
         <section class="section-main-page-7">
             <div class="wrapper">
-                <div class="div-table">
-                    <div class="row-form-box">
+                <div class="div-flex">
+                    <div class="row-form-box mobile-box-footer-form">
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Manufaktur-Folien-Schweiz---gross.png" >
+                    </div>
+                    <div class="row-form-box width-mobile-290 contact-form-box">
                         <h2 class="zag">Kontaktieren sie uns...</h2>
                         <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
-                            <div class="screen-reader-response"></div>
                             <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT ANFORDERN</button>
                         </div>
                     </div>
                     <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Manufaktur-Folien-Schweiz---gross.png" />
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Manufaktur-Folien-Schweiz---gross.png" />
                     </div>
                 </div>
             </div>

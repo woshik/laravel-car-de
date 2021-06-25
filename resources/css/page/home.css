@@ -6,3 +6,38 @@
 .slick-slider {
     margin-top: 60px;
 }
+
+/* .background-website-padding-top {
+    padding-top: 120px;
+}
+
+@media (max-width: 1023px) {
+    .box-left-text-right-image .row:nth-child(1) {
+        display: flex !important;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .zag {
+        text-align: center;
+    }
+
+    .p-reg p {
+        text-align: justify;
+    }
+
+    .background-website-padding-top {
+        padding-top: 80px;
+    }
+
+    .site-footer {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+}
+
+@media (max-width: 590px) { 
+    .row-4 {
+        width: 50%;
+    }
+} */

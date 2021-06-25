@@ -19,7 +19,7 @@
             <p class="h5 sup-light">Folierung, Lackschutz und mehr...</p>
         </div>
     </header>
-    <div class="background-website padding-bottom-0">
+    <div class="background-website background-website-padding-top padding-bottom-0">
         <section class="section-main-page-1">
             <div class="wrapper">
                 <div class="box-left-text-right-image clearfix">
@@ -105,11 +105,14 @@
     </div>
 
     <div class="gradient-header-bottom"></div>
-    <div class="background-website">
+    <div class="background-website padding-bottom-top">
         <section class="section-main-page-7">
             <div class="wrapper">
-                <div class="div-table">
-                    <div class="row-form-box contact-form-box">
+                <div class="div-flex">
+                    <div class="row-form-box mobile-box-footer-form">
+                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/FolierungAuto1.png" >
+                    </div>
+                    <div class="row-form-box width-mobile-290 contact-form-box">
                         <h2 class="zag">LASSEN SIE SICH<br />VON UNS BERATEN</h2>
                         <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
                             <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT ANFORDERN</button>
