@@ -13,13 +13,13 @@
     </div>
 
     <header class="header">
-        {{-- <div class="gradient-header-main-bottom"></div> --}}
         <div class="header-content-box">
             <h1 class="h1 sup-bold-Italic">Wir beginnen dort wo<br />Werbetechnik aufhört!</h1>
             <p class="h5 sup-light">Folierung, Lackschutz und mehr...</p>
         </div>
     </header>
-    <div class="background-website background-website-padding-top padding-bottom-0">
+    
+    <div class="background-website box-shadow background-website-padding-top padding-bottom-0">
         <section class="section-main-page-1">
             <div class="wrapper">
                 <div class="box-left-text-right-image clearfix">
@@ -104,7 +104,6 @@
         </section>
     </div>
 
-    <div class="gradient-header-bottom"></div>
     <div class="background-website padding-bottom-top">
         <section class="section-main-page-7">
             <div class="wrapper">

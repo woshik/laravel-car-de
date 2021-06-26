@@ -10637,4 +10637,10 @@ button.swiper-pagination-bullet {
 
 .width-320 {
   width: 320px;
-} 
+}
+
+.box-shadow {
+  -webkit-box-shadow: 0 -37px 70px rgb(0 0 0);
+     -moz-box-shadow: 0 -37px 70px rgb(0 0 0);
+          box-shadow: 0 -37px 70px rgb(0 0 0);
+}
