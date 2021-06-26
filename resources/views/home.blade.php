@@ -13,7 +13,7 @@
     </div>
 
     <header class="header">
-        <div class="gradient-header-main-bottom"></div>
+        {{-- <div class="gradient-header-main-bottom"></div> --}}
         <div class="header-content-box">
             <h1 class="h1 sup-bold-Italic">Wir beginnen dort wo<br />Werbetechnik aufhört!</h1>
             <p class="h5 sup-light">Folierung, Lackschutz und mehr...</p>
