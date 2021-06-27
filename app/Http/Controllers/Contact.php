@@ -22,6 +22,9 @@ class Contact extends Controller
             'telephone' => 'required|max:20',
             'address' => 'required|string|max:100',
             'message' => 'required|string',
+            'captcha' => 'required|captcha'
+        ], [
+            'captcha.captcha' => 'Invalid captcha'
         ]);
 
         $mail = 'info@folientechnik-schweiz.ch';
@@ -41,5 +44,10 @@ class Contact extends Controller
             'success' => 'Email Successfully Sent'
         ], 200);
 
+    }
+
+    public function refreshCaptcha()
+    {
+        return captcha_img('flat');
     }
 }

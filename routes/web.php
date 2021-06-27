@@ -23,23 +23,24 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-    Route::get('/', [Home::class, 'view'])->name('home');
+Route::get('/', [Home::class, 'view'])->name('home');
 
-    Route::get('/services', [Services::class, 'view'])->name('services');
+Route::get('/services', [Services::class, 'view'])->name('services');
 
-    Route::get('/gallery', [Gallery::class, 'view'])->name('gallery');
+Route::get('/gallery', [Gallery::class, 'view'])->name('gallery');
 
-    Route::get('/contact', [Contact::class, 'view'])->name('contact');
+Route::get('/contact', [Contact::class, 'view'])->name('contact');
 
-    Route::get('/car-detailing', [CarDetailing::class, 'view'])->name('car-detailing');
+Route::get('/car-detailing', [CarDetailing::class, 'view'])->name('car-detailing');
 
-    Route::get('/car-paint-protection', [CarPaintProtection::class, 'view'])->name('car-paint-protection');
+Route::get('/car-paint-protection', [CarPaintProtection::class, 'view'])->name('car-paint-protection');
 
-    Route::get('/car-window-tinting', [CarWindowTinting::class, 'view'])->name('car-window-tinting');
+Route::get('/car-window-tinting', [CarWindowTinting::class, 'view'])->name('car-window-tinting');
 
-    Route::get('/car-wrapping', [CarWrapping::class, 'view'])->name('car-wrapping');
+Route::get('/car-wrapping', [CarWrapping::class, 'view'])->name('car-wrapping');
 
-    Route::get('/car-wrapping-design', [CarWrappingDesign::class, 'view'])->name('car-wrapping-design');
+Route::get('/car-wrapping-design', [CarWrappingDesign::class, 'view'])->name('car-wrapping-design');
 
-    Route::post('/send-mail', [Contact::class, 'sendEmail'])->name('send-email');
+Route::post('/send-mail', [Contact::class, 'sendEmail'])->name('send-email');
 
+Route::get('/refresh-captcha', [Contact::class, 'refreshCaptcha']);
