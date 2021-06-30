@@ -7,14 +7,9 @@
                 </div>
                 <div class="footer-block">
                     <div class="footer-content">
-                        <h5 class="sup-bold-Italic">Natelnummer</h5>
-                        <a href="tel:+41522428364" class="link-footer binct-phone-number-2">+41522428364</a>
-                        <a href="tel:+41764900780" class="link-footer binct-phone-number-2">+41764900780</a>
-                    </div>
-                    <div class="footer-content">
                         <h5 class="sup-bold-Italic">E-mail</h5>
                         <span class="email-click link-check" id="tracker-email">
-                            <p>folientechnik.schweiz@gmail.com</p>
+                            <p>info@folientechnik-schweiz.ch</p>
                         </span>
                     </div>
                     <div class="footer-content">
