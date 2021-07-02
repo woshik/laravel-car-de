@@ -9,12 +9,13 @@
     <meta name="facebook-domain-verification" content="t75vcr550qensochjkn88qmulw35eu" />
     <link rel="preconnect" href="https://raw.githubusercontent.com">
     <link rel="dns-prefetch" href="https://raw.githubusercontent.com">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
     @yield('meta')
 
     <link rel="shortcut icon" href="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/logo.ico" type="image/x-icon">
 
-    <title>Folientechnik Schweiz - @yield('title')</title>
+    <title>AUTO FOLIEREN - @yield('title')</title>
 
     @yield('style-file')
 
@@ -58,6 +59,8 @@
     @show
 
     @include('partials.popup-contact')
+
+    @include('partials.social-icon')
     
     @yield('script-file')
 

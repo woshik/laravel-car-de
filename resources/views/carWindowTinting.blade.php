@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Car Window Tinting')
+@section('title', 'Scheiben tönen')
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/car_window_tinting.css') }}">
@@ -13,8 +13,7 @@
         <div class="gradient-header-main-bottom"></div>
         <div class="header-content-box">
             <h1 class="h1 sup-bold-Italic">
-                Black Glass<br />
-                Scheiben tönen
+                Scheiben tönen<br />Black Glass
             </h1>
         </div>
     </header>

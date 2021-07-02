@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Tuning Workshop')
+@section('title', 'Kontakt')
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/contact.css') }}">

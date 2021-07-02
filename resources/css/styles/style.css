@@ -10705,3 +10705,77 @@ button.swiper-pagination-bullet {
   margin-left: 15px;
   font-family: supermolot-regular;
 }
+
+
+/* floting social icon design start */
+.icon-wrapper .awesome-social {
+  font-family: 'FontAwesome' !important
+}
+
+.icon-wrapper {
+  position: fixed;
+  top: 50%;
+  left: 0;
+  z-index: 50;
+  transform: translate(0%, -50%);
+}
+
+.social-icons-links {
+  display: block;
+  outline: 0 !important
+}
+
+.social-icons-links:hover {
+  text-decoration: none !important
+}
+
+.facebook-awesome-social {
+  background: #3b5998;
+  border-color: #3b5998
+}
+
+.instagram-awesome-social {
+  background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  background: -webkit-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f09433', endColorstr='#bc1888', GradientType=1);
+  border-color: #f09433
+}
+
+.whatsapp-awesome-social {
+  background-color: #25d366;
+  color: #ffffff !important;
+}
+
+.awesome-social {
+  margin-top: 2px;
+  color: #fff;
+  text-align: center !important;
+  display: block;
+  line-height: 40px !important;
+  width: 38px !important;
+  height: 38px !important;
+  font-size: 22px !important;
+  -moz-transition: width .5s, height .5s, -webkit-transform .5s;
+  -webkit-transition: width .5s, height .5s, -webkit-transform .5s;
+  transition: width .5s, height .5s, transform .5s; 
+  -webkit-transition-property: color, text;
+  -webkit-transition-duration: .25s, .25s;
+  -webkit-transition-timing-function: linear, ease-in;
+  -moz-transition-property: color, text;
+  -moz-transition-duration: .25s;
+  -moz-transition-timing-function: linear, ease-in;
+  -o-transition-property: color, text;
+  -o-transition-duration: .25s;
+  -o-transition-timing-function: linear, ease-in;
+  transition-property: color, text;
+  transition: .25s, .25s;
+  transition-timing-function: linear, ease-in
+}
+
+.awesome-social:hover {
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -ms-transform: rotate(360deg)
+}

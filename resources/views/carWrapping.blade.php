@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Car Wrapping')
+@section('title', 'CAR WRAPPING')
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/car_wrapping.css') }}">
@@ -28,18 +28,9 @@
                         <div>
                             <h2 class="zag">AUTOFOLIERUNG</h2>
                             <span class="p-reg roboto-regular">
-                                <p>Car Wrapping ist die moderne Art, dass Erscheinungsbild
-                                    ihres Autos zu verändern um sich vom alltagsgrauen Strassenverkehr
-                                    abzuheben.</p>
-                                <p>Sie können eine Farbe aus unserer Farbpalette auswählen
-                                    und wir folieren ihr Fahrzeug in nur wenigen Tagen.
-                                    Mit mehr als 80 verschiedenen Farben und x verschiedenen
-                                    Herstellern, bedruckbare Folie, sensationelle Strukturfolien
-                                    und Designmöglichkeiten, steht ihren Wünschen unglaublich
-                                    wenig im Weg.</p>
-                                <p>Die Folie kann jederzeit sicher und rückstandlos entfernt
-                                    werden, hinterlässt keine Lackschäden und wird bei uns zu
-                                    100% messerlos verarbeitet.</p>
+                                <p>Car Wrapping ist die moderne Art, dass Erscheinungsbild ihres Autos zu verändern um sich vom alltagsgrauen Strassenverkehr abzuheben.</p>
+                                <p>Sie können eine Farbe aus unserer Farbpalette auswählen und wir folieren ihr Fahrzeug in nur wenigen Tagen. Mit mehr als 80 verschiedenen Farben und x verschiedenen Herstellern, bedruckbare Folie, sensationelle Strukturfolien und Designmöglichkeiten, steht ihren Wünschen unglaublich wenig im Weg.</p>
+                                <p>Die Folie kann jederzeit sicher und rückstandlos entfernt werden, hinterlässt keine Lackschäden und wird bei uns zu 100% messerlos verarbeitet.</p>
                             </span>
                         </div>
                     </div>

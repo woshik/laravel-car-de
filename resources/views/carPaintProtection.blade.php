@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Tuning Workshop')
+@section('title', 'Lackschutzfolien')
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/car_paint_protection.css') }}">

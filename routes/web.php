@@ -29,15 +29,15 @@ Route::get('/services', [Services::class, 'view'])->name('services');
 
 Route::get('/gallery', [Gallery::class, 'view'])->name('gallery');
 
-Route::get('/contact', [Contact::class, 'view'])->name('contact');
+Route::get('/kontakt', [Contact::class, 'view'])->name('contact');
 
 Route::get('/car-detailing', [CarDetailing::class, 'view'])->name('car-detailing');
 
-Route::get('/car-paint-protection', [CarPaintProtection::class, 'view'])->name('car-paint-protection');
+Route::get('/lackschutzfolie-steinschlagschutz', [CarPaintProtection::class, 'view'])->name('car-paint-protection');
 
-Route::get('/car-window-tinting', [CarWindowTinting::class, 'view'])->name('car-window-tinting');
+Route::get('/scheibentönen', [CarWindowTinting::class, 'view'])->name('car-window-tinting');
 
-Route::get('/car-wrapping', [CarWrapping::class, 'view'])->name('car-wrapping');
+Route::get('/auto-folieren', [CarWrapping::class, 'view'])->name('car-wrapping');
 
 Route::get('/car-wrapping-design', [CarWrappingDesign::class, 'view'])->name('car-wrapping-design');
 

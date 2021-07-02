@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Car Detailing')
+@section('title', 'Detailing')
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/car_detailing.css') }}">
