@@ -10,12 +10,12 @@
     <video src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/Folientechnik%20Schweiz%20I%20Image%20Video.mp4" autoplay muted loop id="myVideo"></video>
 
     <header class="header">
-        <div class="gradient-header-main-bottom"></div>
         <div class="header-content-box">
             <h1 class="h1 sup-bold-Italic">Car Wrapping</h1>
             <p class="h5 sup-light">Die Kunst zu folieren...</p>
         </div>
     </header>
+
     <div class="background-website background-website-padding-top padding-bottom-0">
         <section class="section-main-page-1">
             <div class="wrapper">
@@ -241,7 +241,6 @@
         </div>
     </section>
 
-    <div class="gradient-header-bottom"></div>
     <div class="background-website padding-bottom-top">
         <section class="section-main-page-7">
             <div class="wrapper">

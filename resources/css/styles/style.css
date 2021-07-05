@@ -1181,11 +1181,10 @@ body {
   font-family: supermolot-Italic, sans-serif;
   font-size: 1vw;
   color: #fff;
-  padding: 1vw 0 0;
+  padding: 10px 0 0;
   text-align: center;
   text-transform: initial;
   display: block;
-  height: 3vw;
   width: 80%;
   margin: 0 auto;
   font-weight: bolder;
@@ -10407,7 +10406,7 @@ button.swiper-pagination-bullet {
 }
 
 .box-icon-top-text {
-  min-height: 65px
+  height: 40px
 }
 
 .box-icon-custom-style {

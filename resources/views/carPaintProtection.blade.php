@@ -12,7 +12,6 @@
         autoplay muted loop autoplay id="myVideo"></video>
 
     <header class="header">
-        <div class="gradient-header-main-bottom"></div>
         <div class="header-content-box">
             <h1 class="h1 sup-bold-Italic">
                 Lackschutzfolien
@@ -23,7 +22,7 @@
         </div>
     </header>
 
-    <div class="background-website">
+    <div class="background-website padding-bottom-0">
         <section class="section-deteiling-page-1">
             <div style="margin-bottom: 35px;">
                 <h2 class="zag text-center">Steinschlagschutzfolie</h2>
