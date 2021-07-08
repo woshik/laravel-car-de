@@ -8,9 +8,6 @@
 
 @section('content')
     <section class="section-portfolio-page-1">
-        <div class="wrapper" style="z-index: 4;">
-            <div class="filter-modal-btn">Filter</div>
-        </div>
         <h2 class="zag text-center">Gallery</h2>
         <div class="div-grid grid-4-col portfolio-grid">
             <div class="grid-portfolio">
