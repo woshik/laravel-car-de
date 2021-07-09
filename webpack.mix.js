@@ -40,7 +40,7 @@ mix
     .scripts(commonJS, "public/js/car_wrapping.js")
     .scripts(commonJS, "public/js/car_wrapping_design.js")
     .scripts(commonJS, "public/js/contact.js")
-    .scripts([...commonJS, "resources/js/lib/lightbox.js"], "public/js/gallery.js");
+    .scripts(commonJS, "public/js/gallery.js");
 
 
 mix

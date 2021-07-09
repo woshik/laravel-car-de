@@ -72,6 +72,7 @@ $(document).ready(function () {
                 }
             },
             error: function(err) {
+                refreshCaptcha()
                 const errResponse = err.responseJSON
                 let errorArray
                 
