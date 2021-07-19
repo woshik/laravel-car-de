@@ -12,10 +12,10 @@
         <div class="div-grid grid-4-col portfolio-grid">
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="/images/g1.jpg" alt="">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/tesla/Tesla-folieren.jpg" alt="">
                     <div class="hover-portfolio-box  activate-info-box-gallery-">
                         <div>
-                            <span class="hover-portfolio-box_zag">Mercedes AMG E63S</span>
+                            <span class="hover-portfolio-box_zag">Tesla Model S</span>
                             <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
                                 феерические сочетания красок никогда полностью не вытеснят классику....</p>
                         </div>
