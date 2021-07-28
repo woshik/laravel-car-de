@@ -40,8 +40,14 @@ mix
     .scripts(commonJS, "public/js/car_wrapping.js")
     .scripts(commonJS, "public/js/car_wrapping_design.js")
     .scripts(commonJS, "public/js/contact.js")
-    .scripts(commonJS, "public/js/gallery.js");
-
+    .scripts(commonJS, "public/js/gallery.js")
+    .scripts([
+        ...commonJS, 
+        "resources/js/lib/swiper.js",
+        "resources/js/lib/jquery.mousewheel.min.js",
+        "resources/js/lib/lightgallery-all-min.js",
+        "resources/js/page/car_detail.js"
+    ], "public/js/car_detail.js");
 
 mix
     .postCss("resources/css/home.css", "public/css/home.css")
@@ -52,7 +58,8 @@ mix
     .postCss("resources/css/car_wrapping.css", "public/css/car_wrapping.css")
     .postCss("resources/css/car_wrapping_design.css", "public/css/car_wrapping_design.css")
     .postCss("resources/css/contact.css", "public/css/contact.css")
-    .postCss("resources/css/gallery.css", "public/css/gallery.css");
+    .postCss("resources/css/gallery.css", "public/css/gallery.css")
+    .postCss("resources/css/car_detail.css", "public/css/car_detail.css");
 
 if (mix.inProduction()) {
     mix.version();

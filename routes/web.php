@@ -6,6 +6,7 @@ use App\Http\Controllers\CarWindowTinting;
 use App\Http\Controllers\CarWrapping;
 use App\Http\Controllers\CarWrappingDesign;
 use App\Http\Controllers\Contact;
+use App\Http\Controllers\Detail;
 use App\Http\Controllers\Gallery;
 use App\Http\Controllers\Home;
 use App\Http\Controllers\Services;
@@ -40,6 +41,8 @@ Route::get('/scheibentönen', [CarWindowTinting::class, 'view'])->name('car-wind
 Route::get('/auto-folieren', [CarWrapping::class, 'view'])->name('car-wrapping');
 
 Route::get('/car-wrapping-design', [CarWrappingDesign::class, 'view'])->name('car-wrapping-design');
+
+Route::get('/detail/{slug}', [Detail::class, 'view'])->name('detail');
 
 Route::post('/send-mail', [Contact::class, 'sendEmail'])->name('send-email');
 
