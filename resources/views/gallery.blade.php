@@ -12,10 +12,10 @@
         <div class="div-grid grid-4-col portfolio-grid">
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Audi Folie Zürich ( Tittelbild).jpg" alt="Audi Folie Zürich">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/BMW-folieren-Schweiz.jpg" alt="BMW folieren Schweiz">
                     <div class="hover-portfolio-box">
                         <div>
-                            <span class="hover-portfolio-box_zag">Audi Folie Zürich</span>
+                            <span class="hover-portfolio-box_zag">BMW folieren Schweiz</span>
                             <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
                                 феерические сочетания красок никогда полностью не вытеснят классику....</p>
                         </div>
@@ -24,10 +24,10 @@
             </div>
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/BMW folieren ( Titelbild ).jpg" alt="BMW folieren">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/BMW-folieren-Zürich.jpg" alt="BMW folieren Zürich">
                     <div class="hover-portfolio-box">
                         <div>
-                            <span class="hover-portfolio-box_zag">BMW folieren</span>
+                            <span class="hover-portfolio-box_zag">BMW folieren Zürich</span>
                             <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
                                 феерические сочетания красок никогда полностью не вытеснят классику....</p>
                         </div>
@@ -36,19 +36,7 @@
             </div>
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/BMW follieren Zürich ( Titelbild)_.jpg" alt="BMW follieren Zürich">
-                    <div class="hover-portfolio-box">
-                        <div>
-                            <span class="hover-portfolio-box_zag">BMW follieren Zürich</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="grid-portfolio">
-                <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Chevrolet Camaro folieren Schweiz ( Titelbild ).jpg" alt="Chevrolet Camaro folieren Schweiz">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Chevrolet-Camaro-folieren-Schweiz.jpg" alt="Chevrolet Camaro folieren Schweiz">
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">Chevrolet Camaro folieren Schweiz</span>
@@ -60,10 +48,10 @@
             </div>
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Corvette folieren.jpg" alt="Corvette folieren">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Corvette-folieren-Zürich-.jpg" alt="Corvette folieren Zürich">
                     <div class="hover-portfolio-box">
                         <div>
-                            <span class="hover-portfolio-box_zag">Corvette folieren</span>
+                            <span class="hover-portfolio-box_zag">Corvette folieren Zürich</span>
                             <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
                                 феерические сочетания красок никогда полностью не вытеснят классику....</p>
                         </div>
@@ -72,10 +60,10 @@
             </div>
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Ferrari Lack schützen ( Titelbild).jpg" alt="Ferrari Lack schützen">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Die-Folizei.jpg" alt="Die Folizei">
                     <div class="hover-portfolio-box">
                         <div>
-                            <span class="hover-portfolio-box_zag">Ferrari Lack schützen</span>
+                            <span class="hover-portfolio-box_zag">Die Folizei</span>
                             <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
                                 феерические сочетания красок никогда полностью не вытеснят классику....</p>
                         </div>
@@ -84,7 +72,19 @@
             </div>
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Fiat Abarth - 124 Folierung Zürich ( Titelbild).jpg" alt="Fiat Abarth - 124 Folierung Zürich">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Ferrari-folieren-Schweiz.jpg" alt="Ferrari folieren Schweiz">
+                    <div class="hover-portfolio-box">
+                        <div>
+                            <span class="hover-portfolio-box_zag">Ferrari folieren Schweiz</span>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
+                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="grid-portfolio">
+                <a href="#">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/FiatAbarth124Folierung.jpg" alt="Fiat Abarth - 124 Folierung Zürich">
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">Fiat Abarth - 124 Folierung Zürich</span>
@@ -96,10 +96,10 @@
             </div>
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Porsche Folierung Zürich ( Titelbild).jpg" alt="Porsche Folierung Zürich">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Mercedes-folieren-Zürich.jpg" alt="Mercedes folieren Zürich">
                     <div class="hover-portfolio-box">
                         <div>
-                            <span class="hover-portfolio-box_zag">Porsche Folierung Zürich</span>
+                            <span class="hover-portfolio-box_zag">Mercedes folieren Zürich</span>
                             <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
                                 феерические сочетания красок никогда полностью не вытеснят классику....</p>
                         </div>
@@ -108,10 +108,10 @@
             </div>
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Porsche folieren Winterthur ( Titelbild)_.jpg" alt="Porsche folieren Winterthur">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Nissan-GTR-folieren-Schweiz.jpg" alt="Nissan GTR folieren Schweiz">
                     <div class="hover-portfolio-box">
                         <div>
-                            <span class="hover-portfolio-box_zag">Porsche folieren Winterthur</span>
+                            <span class="hover-portfolio-box_zag">Nissan GTR folieren Schweiz</span>
                             <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
                                 феерические сочетания красок никогда полностью не вытеснят классику....</p>
                         </div>
@@ -120,10 +120,10 @@
             </div>
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Rocket Guard Porsche Folierung ( Titelbild ).jpg" alt="Rocket Guard Porsche Folierung">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Porsche-911-Turbo-folieren-Schweiz.jpg" alt="Porsche 911 Turbo folieren Schweiz">
                     <div class="hover-portfolio-box">
                         <div>
-                            <span class="hover-portfolio-box_zag">Rocket Guard Porsche Folierung</span>
+                            <span class="hover-portfolio-box_zag">Porsche 911 Turbo folieren Schweiz</span>
                             <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
                                 феерические сочетания красок никогда полностью не вытеснят классику....</p>
                         </div>
@@ -132,10 +132,10 @@
             </div>
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Steinschlagschutz - Porsche - Schweiz ( Titelbild).jpg" alt="Steinschlagschutz - Porsche - Schweiz">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Porsche-Lackschutzfolie-Zürich-.jpg" alt="Porsche Lackschutzfolie Zürich">
                     <div class="hover-portfolio-box">
                         <div>
-                            <span class="hover-portfolio-box_zag">Steinschlagschutz - Porsche - Schweiz</span>
+                            <span class="hover-portfolio-box_zag">Porsche Lackschutzfolie Zürich</span>
                             <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
                                 феерические сочетания красок никогда полностью не вытеснят классику....</p>
                         </div>
@@ -144,10 +144,10 @@
             </div>
             <div class="grid-portfolio">
                 <a href="#">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Tesla folieren - Zürich (Titelbild).jpg" alt="Tesla folieren - Zürich">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Porsche-folieren-Schweiz-.jpg" alt="Porsche folieren Schweiz">
                     <div class="hover-portfolio-box">
                         <div>
-                            <span class="hover-portfolio-box_zag">Tesla folieren - Zürich</span>
+                            <span class="hover-portfolio-box_zag">Porsche folieren Schweiz</span>
                             <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
                                 феерические сочетания красок никогда полностью не вытеснят классику....</p>
                         </div>
