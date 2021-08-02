@@ -8,6 +8,60 @@
             "Wir bieten alles rund um BMW Folierung in der Schweiz an. Car Wrapping, Scheiben tönen BMW, Lackschutzfolien für BMW, Designfolierung auf einen BMW usw.",
             "Holen Sie sich noch heute ihre kostenlose Offerte zur Folierung ihres BMW's"
         ],
-        "images": {}
+        "images": [
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/details/BMW-folieren-Schweiz/BMW M2 Competition Turbomeister .jpg",
+                "alt": "BMW M2 Competition Turbomeister"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/details/BMW-folieren-Schweiz/BMWDielsdorfM2Turbomeisterfoliert.jpg",
+                "alt": "BMW Dielsdorf M2 Turbomeister foliert"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/details/BMW-folieren-Schweiz/BMWFolierenZuerich.jpg",
+                "alt": "BMW Folieren Zuerich"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/details/BMW-folieren-Schweiz/BMWM2Dielsdorf.jpg",
+                "alt": "BMW M2 Dielsdorf"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/details/BMW-folieren-Schweiz/FolierungSchweizBMWHutter.jpg",
+                "alt": "Folierung Schweiz BMW Hutter"
+            }
+        ],
+        "hashtag": "#autofolieren #carwrapping #folieren #autofolierungzürich #scheibentönen #autofolierung #foliestattlack #foliencenter #folie #folien #nissanfolierung #audifolieren #folierungen #carwrap #fullwrap #wrap #wraps #wrapper #folientechnikschweiz #folienshop #folierungen "
+    },
+    "Porsche-Lackschutzfolie-Zürich": {
+        "title": "Xpel Lackschutzfolie Porsche",
+        "content": [
+            "Wie schützt man seinen Wagen vor Kratzer und Steinschläge?",
+            "Xpel Lackschutzfolien ist eine transparente Steinschlagschutzfolie mit selbstheilender Oberfläche. Die neue Generation an PU - Folie die es möglich macht diese 3D zu verlegen und somit auch komplette Auto folieren zu können.",
+            "Wir von Folientechnik Schweiz sind vertraut mit der Pre Cut Technik von Xpel und bieten schweizweit mobilen Service an, direkt bei ihrem Garagisten ihrer Wahl. Eine messerlose Montage einer Lackschutzfolie dank Pre Cut System.",
+            "In nur wenigen Stunden folieren wir ein Lackschutzfrontpaket mit 10 Jahre Garantie"
+        ],
+        "images": [
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/details/BMW-folieren-Schweiz/BMW M2 Competition Turbomeister .jpg",
+                "alt": "BMW M2 Competition Turbomeister"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/details/BMW-folieren-Schweiz/BMWDielsdorfM2Turbomeisterfoliert.jpg",
+                "alt": "BMW Dielsdorf M2 Turbomeister foliert"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/details/BMW-folieren-Schweiz/BMWFolierenZuerich.jpg",
+                "alt": "BMW Folieren Zuerich"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/details/BMW-folieren-Schweiz/BMWM2Dielsdorf.jpg",
+                "alt": "BMW M2 Dielsdorf"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/details/BMW-folieren-Schweiz/FolierungSchweizBMWHutter.jpg",
+                "alt": "Folierung Schweiz BMW Hutter"
+            }
+        ],
+        "hashtag": "#lackLsorecm ihpsumutzfolie #steinschlagschutzfolie #xpel #xpellackschutzfolie #xpelultimateplus #xpelsteahlt #transparentelackschutzfolie #steinschlag #lackschützen #lackschutzfoliefolieren #rocketguard #bodyfence #scotchguard #oraguard #gswf #global #gswf #stek #spandex #ferrari #lamboginhi #luxury #investment #auto #porsche #astonmartin #tesla #maserati #bmw #mercedes #audi #alfa #sportcars #porschecup #formel1 #folieren"
     }
 }

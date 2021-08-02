@@ -15,9 +15,8 @@
                     <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/BMW-folieren-Schweiz.jpg" alt="BMW folieren Schweiz">
                     <div class="hover-portfolio-box">
                         <div>
-                            <span class="hover-portfolio-box_zag">BMW folieren Schweiz</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <span class="hover-portfolio-box_zag">BMW Folieren Schweiz</span>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Sie möchten ihr Auto folieren lassen und suchen einen fachmännischen Autofolierer in Raum Zürich, Thurgau, St.Gallen?</p>
                         </div>
                     </div>
                 </a>
@@ -132,12 +131,11 @@
             </div>
             <div class="grid-portfolio">
                 <a href="{{ route('detail', ['slug' => 'Porsche-Lackschutzfolie-Zürich']) }}">
-                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Porsche-Lackschutzfolie-Zürich-.jpg" alt="Porsche Lackschutzfolie Zürich">
+                    <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Porsche-Lackschutzfolie-Zürich-.jpg" alt="Xpel Lackschutzfolie Porsche">
                     <div class="hover-portfolio-box">
                         <div>
-                            <span class="hover-portfolio-box_zag">Porsche Lackschutzfolie Zürich</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <span class="hover-portfolio-box_zag">Xpel Lackschutzfolie Porsche</span>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Wie schützt man seinen Wagen vor Kratzer und Steinschläge?</p>
                         </div>
                     </div>
                 </a>

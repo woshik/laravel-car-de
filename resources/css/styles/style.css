@@ -10778,3 +10778,11 @@ button.swiper-pagination-bullet {
   -moz-transform: rotate(360deg);
   -ms-transform: rotate(360deg)
 }
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.inline-block {
+  display: inline-block;
+}

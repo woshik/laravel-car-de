@@ -1,10 +1,12 @@
 @extends('layouts.app')
 
-@section('title', $name)
+@section('title', $data->title)
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/car_detail.css') }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.1.8/css/lightgallery.min.css" integrity="sha512-DY7doCjzDiHKPjOIz7TBml+ZGeiORmxLdMEa8x7j+I0kuHD/vBogtvqhZCUbeCKJ8TR1slujyv9wxO4x0hbBMQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.1.8/css/lightgallery.min.css"
+        integrity="sha512-DY7doCjzDiHKPjOIz7TBml+ZGeiORmxLdMEa8x7j+I0kuHD/vBogtvqhZCUbeCKJ8TR1slujyv9wxO4x0hbBMQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 @endsection
 
 @section('content')
@@ -12,26 +14,11 @@
         <div class="slider-single-page">
             <div class="swiper-container gallery-top">
                 <div class="swiper-wrapper" id="lightgallery">
-                    <a href="https://southart.com.ua/wp-content/uploads/Bezymjannyi1-81-1620x1080.jpg"
-                        class="swiper-slide activate-info-box-gallery">
-                        <img src="https://southart.com.ua/wp-content/uploads/Bezymjannyi1-81-1620x1080.jpg" alt="">
-                    </a>
-                    <a href="https://southart.com.ua/wp-content/uploads/Bezymjannyi2-82-1620x1080.jpg"
-                        class="swiper-slide activate-info-box-gallery">
-                        <img src="https://southart.com.ua/wp-content/uploads/Bezymjannyi2-82-1620x1080.jpg" alt="">
-                    </a>
-                    <a href="https://southart.com.ua/wp-content/uploads/Bezymjannyi3-66-1620x1080.jpg"
-                        class="swiper-slide activate-info-box-gallery">
-                        <img src="https://southart.com.ua/wp-content/uploads/Bezymjannyi3-66-1620x1080.jpg" alt="">
-                    </a>
-                    <a href="https://southart.com.ua/wp-content/uploads/Bezymjannyi4-51-1620x1080.jpg"
-                        class="swiper-slide activate-info-box-gallery">
-                        <img src="https://southart.com.ua/wp-content/uploads/Bezymjannyi4-51-1620x1080.jpg" alt="">
-                    </a>
-                    <a href="https://southart.com.ua/wp-content/uploads/Bezymjannyi5-36-1620x1080.jpg"
-                        class="swiper-slide activate-info-box-gallery">
-                        <img src="https://southart.com.ua/wp-content/uploads/Bezymjannyi5-36-1620x1080.jpg" alt="">
-                    </a>
+                    @foreach ($data->images as $image)
+                        <a href="{{ $image->src }}" class="swiper-slide activate-info-box-gallery">
+                            <img src="{{ $image->src }}" alt="{{ $image->alt }}">
+                        </a>
+                    @endforeach
                 </div>
                 <div class="swiper-button-next swiper-button-white"></div>
                 <div class="swiper-button-prev swiper-button-white"></div>
@@ -47,57 +34,44 @@
                 </span>
                 &gt;
                 <span property="itemListElement" typeof="ListItem">
-                    <span property="name" class="post post-post current-item">{{ $name }}</span>
+                    <span property="name" class="post post-post current-item">{{ $data->title }}</span>
                 </span>
             </div>
-            <div class="title-single-page">{{ $name }}</div>
-            <div class="scroll scroll-single-gallery"><span></span></div>
+            <div class="title-single-page">{{ $data->title }}</div>
+
             <div class="content-single-page">
-                <div class=" p-reg roboto-regular content-box-gallery">
-                    <div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-                        <div dir="auto">
-                            Мы часто встречаем вопрос: «как выглядит матовая поверхность автомобиля в
-                            тёмное время суток». Точно так же, как и днём – превосходно.
+                <div class=" p-reg roboto-regular">
+                    @foreach ($data->content as $text)
+                        <div class="mt-10">
+                            <div dir="auto"> {{ $text }} </div>
                         </div>
-                    </div>
-                    <div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-                        <div dir="auto">
-                            Матовая поверхность поглощает свет вокруг, даже его небольшие блики в тёмное
-                            время. Автомобиль в такой плёнке визуально становится неотъемлемой частью пространства.
-                            Но частью с бликами света. Множество световых переходов привлекают внимание к
-                            автомобилю.
-                        </div>
-                    </div>
-                    <div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-                        <div dir="auto">
-                            Матовая поверхность меняет оттенки в зависимости от изгибов и углов. Она
-                            завораживает, завлекает. Заставляет остановиться и задержать взгляд на себе.
-                        </div>
-                    </div>
-                    <div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-                        <div dir="auto">
-                            Специально для ответа на вопрос «как выглядит матовая поверхность в тёмное
-                            время?» мы сделали эту фотосессию. Мы хотим наглядно продемонстрировать прелести
-                            подобных фактур.
-                        </div>
-                    </div>
-                    <div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-                        <div dir="auto">Mercedes G-Class в свете вечернего города – приятного просмотра.</div>
-                    </div>
+                    @endforeach
 
-
-                    <div class="share-box-single-news">
-                        <button class="blue-form-btn zadat-vopros-modal-form-btn" onclick="openContactModal()">KONTAKT
-                            ANFORDERN</button>
-                        <div class="share-icon-single-page">
-                            <a href="https://www.facebook.com/folientechnikschweiz" target="_blank" rel="nofollow">
-                                <i class="facebook">FACEBOOK</i>
+                    <div class="share-box-single-news d-flex justify-content-space-between contact-margin">
+                        <button class="contact-button" onclick="openContactModal()">Preise einholen</button>
+                        <div>
+                            <a href="https://www.facebook.com/folientechnikschweiz" target="_blank" rel="nofollow"
+                                class="inline-block">
+                                <i class="fa fa-facebook facebook-awesome-social social-icon"></i>
                             </a>
-                            <a href="https://www.instagram.com/folientechnik_schweiz" target="_blank" rel="nofollow">
-                                <i class="twitter">instagram</i>
+
+                            <a href="https://www.instagram.com/folientechnik_schweiz" target="_blank" rel="nofollow"
+                                class="inline-block">
+                                <i class="fa fa-instagram instagram-awesome-social social-icon"></i>
+                            </a>
+
+                            <a href="https://wa.me/41764900780" target="_blank" rel="nofollow" class="inline-block">
+                                <i class="fa fa-whatsapp whatsapp-awesome-social social-icon"></i>
                             </a>
                         </div>
                     </div>
+                </div>
+            </div>
+            <div class="share-box-single-news contact-margin">
+                <div class=" p-reg roboto-regular">
+                <div class="mt-10">
+                    <p>{{ $data->hashtag }}</p>
+                </div>
                 </div>
             </div>
         </div>
