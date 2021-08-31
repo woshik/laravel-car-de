@@ -24,29 +24,35 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Freebird%20Design%20Profilbild.png" alt="">
+                        <img class="box-left-text-right-image__img"
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Freebird%20Design%20Profilbild.png"
+                            alt="">
                     </div>
                     <div class="row">
                         <div>
                             <h2 class="zag">
-                                Nur das Beste<br />
-                                von den Besten!
+                                Digitalprint / Design / Autofolie
                             </h2>
                             <span class="p-reg roboto-regular">
                                 <p>
-                                    Wir arbeiten seit 2011 intensiv mit den Top 3 Livery
-                                    Designern der Welt zusammen und bieten so das
-                                    beste Know How in Sachen Grafikdesign das es am
-                                    Markt gibt. Mit Grössen wir Freebird Design, Alexander
-                                    Lituta oder TT Studio haben Sie die Qual der Wahl in
-                                    Sachen Digitaldruck Design.
+                                    Mit individuell gestalteten Autofolien kann man nicht nur werblich aus der Masse
+                                    hervorstechen, sondern auch privat sein Auto individuell gestalten. Per Digitaldruck
+                                    werden individuelle Motive auf hochwertige Folien aufgedruckt, die wir dann am Fahrzeug
+                                    anbringen. Neben dem dauerhaften Schutz des Fahrzeugs fällt Ihr Fahrzeug durch das
+                                    individuelle Design auf. Beim Thema
                                 </p>
                                 <p>
-                                    Ob kleine Details oder vollflächige Digitalprints auf
-                                    Folie, Sie erhalten stets indiviuelle und einmalige Designs von uns. Wir zaubern ihnen ein „ Wau “ auf die
-                                    Strasse. 
+                                    Design setzen wir großartige Designer wie:
                                 </p>
-                                <p>überzeugen Sie sich selbst und holen Sie sich eine inspiation auf den Instagram Account von Free Bird Design.</p>
+                                <ul>
+                                    <li>TT Studio</li>
+                                    <li>Alexander Lituta</li>
+                                    <li>Freebird Design</li>
+                                </ul>
+                                <p>
+                                    und andere. Selbstverständlich können Sie mit Ihren eigenen Entwürfen kommen und wir
+                                    prüfen, inwieweit das umsetzbar ist. Was möglich ist, machen wir möglich.
+                                </p>
                             </span>
                             <button class="nice-btn" onclick="openContactModal()">
                                 <i></i>hier zur Gallery<i></i>
@@ -55,7 +61,9 @@
 
                     </div>
                     <div class="row box-left-text-right-image-pc d-flex align-items-center justify-content-center">
-                        <img class="box-left-text-right-image__img image-width-75" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Freebird%20Design%20Profilbild.png" alt="">
+                        <img class="box-left-text-right-image__img image-width-75"
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/team/Freebird%20Design%20Profilbild.png"
+                            alt="">
                     </div>
                 </div>
             </div>
@@ -67,21 +75,20 @@
             <div class="wrapper">
                 <div class="box-left-image-right-text">
                     <div class="row d-flex align-items-center justify-content-center">
-                        <img class="box-left-image-right-text__img image-width-100" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car9.png" alt="">
+                        <img class="box-left-image-right-text__img image-width-100"
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car9.png"
+                            alt="">
                     </div>
                     <div class="row">
                         <div>
-                            <h2 class="zag">EIGENE DIGITALPRINT<br>PRODUKTION</h2>
+                            <h2 class="zag">Wow-Effekt auf der Strasse durch Digitalprint</h2>
                             <span class="p-reg roboto-regular">
-                                <p>Um die Lieferkette zu verkürzen und zur Qualitätskontrolle habe wir Anfang 2015
-                                    unsere eigene Produktion aufgebaut. Mit einem Latexdrucker HP 360 sind wir
-                                    bis heute auf den neuersten Stand der Technologie in Sachen Digitalprints auf
-                                    Folie.</p>
-                                <p> Wir drucken selbst, Wir laminieren selbst und Wir plottern selbst. </p>
+                                <p>Gerade im gewerblichen Bereich kann durch individuellen Druck und gute Ideen ein
+                                    Wow-Effekt und Wiedererkennungseffekt erzielt werden.</p>
+                                <p>Ob Fahrzeuge für den Pflegedienst, für ein Pizza-Taxi oder sonstige Unternehmen.</p>
                                 <P>
-                                    Digitalprintfolien verwenden wir ausschliesslich Marken die eine Gewährleistung
-                                    einer rückstandslosen Entfernung bieten. In der Regel geht es um Marlen wie 3M
-                                    Avery, Oracal oder Metamark. Je nach Budget haben wir ihre Folie.
+                                    Wenn Sie positiv auffallen wollen, können wir mit Digitaldruck und/oder
+                                    Autobeschriftungen dafür sorgen, dass Ihr Unternehmen positiv auffällt.
                                 </P>
                             </span>
                         </div>
@@ -93,7 +100,8 @@
 
     <div class="background-website">
         <section class="section-deteiling-page-1">
-            <div class="background-col-8-icons"><img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/C-bg.png"
+            <div class="background-col-8-icons"><img
+                    src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/C-bg.png"
                     data-paroller-factor="-0.3" data-paroller-type="foreground" data-paroller-direction="vertical">
             </div>
             <h2 class="zag text-center">WIE GESTALTEST DU DEINE EIGENE FOLIE?</h2>
@@ -101,27 +109,33 @@
             <div class="wrapper">
                 <div class="div-table">
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/micro.svg);"></i>
+                        <i class="info-icon"
+                            style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/micro.svg);"></i>
                         <span class="name-icon-box">Interview</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/design.svg);"></i>
+                        <i class="info-icon"
+                            style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/design.svg);"></i>
                         <span class="name-icon-box">Designerstellung</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/handshake.svg);"></i>
+                        <i class="info-icon"
+                            style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/handshake.svg);"></i>
                         <span class="name-icon-box">Deal mit dem Grafiker</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-11-1.svg);"></i>
+                        <i class="info-icon"
+                            style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-11-1.svg);"></i>
                         <span class="name-icon-box">Offerte zur Umsetzung</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/table-printer.svg);"></i>
+                        <i class="info-icon"
+                            style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/table-printer.svg);"></i>
                         <span class="name-icon-box">Druck auf Folie</span>
                     </div>
                     <div class="row-3">
-                        <i class="info-icon" style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-1.svg);"></i>
+                        <i class="info-icon"
+                            style="background: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-1.svg);"></i>
                         <span class="name-icon-box">Folierung</span>
                     </div>
                 </div>
@@ -134,7 +148,9 @@
             <div class="wrapper">
                 <div class="box-left-text-right-image">
                     <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Corvette%20folieren_.png" alt="" />
+                        <img class="box-left-text-right-image__img"
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Corvette%20folieren_.png"
+                            alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -153,7 +169,9 @@
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc d-flex align-items-center justify-content-center">
-                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Corvette%20folieren_.png" alt="" />
+                        <img class="box-left-text-right-image__img"
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Corvette%20folieren_.png"
+                            alt="" />
                     </div>
                 </div>
             </div>
@@ -165,22 +183,30 @@
             <div class="wrapper">
                 <div class="box-left-image-right-text">
                     <div class="row d-flex align-items-center justify-content-center">
-                        <img class="box-left-text-right-image__img image-width-75" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/BMW%20Turbomeister.png" alt="" />
+                        <img class="box-left-text-right-image__img image-width-75"
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/BMW%20Turbomeister.png"
+                            alt="" />
                     </div>
                     <div class="row">
                         <div>
-                            <h2 class="zag"> FAHRZEUGBESCHRIFTUNG </h2>
+                            <h2 class="zag">Individuelle Gestaltung mit Grafiker</h2>
                             <span class="p-reg roboto-regular">
-                                <p> Auch herkömmliche Firmenbeschriftungen sind für uns ein Thema,
-                                    von der Flottenbeschriftung bis hin zum indivuellen Design auf ihrem
-                                    Kastenwagen bieten wir alles rund um Folie auf ihren Transporter
-                                    an</p>
+                                <p>Soll es etwas Besonderes sein, bietet sich die individuelle Motivgestaltung durch einen
+                                    Grafiker an, der nach einem Briefing und Interview Designvorschläge unterbreitet. Unsere
+                                    Offerte zur Umsetzung wird Sie überzeugen und wir drucken die Folie nicht nur
+                                    professionell, sondern bringen diese auch gleich fachmännisch an. Service aus einer
+                                    Hand. Für individuelles Design durch Digital Print eignet sich bei der Autofolierung
+                                    besonders:</p>
                                 <ul>
-                                    <li> Massgeschneiderte Digitalprints </li>
-                                    <li> bedruckte Windowvision Folie auf ihrer Heckscheibe </li>
-                                    <li> Oldtimerrennwagen beschrfiten </li>
+                                    <li> Motorhaube</li>
+                                    <li> Seiten / Türen</li>
+                                    <li> Fahrzeugheck</li>
                                 </ul>
-                                <p>Wir machen Sie "SICHTBAR"</p>
+                                <p>Aber auch die Folierung von Scheiben oder Autodach kann im Rahmen eines Gesamtkonzepts
+                                    auch werblich Sinn machen. Wir sind sicher, dass unsere Grafiker auch für Sie einen
+                                    Vorschlag haben, der Sie begeistern wird. Das Auto zu beschriften und werblich mit
+                                    Digitaldruck auf Folie zu nutzen ist ein Werbeträger für Ihr Unternehmen, womit Sie
+                                    Tausende mögliche Zielpersonen erreichen können.</p>
                                 <button onclick="openContactModal()" class="nice-btn"> <i> </i> mehr dazu... <i>
                                     </i>
                                 </button>
@@ -202,11 +228,14 @@
                             ÜBER EIN DESIGN AUF IHREM AUTO
                         </h2>
                         <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
-                            <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT ANFORDERN</button>
+                            <button type="button" class="wpcf7-form-control wpcf7-submit"
+                                onclick="openContactModal()">KONTAKT ANFORDERN</button>
                         </div>
                     </div>
                     <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/NissanGTRWRap.png" alt="" />
+                        <img class="box-left-text-right-image__img"
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/NissanGTRWRap.png"
+                            alt="" />
                     </div>
                 </div>
             </div>

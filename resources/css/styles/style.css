@@ -10396,6 +10396,14 @@ button.swiper-pagination-bullet {
   font-size: 1.6rem;
 }
 
+.car-wrapping-quote::before {
+  content: "“";
+}
+
+.car-wrapping-quote::after {
+  content: "”";
+}
+
 #myVideo {
   object-fit: cover;
   width: 100vw;

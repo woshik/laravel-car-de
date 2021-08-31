@@ -14,7 +14,7 @@
     <header class="header">
         <div class="header-content-box">
             <h1 class="h1 sup-bold-Italic">
-                Lackschutzfolien
+                Lackschutzfolie
             </h1>
             <p class="h5 sup-light">
                 Wir schützen deine Investion...
@@ -150,35 +150,29 @@
                     <div class="row">
                         <div>
                             <h2 class="zag">
-                                Standard <br />ODER PREMIUMFOLIEN ?
+                                Transparente Lackschutzfolien möglich
                             </h2>
                             <span class="p-reg roboto-regular">
                                 <p>
-                                    Die Qualitätsfolien auf PU Basis sind weit weg von dem was mal war, das harte
-                                    Plastik am Radlauf entlang, was vergilbt und Risse bekommt. Die neuerste
-                                    Technologie in Sachen Lackschutzfolie basiert auf Schaumkunststoff und ja man
-                                    könnte wirklich sagen ein Kondom für ihr Fahrzeug.
+                                    Lackschutzfolien müssen gar nicht immer schwarz oder grau sein, es gibt auch
+                                    transparente, d.h. unsichtbare Lösungen, um Ihren Lack perfekt vor Steinschlag zu
+                                    schützen.
                                 </p>
                                 <p>
-                                    Teils bis zu 200 ym Stark bieten manche Hersteller schon Lackschutzfolien mit
-                                    selbstheilender Oberfläche an. RocketGuard zB. hat es sogar schon mit
-                                    hydrophopem Finish was die Ceramicversiegelung somit sinnlos macht.
+                                    Dabei ist es wichtig, eine
+                                    hochwertige Lackschutzfolie zu verwenden, weil ansonsten schnell Vergilbungseffekte
+                                    auftreten oder
+                                    die Folie steif wird.
                                 </p>
                                 <p>
-                                    Ja! es ist ein regelrechter Hype rund um das Thema „Steinschlagschutz“
-                                    entstanden, was für den einen oder anderen Endnutzer es etwas schwierig macht
-                                    sich für die richtige Marke oder Folierer zu entscheiden.
+                                    Mit heutigen Premium Steinschlagschutzfolien sind nahezu unsichtbare
+                                    Ergebnisse erzielbar, die den Lack dauerhaft schützen, was besonders in der Frontpartie
+                                    eines Autos
+                                    wichtig ist.
                                 </p>
                                 <p>
-                                    Wir von Folientechnik Schweiz sind in jedem Fall von allen Marken zertifizerit
-                                    und bringen mehrere Jahre Erfahrung mit. Verlegen ihre Lackschutzfolie egal
-                                    welche Marke oder Variante Sie wählen, ob Pre Cut System oder Custom Wrap.
-                                    Beraten Sie ausführlich zu allem was es rund um das Thema Lackschutz gibt und
-                                    pflegen intensive Kontakte zu Detaillern und Autoherstellern.
-                                </p>
-                                <p>
-                                    Unser privates Beratungsgespräch dauert etwa rund 30 min und kann per Videochat
-                                    oder Persönlich erfolgen.
+                                    Moderne Lackschutzfolien haben eine homogene und glatte Oberfläche und bestehen
+                                    i.d.R. aus Polyurethanfolie.
                                 </p>
                             </span>
                         </div>

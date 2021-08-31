@@ -7,7 +7,9 @@
 @endsection
 
 @section('content')
-    <video  src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/RocketGuard%20SelfHealing_2%20(online-video-cutter.com)_2_2_2.mp4" autoplay muted loop id="myVideo"></video>
+    <video
+        src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/RocketGuard%20SelfHealing_2%20(online-video-cutter.com)_2_2_2.mp4"
+        autoplay muted loop id="myVideo"></video>
 
     <header class="header">
         <div class="gradient-header-main-bottom"></div>
@@ -29,26 +31,32 @@
                     <div class="row">
                         <div>
                             <h2 class="zag">
-                                Garantiert bestes <br />
-                                Preis - Leistungsverhältnis
+                                Scheibentönung – Scheiben tönen
                             </h2>
                             <span class="p-reg roboto-regular">
                                 <p>
-                                    Mit mehr als 15 Jahren Erfahrung in Sachen professionelles Scheiben tönen bieten
-                                    wir unseren Kunden stets das beste Preis - Leistungsverhältnis der Schweiz.
-                                    Keine Dopingpreise sondern seriöse Arbeit zur fairen Preis.
+                                    In Zürich, Winterthur und anderen Schweizer Städten sieht man immer mehr Fahrzeuge mit
+                                    getönten
+                                    Scheiben, was nicht nur cool aussieht und den schnellen Blick ins Fahrzeuginnere
+                                    verwehrt, sondern
+                                    auch weitere Vorteile hat. Insbesondere bietet Scheiben tönen:
                                 </p>
-                                <p>
-                                    Premiumfolien von Llumar, Bruxsafol oder 3M stehen zur Auswahl und Sie werden
-                                    ausführlich dazu beraten.Wir geben auf Arbeit und Material eine lebenslange
-                                    Garantie.
-                                </p>
+                                <ul>
+                                  <li>Hitzeschutz im Fahrzeuginnern</li>
+                                  <li>UV-Schutz im Innern für Mensch und Material (Interieur bleicht weniger schnell aus)</li>
+                                  <li>Erhöhung Einbruchschutz</li>
+                                  <li>Blendschutz</li>
+                                  <li>Entlastung Klimaanlage – damit Senkung Spritverbrauch/Energieverbrauch</li>
+                                  <li>Nächtlicher Schutz vor den Schweinwerfern des Hintermannes</li>
+                                  <li>Sichtschutz – unerwünschte Einblicke von aussen werden verhindert</li>
+                                </ul>
                             </span>
                         </div>
                     </div>
                     <div class="row box-left-text-right-image-pc">
                         <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-1.png" alt="" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-1.png"
+                            alt="" />
                     </div>
                     <div></div>
                 </div>
@@ -65,7 +73,8 @@
                         style="display: flex;justify-content: center;align-items: center;">
                         <img class="box-left-image-right-text__img tonirovka-fon"
                             src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/background.png" />
-                        <img class="box-left-image-right-text__img tonirovka-back" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/tint.png"
+                        <img class="box-left-image-right-text__img tonirovka-back"
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/tint.png"
                             style="opacity: 0.4" />
                     </div>
                     <div class="row display-flex-center">
@@ -130,7 +139,8 @@
                 <div class="box-left-text-right-image clearfix">
                     <div class="row box-left-text-right-image-mobile">
                         <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld--3.png" alt="" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld--3.png"
+                            alt="" />
                     </div>
                     <div class="row">
                         <div>
@@ -158,7 +168,8 @@
                     </div>
                     <div class="row box-left-text-right-image-pc">
                         <img class="box-left-text-right-image__img loaded"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld--3.png" alt="" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld--3.png"
+                            alt="" />
                     </div>
                 </div>
             </div>
@@ -178,12 +189,14 @@
                         <q class="car-wrapping-quote">Black Glass</q>
                         <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
                             <div class="screen-reader-response"></div>
-                            <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT ANFORDERN</button>
+                            <button type="button" class="wpcf7-form-control wpcf7-submit"
+                                onclick="openContactModal()">KONTAKT ANFORDERN</button>
                         </div>
                     </div>
                     <div class="row-form-box pc-box-footer-form">
                         <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-4.png" alt="" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-4.png"
+                            alt="" />
                     </div>
                 </div>
             </div>
