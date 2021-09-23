@@ -10,6 +10,7 @@ use App\Http\Controllers\Detail;
 use App\Http\Controllers\Gallery;
 use App\Http\Controllers\Home;
 use App\Http\Controllers\Services;
+use App\Http\Controllers\TeslaModelY;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -47,3 +48,5 @@ Route::get('/detail/{slug}', [Detail::class, 'view'])->name('detail');
 Route::post('/send-mail', [Contact::class, 'sendEmail'])->name('send-email');
 
 Route::get('/refresh-captcha', [Contact::class, 'refreshCaptcha']);
+
+Route::get('/tesla-model-y', [TeslaModelY::class, 'view']);
