@@ -760,7 +760,7 @@ body {
   margin-top: 10px;
 }
 .sup-light {
-  font-size: 0.85vw;
+  font-size: 1rem;
   color: #fff;
   margin-top: 1vw;
   line-height: 1vw;
@@ -1994,7 +1994,7 @@ textarea {
   font-size: 1.2vw;
   font-family: supermolot-Italic, sans-serif;
   color: #fff;
-  padding: 1.5vw 0;
+  padding: 2rem 0;
   text-align: center;
 }
 .wrapper .title-single-page {
@@ -10793,4 +10793,20 @@ button.swiper-pagination-bullet {
 
 .inline-block {
   display: inline-block;
+}
+
+.p-b-0 {
+  padding-bottom: 0;
+}
+
+.p-t-0 {
+  padding-top: 0;
+}
+
+.m-b-0 {
+  margin-bottom: 0;
+}
+
+.m-t-0 {
+  margin-top: 0;
 }
