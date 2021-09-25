@@ -1,4 +1,4 @@
-<div class="background-website site-footer">
+<div class="background-website site-footer p-b-0">
     <section class="contacts-maps">
         <div class="wrapper">
             <div class="head-contacts-section">
