@@ -52,7 +52,7 @@
                     </div>
 
                     <div class="mt-10">
-                        <div dir="auto">Folientechnik Schweiz und RocketGuard bieten daher ab sofort ein vollumfängliches Lackschutzpaket für alle Tesla Model
+                        <div dir="auto">Folientechnik Schweiz und RocketGuard bieten daher ab sofort ein vollumfängliches Lackschutzpakete für alle Tesla Modelle
                             an, so bleibt ihr Tesla Model Y geschützt vor Salz, Mückendreck, Steinschläge, Kratzer und sonstige unerwünschte Unannehmlichkeiten
                             in Sachen Lackschaden. Keine 15 min von Tesla Winterthur entfernt liegt unser Hauptsitz und Werkshalle
                             mit Platz für bis zu 10 Fahrzeug die wir gleichzeitig folieren können. Somit schweizweit einer der grössten Lackschutzfolien
@@ -114,7 +114,7 @@
                     <div class="mt-10">
                         <div dir="auto">Unsere zertifizierten Car Wrapper, folieren ihren Tesla in nur wenigen Tagen! Unsere Folien sind über Jahre hinweg
                             rückstandlos entfernbar und somit auch für Leasingfahrzeug ideal geeignet. Sie geben ein unversehrtes Fahrzeug zurück
-                            und ersparen sich unheimlich viel ärger und diskussionen mit der Leasinggesellschaft.</div>
+                            und ersparen sich unheimlich viel Ärger und Diskussionen mit der Leasinggesellschaft.</div>
                     </div>
 
                     <div class="mt-10">
@@ -165,9 +165,9 @@
 
                 <div class="div-flex mt-100">
                     <button onclick="openContactModal()"
-                        class="width-320 nice-btn plenka-modal-protection-btn custom-button-style"
-                        style="padding: 5px 0">
-                        Beartungsgespräch<br />buchen
+                        class="width-240 nice-btn plenka-modal-protection-btn custom-button-style"
+                        style="padding: 10px 0">
+                        Hier zur Anfrage
                     </button>
                 </div>
             </div>

@@ -607,7 +607,7 @@ body {
 }
 .zag {
   font-family: supermolot-bold-Italic, sans-serif;
-  font-size: 2vw;
+  font-size: 2rem;
   color: #fff;
   text-transform: uppercase;
   position: relative;
@@ -760,7 +760,7 @@ body {
   margin-top: 10px;
 }
 .sup-light {
-  font-size: 1rem;
+  font-size: 1.2rem;
   color: #fff;
   margin-top: 1vw;
   line-height: 1vw;
@@ -1999,7 +1999,7 @@ textarea {
 }
 .wrapper .title-single-page {
   text-align: center;
-  font-size: 2.4vw;
+  font-size: 2rem;
   text-transform: uppercase;
   font-family: supermolot-bold-Italic, sans-serif;
   background: initial;
@@ -4768,7 +4768,7 @@ ul.tabs li.active {
     max-width: 100%;
   }
   .p-reg {
-    font-size: 14px;
+    font-size: 1.2rem;
     line-height: 1.4;
   }
   .row-3 {
@@ -4845,7 +4845,7 @@ ul.tabs li.active {
     margin-bottom: 100px;
   }
   .sup-light {
-    font-size: 14px;
+    font-size: 1.2rem;
     margin-top: 10px;
     line-height: initial;
     width: calc(100% - 40px);
@@ -10588,14 +10588,14 @@ button.swiper-pagination-bullet {
 
 .footer-content p {
   color: rgba(255, 255, 255, 0.8);
-  font-size: .8rem;
+  font-size: .9rem;
   font-family: roboto-regular, sans-serif;
   line-height: 18px;
   margin-bottom: 5px;
 }
 
 .footer-content .sup-bold-Italic {
-  font-size: .9rem;
+  font-size: 1.2rem;
   color: #fff;
   margin-bottom: 8px;
 }
