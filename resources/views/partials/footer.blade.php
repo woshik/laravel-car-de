@@ -13,6 +13,12 @@
                         </span>
                     </div>
                     <div class="footer-content">
+                        <h5 class="sup-bold-Italic">Call</h5>
+                        <span class="email-click link-check" id="tracker-email">
+                            <p><a href="tel:+41522428364">+41 52 242 83 64</a></p>
+                        </span>
+                    </div>
+                    <div class="footer-content">
                         <h5 class="sup-bold-Italic">Folientechnik Schweiz</h5>
                         <span class="adress-click link-check" id="tracker-adress">
                             <p>Grosswisstrasse 7</p>

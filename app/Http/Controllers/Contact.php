@@ -48,6 +48,6 @@ class Contact extends Controller
 
     public function refreshCaptcha()
     {
-        return captcha_img('flat');
+        return captcha_img('math');
     }
 }

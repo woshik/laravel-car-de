@@ -78,7 +78,7 @@
     <div class="form-field-row">
         <div class="captcha-input-form w-100 mr-0">
             <span style="width: 155px; height: 50px;">
-                {!! captcha_img('flat') !!}
+                {!! captcha_img('math') !!}
             </span>
             <button type="button" class="btn btn-sm btn-secondary" onclick="refreshCaptcha()">Refresh</button>
         </div>
