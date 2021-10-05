@@ -43,16 +43,16 @@
 
     <div class="form-field-row">
         <div class="row-2-modal">
-            <input type="text" name="telephone" class="wpcf7-text wpcf7-validates-as-required input-form"
+            <input type="tel" name="telephone" class="wpcf7-text wpcf7-validates-as-required input-form"
                 placeholder="&nbsp;" required>
             <label for="name" class="label-form">Telefon</label>
         </div>
 
         <div class="row-2-modal">
-            <input type="tel" name="address"
+            <input type="text" name="address"
                 class="wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel input-form"
                 placeholder="&nbsp;" required>
-            <label for="tel" class="label-form">
+            <label for="address" class="label-form">
                 Adresse
             </label>
         </div>
@@ -68,7 +68,7 @@
 
     <div class="form-field-row">
         <div class="row-2-modal w-100 mr-0">
-            <input type="text" name="captcha" class="wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel input-form" placeholder="&nbsp;" required autocomplete="off">
+            <input type="number" name="captcha" class="wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel input-form" placeholder="&nbsp;" required autocomplete="off">
             <label for="tel" class="label-form">
                 Captcha
             </label>
