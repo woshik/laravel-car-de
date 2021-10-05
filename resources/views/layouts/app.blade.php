@@ -84,7 +84,7 @@
 
     @include('partials.social-icon')
 
-    <a class="bingc-phone-button bingc-language-ru bingc-show" id="bingc-phone-button" style="top: 7%; right: 2%;" href="tel:tel:+41522428364">
+    <a class="bingc-phone-button bingc-language-ru bingc-show" id="bingc-phone-button" style="top: 7%; right: 2%;" href="tel:+41522428364">
         <div id="bingc-phone-button-tooltip" class="bingc-phone-button-tooltip bingc-phone-button-tooltip-top-right"> </div> 
         <svg class="bingc-phone-button-circle" version="1.1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100"
