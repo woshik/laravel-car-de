@@ -60,7 +60,7 @@
                                 <i class="fa fa-instagram instagram-awesome-social social-icon"></i>
                             </a>
 
-                            <a href="https://wa.me/41764900780" target="_blank" rel="nofollow" class="inline-block">
+                            <a href="https://wa.me/41765090780" target="_blank" rel="nofollow" class="inline-block">
                                 <i class="fa fa-whatsapp whatsapp-awesome-social social-icon"></i>
                             </a>
                         </div>

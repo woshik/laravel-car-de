@@ -7,7 +7,7 @@
         <i class="fa fa-instagram instagram-awesome-social awesome-social"></i>
     </a>
 
-    <a href="https://wa.me/41764900780" target="_blank" rel="nofollow" class=" social-icons-links">
+    <a href="https://wa.me/41765090780" target="_blank" rel="nofollow" class=" social-icons-links">
         <i class="fa fa-whatsapp whatsapp-awesome-social awesome-social"></i>
     </a>
 </div>
