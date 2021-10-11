@@ -47,6 +47,4 @@ Route::get('/detail/{slug}', [Detail::class, 'view'])->name('detail');
 
 Route::post('/send-mail', [Contact::class, 'sendEmail'])->name('send-email');
 
-Route::get('/refresh-captcha', [Contact::class, 'refreshCaptcha']);
-
 Route::get('/tesla-model-y', [TeslaModelY::class, 'view'])->name('tesla-model-y');

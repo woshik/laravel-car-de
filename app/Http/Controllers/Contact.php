@@ -22,11 +22,9 @@ class Contact extends Controller
             'telephone' => 'required|max:20',
             'address' => 'required|string|max:100',
             'message' => 'required|string',
-            'captcha' => 'required|captcha'
-        ], [
-            'captcha.captcha' => 'Invalid captcha'
+            'g-recaptcha-response' => 'required|captcha'
         ]);
-
+        
         $mail = 'info@folientechnik-schweiz.ch';
 
         Mail::to($validated['email'])->send(new ContactEmail());
@@ -43,11 +41,5 @@ class Contact extends Controller
         return response()->json([
             'success' => 'Email Successfully Sent'
         ], 200);
-
-    }
-
-    public function refreshCaptcha()
-    {
-        return captcha_img('math');
     }
 }

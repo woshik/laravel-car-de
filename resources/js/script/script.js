@@ -60,7 +60,6 @@ $(document).ready(function () {
             },
 			success: function(res) {
                 if (res.success) {
-                    refreshCaptcha()
                     $("#success-alert-message").text(res.success)
                     $("#success-alert-box").fadeIn("slow")
                     $("#contact-form")[0].reset();
@@ -72,7 +71,6 @@ $(document).ready(function () {
                 }
             },
             error: function(err) {
-                refreshCaptcha()
                 const errResponse = err.responseJSON
                 let errorArray
                 
@@ -117,13 +115,4 @@ $(document).ready(function () {
 
 function openContactModal() {
     $("#contact-modal").toggleClass("active-modal");
-}
-
-function refreshCaptcha() {
-    $.ajax({
-        url: 'refresh-captcha',
-        success: function(data) {
-            $('.captcha-input-form span').html(data)
-        },
-    })
 }

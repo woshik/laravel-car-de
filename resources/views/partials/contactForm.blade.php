@@ -67,20 +67,9 @@
     </div>
 
     <div class="form-field-row">
-        <div class="row-2-modal w-100 mr-0">
-            <input type="number" name="captcha" class="wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel input-form" placeholder="&nbsp;" required autocomplete="off">
-            <label for="tel" class="label-form">
-                Captcha
-            </label>
-        </div>
-    </div>
-
-    <div class="form-field-row">
         <div class="captcha-input-form w-100 mr-0">
-            <span style="width: 155px; height: 50px;">
-                {!! captcha_img('math') !!}
-            </span>
-            <button type="button" class="btn btn-sm btn-secondary" onclick="refreshCaptcha()">Refresh</button>
+            {!! NoCaptcha::renderJs() !!}
+            {!! NoCaptcha::display(['data-theme' => 'dark']) !!}
         </div>
         
     </div>
