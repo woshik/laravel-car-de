@@ -11,7 +11,8 @@
     <meta name="application-name" content="folientechnik-schweiz" />
     <meta name="description"
         content="Foliencenter in Zürich bieten seit 2011 alles rund um Folie am Auto an und ist seit her immer ein Begriff in Sachen Car Wrapping.">
-    <meta name="facebook-domain-verification" content="t75vcr550qensochjkn88qmulw35eu" />
+    <meta name="facebook-domain-verification" content="32eu0jr4ugc9jck3262hqgzqqe8skj" />
+
     <meta name="robots" content="index, follow" />
 
     @yield('meta')
