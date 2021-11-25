@@ -12,6 +12,7 @@
     <meta name="description"
         content="Foliencenter in Zürich bieten seit 2011 alles rund um Folie am Auto an und ist seit her immer ein Begriff in Sachen Car Wrapping.">
     <meta name="facebook-domain-verification" content="t75vcr550qensochjkn88qmulw35eu" />
+    <meta name="google-site-verification" content="AKivcejAi7-bLPOe9nhG7ZZtz2oR0SMJ8qhNfkNHaNM" />
     <meta name="robots" content="index, follow" />
 
     @yield('meta')
