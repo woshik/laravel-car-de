@@ -9,6 +9,10 @@
     <meta name="description" content="Steinschlagschutzfolie der neuen Generation! Schütze Dein Auto vor Steinschlag! ✅ Selbstheilungseffekt! ✅ 100% Steinschlagschutz » | Folientechnik Schweiz"/>
 @endsection
 
+@section('style-file')
+    <link rel="stylesheet" href="{{ mix('/css/car_paint_protection.css') }}">
+@endsection
+
 @section('content')
     <video
         src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/RocketGuard%20SelfHealing_2%20(online-video-cutter.com)_2_2_2.mp4"

@@ -9,6 +9,10 @@
     <meta name="description" content="Du willst Dich vor Hitze in deinem Auto schützen? Dann lass Dir die Scheiben tönen! ✅ UV-Schutz. ✅ Blendschutz. ✅ Sichtschutz!| Folientechnik Schweiz"/>
 @endsection
 
+@section('style-file')
+    <link rel="stylesheet" href="{{ mix('/css/car_window_tinting.css') }}">
+@endsection
+
 @section('content')
     <video
         src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/RocketGuard%20SelfHealing_2%20(online-video-cutter.com)_2_2_2.mp4"
