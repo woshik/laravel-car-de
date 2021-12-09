@@ -1,9 +1,12 @@
 @extends('layouts.app')
 
-@section('title', 'Lackschutzfolien')
+@section('title')
+    <title>Steinschlagschutzfolie von | Folientechnik Schweiz</title>
+@endsection
 
-@section('style-file')
-    <link rel="stylesheet" href="{{ mix('/css/car_paint_protection.css') }}">
+@section('meta')
+    <meta name="keywords" content="steinschlagschutzfolie" />
+    <meta name="description" content="Steinschlagschutzfolie der neuen Generation! Schütze Dein Auto vor Steinschlag! ✅ Selbstheilungseffekt! ✅ 100% Steinschlagschutz » | Folientechnik Schweiz"/>
 @endsection
 
 @section('content')

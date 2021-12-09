@@ -1,6 +1,13 @@
 @extends('layouts.app')
 
-@section('title', 'CAR WRAPPING')
+@section('title')
+    <title>Auto Folierung Zürich von | Folientechnik Schweiz</title>
+@endsection
+
+@section('meta')
+    <meta name="keywords" content="auto folierung zürich" />
+    <meta name="description" content="Dein Auto soll in neuem Glanz erstrahlen? Wir als Profis in Sachen Autofolierung helfen Dir gerne! ✅ Auto Folierung Zürich. » | Folientechnik Schweiz"/>
+@endsection
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/car_wrapping.css') }}">

@@ -1,10 +1,14 @@
 @extends('layouts.app')
 
-@section('title', 'Design deine Folie')
-
-@section('style-file')
-    <link rel="stylesheet" href="{{ mix('/css/car_wrapping_design.css') }}">
+@section('title')
+    <title>Auto Folien Design - frei wählen| Folientechnik Schweiz</title>
 @endsection
+
+@section('meta')
+    <meta name="keywords" content="auto folien design" />
+    <meta name="description" content="Auf der Suche nach besonderen Looks für Dein Auto? Unser Auto Folien Design bietet Dir eine große Auswahl! ✅ Jetzt informieren! | Folientechnik Schweiz"/>
+@endsection
+
 
 @section('content')
     <div class="header-content back-box service-2-bg">

@@ -1,9 +1,12 @@
 @extends('layouts.app')
 
-@section('title', 'Detailing')
+@section('title')
+    <title>Auto Detailing - Neuer Glanz | Folientechnik Schweiz</title>
+@endsection
 
-@section('style-file')
-    <link rel="stylesheet" href="{{ mix('/css/car_detailing.css') }}">
+@section('meta')
+    <meta name="keywords" content="auto detailing" />
+    <meta name="description" content="Du willst Dein Auto in neuem Glanz erstrahlen lassen? Dann probier unser 1 a Auto Detailing! ✅ Schutz vor Dreck ✅ Langer Schutz! | Folientechnik Schweiz"/>
 @endsection
 
 @section('content')

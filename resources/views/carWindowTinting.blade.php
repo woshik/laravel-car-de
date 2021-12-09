@@ -1,9 +1,12 @@
 @extends('layouts.app')
 
-@section('title', 'Scheiben tönen')
+@section('title')
+    <title>Scheiben Tönen lassen von | Folientechnik Schweiz</title>
+@endsection
 
-@section('style-file')
-    <link rel="stylesheet" href="{{ mix('/css/car_window_tinting.css') }}">
+@section('meta')
+    <meta name="keywords" content="scheiben tönen" />
+    <meta name="description" content="Du willst Dich vor Hitze in deinem Auto schützen? Dann lass Dir die Scheiben tönen! ✅ UV-Schutz. ✅ Blendschutz. ✅ Sichtschutz!| Folientechnik Schweiz"/>
 @endsection
 
 @section('content')

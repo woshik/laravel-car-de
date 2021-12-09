@@ -1,6 +1,13 @@
 @extends('layouts.app')
 
-@section('title', 'HOME')
+@section('title')
+    <title>Auto Folierung Schweiz mit | Folientechnik Schweiz</title>
+@endsection
+
+@section('meta')
+    <meta name="keywords" content="auto folieren schweiz" />
+    <meta name="description" content="Wir beginnen dort, wo Werbetechnik aufhört! ✅ Auto Folierung Schweiz. ✅ Lackschutz Folierung. ✅ Scheiben Tönung. Jetzt informieren | Folientechnik Schweiz"/>
+@endsection
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/home.css') }}">
