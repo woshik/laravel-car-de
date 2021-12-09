@@ -8,6 +8,8 @@
     <meta name="author" content="Folientechnik Schweiz">
     <meta name="application-name" content="folientechnik-schweiz" />
     <meta name="facebook-domain-verification" content="32eu0jr4ugc9jck3262hqgzqqe8skj" />
+    <meta name="google-site-verification" content="AKivcejAi7-bLPOe9nhG7ZZtz2oR0SMJ8qhNfkNHaNM" />
+
     <meta name="robots" content="index, follow" />
 
     @yield('title')
