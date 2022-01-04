@@ -24,6 +24,8 @@ class Contact extends Controller
             'message' => 'required|string',
             'g-recaptcha-response' => 'required|captcha'
         ]);
+
+        $validated['ip'] = $request->ip();
         
         $mail = 'info@folientechnik-schweiz.ch';
 
