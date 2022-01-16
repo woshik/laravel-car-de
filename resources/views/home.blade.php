@@ -74,7 +74,7 @@
         <section class="section-main-page-3" data-block="4">
             <h2 class="zag text-center">GEFRAGT. GETAN. ERGEBNIS</h2>
             <div class="wrapper">
-                <div class="info-box ">
+                <div class="div-flex ">
                     <div class="row-4">
                         <span class="cifra-info"> <b class="b-count"><span class="numscroller">485</span></b></span>
                         <p class="roboto-regular">Anfragen</p>
@@ -111,26 +111,7 @@
         </section>
     </div>
 
-    <div class="background-website padding-bottom-top">
-        <section class="section-main-page-7">
-            <div class="wrapper">
-                <div class="div-flex">
-                    <div class="row-form-box mobile-box-footer-form">
-                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/FolierungAuto1.png" >
-                    </div>
-                    <div class="row-form-box width-mobile-290 contact-form-box">
-                        <h2 class="zag">LASSEN SIE SICH<br />VON UNS BERATEN</h2>
-                        <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
-                            <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT ANFORDERN</button>
-                        </div>
-                    </div>
-                    <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/FolierungAuto1.png" />
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
+    @include('partials.contactForm')
 @endsection
 
 

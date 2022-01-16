@@ -225,29 +225,7 @@
         </section>
     </div>
 
-    <div class="gradient-header-bottom"></div>
-    <div class="background-website">
-        <section class="section-main-page-7">
-            <div class="wrapper">
-                <div class="div-table">
-                    <div class="row-form-box contact-form-box">
-                        <h2 class="zag">FINDE MEHR DAZU RAUS <br />
-                            ÜBER EIN DESIGN AUF IHREM AUTO
-                        </h2>
-                        <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
-                            <button type="button" class="wpcf7-form-control wpcf7-submit"
-                                onclick="openContactModal()">KONTAKT ANFORDERN</button>
-                        </div>
-                    </div>
-                    <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/NissanGTRWRap.png"
-                            alt="" />
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
+    @include('partials.contactForm')
 @endsection
 
 

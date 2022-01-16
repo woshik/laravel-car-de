@@ -60,15 +60,11 @@
 
     @include('partials.navbar')
 
-    <div>
-        @yield('content')
-    </div>
+    @yield('content')
 
     @section('footer')
         @include('partials.footer')
     @show
-
-    @include('partials.popup-contact')
 
     @include('partials.social-icon')
 

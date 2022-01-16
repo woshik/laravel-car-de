@@ -183,32 +183,7 @@
         </section>
     </div>
 
-    <div class="background-website">
-        <section class="section-main-page-7">
-            <div class="wrapper">
-                <div class="div-table">
-                    <div class="row-form-box">
-                        <h2 class="zag">
-                            Erfahren Sie mehr <br />
-                            über unser Angebot
-                        </h2>
-                        <br />
-                        <q class="car-wrapping-quote">Black Glass</q>
-                        <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
-                            <div class="screen-reader-response"></div>
-                            <button type="button" class="wpcf7-form-control wpcf7-submit"
-                                onclick="openContactModal()">KONTAKT ANFORDERN</button>
-                        </div>
-                    </div>
-                    <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-4.png"
-                            alt="" />
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
+    @include('partials.contactForm')
 @endsection
 
 

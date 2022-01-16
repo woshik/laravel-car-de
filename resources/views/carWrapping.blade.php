@@ -247,7 +247,7 @@
         <div class="gradient-header-top"></div>
         <div class="gradient-header-bottom"></div>
         <div class="wrapper">
-            <div class="info-box ">
+            <div class="div-flex">
                 <div class="row-4">
                     <span class="cifra-info"> <b class="b-count"><span class='numscroller'>192</span></b> </span>
                     <p class="roboto-regular">abgeschlossene Aufträge</p>
@@ -271,29 +271,7 @@
         </div>
     </section>
 
-    <div class="background-website padding-bottom-top">
-        <section class="section-main-page-7">
-            <div class="wrapper">
-                <div class="div-flex">
-                    <div class="row-form-box mobile-box-footer-form">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Manufaktur-Folien-Schweiz---gross.png">
-                    </div>
-                    <div class="row-form-box width-mobile-290 contact-form-box">
-                        <h2 class="zag">Kontaktieren sie uns...</h2>
-                        <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
-                            <button type="button" class="wpcf7-form-control wpcf7-submit"
-                                onclick="openContactModal()">KONTAKT ANFORDERN</button>
-                        </div>
-                    </div>
-                    <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Manufaktur-Folien-Schweiz---gross.png" />
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
+    @include('partials.contactForm')
 @endsection
 
 @section('script-file')

@@ -30,104 +30,113 @@
     </header>
 
     <div class="background-website padding-bottom-0">
-        <section class="section-deteiling-page-1">
-            <div style="margin-bottom: 35px;">
-                <h2 class="zag text-center">Steinschlagschutzfolie</h2>
-                <p class="sup-light text-center">der neuen Generation!</p>
+        <div class="box-container">
+            <div class="header-container">
+                <h1 class="zag text-center">STEINSCHLAGSCHUTZFOLIE</h1>
+                <p class="sup-light text-center">unauffällig aber mit grosser Wirkung!</p>
             </div>
-            <div class="wrapper">
-                <div class="div-table">
-                    <div class="row-4">
-                        <span class="name-icon-box box-icon-top-text">100% Steinschlagschutz</span>
-                        <i class="info-icon box-icon-custom-style"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/rocket-icon.svg)"></i>
-                        <span class="name-icon-box box-icon-top-text no-height">ROCK SOLID TOPCOAT</span>
-                        <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Besonders robuste
-                            Oberflache</span>
-                    </div>
-                    <div class="row-4">
-                        <span class="name-icon-box box-icon-top-text">Selbstheilungseffekt</span>
-                        <i class="info-icon box-icon-custom-style"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/heart-icon.svg)"></i>
-                        <span class="name-icon-box box-icon-top-text no-height">INSTANT SELF HEALING</span>
-                        <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Selbstheilung bei
-                            Raumtemperatur</span>
-                    </div>
-                    <div class="row-4">
-                        <span class="name-icon-box box-icon-top-text">Hydrophope oberfäche</span>
-                        <i class="info-icon box-icon-custom-style"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/drop-icon.svg)"></i>
-                        <span class="name-icon-box box-icon-top-text no-height">EXTREM HYDROPHOB</span>
-                        <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Oberflache wie
-                            nanoversiegelt</span>
-                    </div>
-                    <div class="row-4">
-                        <span class="name-icon-box box-icon-top-text">Super Flexibel - 3D verlegbar</span>
-                        <i class="info-icon box-icon-custom-style"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/web-icon.svg)"></i>
-                        <span class="name-icon-box box-icon-top-text no-height">DRIVEN TO DELIGHT</span>
-                        <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Support &amp;
-                            Kundenservice</span>
-                    </div>
-                </div>
+            <hr class="underline" />
+            <div class="text-center">
+                <p class="zag mb-4 heading">Unsichtbarer Retter in der Not: Steinschlagschutzfolie kann Ihr Auto vor erheblichen Schäden schützen.</p>
+                <p class="p-reg roboto-regular mb-4">Manchmal passiert es schneller, als man hinschauen kann. Während der Autofahrt wird auf der Strasse Schmutz vom Vordermann aufgewirbelt und kleine Steinchen prallen mit erheblicher Wucht auf Ihr Auto. Beim Aussteigen erwartet Sie folgendes Bild:</p>
+               
+                <p class="zag mb-4 heading">Auf dem Lack Ihres Wagens zieren nun unschöne Kratzer und Steinschläge!</p>
+                <p class="p-reg roboto-regular mb-4">Anderes Szenario, gleiches Ergebnis: Einmal nicht aufgepasst und der Schlüsselbund schlägt beim Einsteigen gegen die Autotür. Die Folge sind optische Mängel und vor allem der Wertverlust Ihres Wagens. Auch Leute, die Kinder haben und diese von A nach B bringen müssen, werden das Problem kennen.</p>
+                
+                <p class="zag mb-4 heading">Lackschäden können schon in Momenten kleinster Unaufmerksamkeit entstehen.</p>
+                <p class="p-reg roboto-regular mb-4">Doch was, wenn es ein probates Mittel gegen diese Problematik gäbe, welches obendrein Ihr Fahrzeug zum Strahlen bringt? Mit einer Steinschlagschutzfolie können Sie die Angst vor Lackschäden getrost zu den Akten legen.</p>
+                
+                <p class="p-reg roboto-regular">Im Folgenden klären wir Sie über die Wirksamkeit und Beschaffenheit der Steinschlagschutzfolie aus unserem Hause näher auf.</p>
             </div>
-        </section>
+            <hr class="underline" />
+        </div>
     </div>
 
-    <div class="background-website">
-        <section class="section-main-garant">
-            <div class="wrapper" style="display: table">
-                <div class="row-2">
-                    <div>
-                        <h3 class="zag">
-                            IHRE VORTEILE<br />
-                            MIT EINEM LACKSCHUTZPAKET
-                        </h3>
-                        <ul>
-                            <li>Schützt ihren Lack vor Steinschläge</li>
-                            <li>Hydrophope Oberfläche für leichte Reinigung</li>
-                            <li>Selbstheilungseffekt</li>
-                            <li>100% transparent</li>
-                            <li>10 Jahre volle Garantie</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row-2">
-                    <div>
-                        <h3 class="zag">
-                            OPTIMALER SCHUTZ<br />
-                            GEGEN RANDALISMUS
-                        </h3>
-                        <ul>
-                            <li>Schlüsselattacken an ihrem Lack haben keine Chance</li>
-                            <li>Schützt gegen alle Umwelteinflüsse</li>
-                            <li>Ist UV durchlässig für gleichmassige Ausbleichung der Farbe </li>
-                            <li>Fahrten im Salz sind kein Hinderniss mehr</li>
-                            <li>immer wie frisch poliert</li>
-                        </ul>
-                    </div>
-                </div>
+    <div class="background-website padding-bottom-0">
+        <div class="box-container">
+            <div class="header-container">
+                <h2 class="zag text-center">STEINSCHLAGSCHUTZFOLIE - Wissenswerte Details</h2>
             </div>
-            <button class="nice-btn" onclick="openContactModal()">
-                <i></i><span class="zadat-vopros-modal-form-btn">MEHR DAZU</span><i></i>
-            </button>
-            <div class="info-box-ragant">
-                <div class="icon-garant-box"></div>
-                <div class="content-garant-box">
-                    <div class="zag-garant-box">10 Jahre Garantie</div>
-                    <div class="text-garant-box p-reg roboto-regular">
-                        <p>
-                            Wir und unsere Hersteller geben ihnen mehr als 10 Jahre Garantie auf Verlege und
-                            Materialfehler. Wir verwenden daher nur ausgelesene Marken wie RocketGuard, Xpel oder
-                            Hexis.
-                        </p>
-                    </div>
-                </div>
+            <hr class="underline" />
+            <div class="text-center">
+                <p class="p-reg roboto-regular mb-4">Steinschlagschutzfolie ist eine transparente Folie, die auf bestimmten Fahrzeugteilen oder auf das komplette Fahrzeug angebracht wird,</p>
+
+                <p class="zag mb-4 heading">um sie vor möglichen Schäden zu schützen.</p>
+                <p class="p-reg roboto-regular mb-4">Ihr Wirkungsbereich ist dabei vielfältig. Steinschlagschutzfolie schützt, wie ihr Name schon sagt, vor Steinschlägen und Kratzern, aber auch vor Salzablagerungen, die sich vor allem zur Winterzeit häufig in den Lack fressen können.</p>
+               
+                <p class="zag mb-4 heading">Ihre selbstheilende Oberfläche lässt Waschanlagenkratzer einfach verschwinden.</p>
+                <p class="p-reg roboto-regular mb-4">Wir von Folientechnik Schweiz setzen auf Steinschlagschutzfolien aus Polyurethan, einem Material, das wegen seiner hohen Dehnbarkeit bevorzugt benutzt wird. Es bietet die Möglichkeit, die Folie gleichmässig auf der Oberfläche des Fahrzeugs anzubringen, ohne, dass optisch ein Unterschied zu erkennen wäre.</p>
+                
+                <p class="zag mb-4 heading">Ihr Auto glänzt, als wäre es frisch aus dem Werk, das ein Autoleben lang.</p>
+                <p class="p-reg roboto-regular mb-4">Dabei ist es wichtig, darauf zu achten, dass hochwertige Folie verwendet wird, da diese sich nicht durch Sonneneinstrahlung verfärben kann. Wird die Steinschlagschutzfolie beispielsweise auf dem Heck aufgetragen, werden Sie auch nach längerer Zeit keinen Farbunterschied zum Rest des Autos wahrnehmen.</p>
             </div>
-        </section>
+            <hr class="underline" />
+        </div>
     </div>
 
-    <div class="background-website">
+    <div class="background-website padding-bottom-0">
+        <div style="margin-bottom: 35px;">
+            <h2 class="zag text-center">Steinschlagschutzfolie</h2>
+            <p class="sup-light text-center">der neuen Generation!</p>
+        </div>
+        <div class="wrapper">
+            <div class="div-table">
+                <div class="row-4">
+                    <span class="name-icon-box box-icon-top-text">100% Steinschlagschutz</span>
+                    <i class="info-icon box-icon-custom-style"
+                        style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/rocket-icon.svg)"></i>
+                    <span class="name-icon-box box-icon-top-text no-height">ROCK SOLID TOPCOAT</span>
+                    <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Besonders robuste
+                        Oberflache</span>
+                </div>
+                <div class="row-4">
+                    <span class="name-icon-box box-icon-top-text">Selbstheilungseffekt</span>
+                    <i class="info-icon box-icon-custom-style"
+                        style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/heart-icon.svg)"></i>
+                    <span class="name-icon-box box-icon-top-text no-height">INSTANT SELF HEALING</span>
+                    <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Selbstheilung bei
+                        Raumtemperatur</span>
+                </div>
+                <div class="row-4">
+                    <span class="name-icon-box box-icon-top-text">Hydrophope oberfäche</span>
+                    <i class="info-icon box-icon-custom-style"
+                        style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/drop-icon.svg)"></i>
+                    <span class="name-icon-box box-icon-top-text no-height">EXTREM HYDROPHOB</span>
+                    <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Oberflache wie
+                        nanoversiegelt</span>
+                </div>
+                <div class="row-4">
+                    <span class="name-icon-box box-icon-top-text">Super Flexibel - 3D verlegbar</span>
+                    <i class="info-icon box-icon-custom-style"
+                        style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/web-icon.svg)"></i>
+                    <span class="name-icon-box box-icon-top-text no-height">DRIVEN TO DELIGHT</span>
+                    <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Support &amp;
+                        Kundenservice</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="background-website padding-bottom-0">
+        <div class="box-container">
+            <div class="header-container">
+                <h2 class="zag text-center">Steinschlagschutzfolie oder Lackschutzfolie - wo liegt der Unterschied?</h2>
+            </div>
+            <hr class="underline" />
+            <div class="text-center">
+                <p class="p-reg roboto-regular mb-4">Bei der Folierungstechnik unterscheidet man zwischen Steinschlagschutzfolie und Lackschutzfolie.</p>
+
+                <p class="zag mb-4 heading">Beide schützen effektiv den Lack des Autos,</p>
+                <p class="p-reg roboto-regular mb-4">doch die Steinschlagschutzfolie ist im Gegensatz zur Lackschutzfolie um einiges dicker und schützt dementsprechend besser vor Fremdeinwirkungen. Man trägt sie nur auf bestimmten Bereichen des Autos auf, die besonders durch Steinschlag gefährdet sind. Dazu zählt insbesondere das Heck. Deshalb sind Steinschlagschutzfolien immer UV-durchlässig,</p>
+               
+                <p class="zag mb-4 heading">um einer ungleichmässigen Verfärbung des Lacks durch Sonneneinstrahlung entgegenzuwirken.</p>
+                <p class="p-reg roboto-regular mb-4">Bei Lackschutzfolien, die meist auf der gesamten Karosserie aufgetragen werden,existieren hier auch Folienarten mit UV-Schutz. Das Sonnenlicht gelangt nicht bis zum Lack und die Farbe bleibt erhalten.</p>
+            </div>
+            <hr class="underline" />
+        </div>
+    </div>
+
+    <div class="background-website padding-bottom-0">
         <section class="section-main-garant custom-slider-style">
             <div class="slick-slider">
                 <div><a href="https://www.hexis-graphics.com/fr/" target="_blank" rel="nofollow"><img
@@ -146,50 +155,24 @@
         </section>
     </div>
 
-    <div class="background-website">
-        <section class="section-main-garant">
-            <div class="wrapper">
-                <div class="box-left-image-right-text">
-                    <div class="row">
-                        <img class="box-left-image-right-text__img "
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Lackschutzfolien Bild 1-02.png" />
-                    </div>
-                    <div class="row">
-                        <div>
-                            <h2 class="zag">
-                                Transparente Lackschutzfolien möglich
-                            </h2>
-                            <span class="p-reg roboto-regular">
-                                <p>
-                                    Lackschutzfolien müssen gar nicht immer schwarz oder grau sein, es gibt auch
-                                    transparente, d.h. unsichtbare Lösungen, um Ihren Lack perfekt vor Steinschlag zu
-                                    schützen.
-                                </p>
-                                <p>
-                                    Dabei ist es wichtig, eine
-                                    hochwertige Lackschutzfolie zu verwenden, weil ansonsten schnell Vergilbungseffekte
-                                    auftreten oder
-                                    die Folie steif wird.
-                                </p>
-                                <p>
-                                    Mit heutigen Premium Steinschlagschutzfolien sind nahezu unsichtbare
-                                    Ergebnisse erzielbar, die den Lack dauerhaft schützen, was besonders in der Frontpartie
-                                    eines Autos
-                                    wichtig ist.
-                                </p>
-                                <p>
-                                    Moderne Lackschutzfolien haben eine homogene und glatte Oberfläche und bestehen
-                                    i.d.R. aus Polyurethanfolie.
-                                </p>
-                            </span>
-                        </div>
-                    </div>
-                </div>
+    <div class="background-website padding-bottom-0">
+        <div class="box-container">
+            <div class="header-container">
+                <h2 class="zag text-center">Auf welchen Bereichen des Autos lohnt sich eine Steinschlagschutzfolie?</h2>
             </div>
-        </section>
+            <hr class="underline" />
+            <div class="text-center">
+                <p class="p-reg roboto-regular mb-4">Bei den Anwendungsbereichen der Steinschlagschutzfolie gilt: Besonders gefährdete Bereiche sollten geschützt werden. Dazu zählen zum Beispiel die</p>
+
+                <p class="zag mb-4 heading">Motorhaube, Stossstange, aber auch Kotflügel</p>
+                <p class="p-reg roboto-regular mb-4">die oft einiges mitmachen müssen. Werden Schmutz oder kleine Steine aufgewirbelt, kann es bei hoher Geschwindigkeit auf diesen Autoteilen zu Kratzern und Dellen kommen.</p>
+                <p class="p-reg roboto-regular mb-4">Auch die Aussenspiegel werden es Ihnen danken, wenn sie das nächste Mal beim Ausparken an einer Mauer entlangschrammen. Wenn Sie oft schwere Gegenstände beim Transport ein- und ausladen, kann sich eine Steinschlagschutzfolie auch an den Ladekanten, Seitenschwellern oder Türkanten lohnen.</p>
+            </div>
+            <hr class="underline" />
+        </div>
     </div>
 
-    <div class="background-website">
+    <div class="background-website padding-bottom-0">
         <h2 class="zag" style="text-align: center;">Lackschutzpakete</h2>
         <section class="section-range-tonirovka">
             <div class="wrapper">
@@ -231,80 +214,50 @@
                     <div class="name-slider-range-col number-col-slider-4" style="left: 99.999999%">
                         <i>Frontschutz<br />Folierung</i>
                     </div>
-
-                </div>
-                <div class="text-single-slider-tonirovka">
-                    Wähle dein Paket
                 </div>
             </div>
         </section>
     </div>
 
-
-    <section class="section-main-page-3">
-        <h2 class="zag text-center">LACKSCHUTZ IN ZAHLEN 2020</h2>
-        <div class="gradient-header-top"></div>
-        <div class="gradient-header-bottom"></div>
-        <div class="wrapper">
-            <div class="info-box ">
-                <div class="row-4">
-                    <span class="cifra-info">
-                        <b class="b-count">
-                            <span class='numscroller'>84</span>
-                        </b>
-                    </span>
-                    <p class="roboto-regular">Frontschutzpakete</p>
-                </div>
-                <div class="row-4">
-                    <span class="cifra-info">
-                        <b class="b-count">mehr als
-                            <span class='numscroller'>8000</span>
-                        </b>
-                    </span>
-                    <p class="roboto-regular">Steinschläge abgewärt</p>
-                </div>
-                <div class="row-4">
-                    <span class="cifra-info">
-                        <b class="b-count">
-                            <span class='numscroller'>48</span>
-                        </b>
-                        <i>Autos</i>
-                    </span>
-                    <p class="roboto-regular">Voll foliert</p>
-                </div>
-                <div class="row-4">
-                    <span class="cifra-info">
-                        <b class="b-count">
-                            <span class='numscroller'>1825</span>
-                        </b>
-                        <i>lfm+</i>
-                    </span>
-                    <p class="roboto-regular">Folie verlegt</p>
-                </div>
+    <div class="background-website padding-bottom-0">
+        <div class="box-container">
+            <div class="header-container">
+                <h2 class="zag text-center">Alle Vorteile einer Steinschlagschutzfolie für Sie zusammengefasst</h2>
             </div>
-        </div>
-    </section>
-
-    <div class="background-website">
-        <div class="wrapper">
-            <div class="div-table">
-                <div class="row-form-box">
-                    <h2 class="zag">
-                        KONTAKT
-                    </h2>
-                    <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
-                        <div class="screen-reader-response"></div>
-                        <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT
-                            ANFORDERN</button>
-                    </div>
-                </div>
-                <div class="row-form-box pc-box-footer-form">
-                    <img class="box-left-text-right-image__img"
-                        src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Lackschutzfolien Bild 2-02-03.png" />
-                </div>
+            <hr class="underline" />
+            <div class="p-reg roboto-regular list-style list-center">
+              <ul>
+                  <li>Unschlagbarer Schutz fur Ihr Auto vor Lackschaden</li>
+                  <li>Keine optische Veranderung, unsichtbar</li>
+                  <li>Selbstheilungseffekt - Lotuseffekt</li>
+                  <li>Erleichterte Reinigung, es werden weniger Schmutzpartikel angezogen</li>
+                  <li>Hohe Elastizitat sorgt für perfekte Montage vom Profi auch an gewolbten Teilen</li>
+                  <li>Waschanlagenfest - fahren Sie gewohnt durch die Waschanlage, ohne Kratzer</li>
+                  <li>Keine Verfarbung der Folie durch UV-Einstrahlung</li>
+                  <li>lange Haltbarkeit - 10 Jahre Garantie bei Folientechnik-Schweiz</li>
+              </ul>
             </div>
+            <hr class="underline" />
         </div>
     </div>
+
+    <div class="background-website padding-bottom-0">
+        <div class="box-container">
+            <div class="header-container">
+                <h3 class="zag text-center">Sie sind noch unschlüssig, ob eine Steinschutzfolie das Richtige für Ihr Auto ist?</h3>
+            </div>
+            <hr class="underline" />
+            <div class="p-reg roboto-regular text-center">
+              <p>Entscheiden Sie sich noch heute für einen optimalen Schutz von den Folientechnikern aus Zürich! Sie werden den Unterschied zwar nicht
+                sehen, aber merken. Angst vor Lackschäden können mit dem fachgerechten Auftrag einer Steinschlagschutzfolie der Vergangenheit an.
+                Nehmen Sie gerne Kontakt zu uns auf. Wir von Folientechnik Schweiz beraten Sie gerne bei der Wahl der richtigen Folierung und dem passenden
+                Anwendungsgebiet auf Ihrem Auto</p>
+            </div>
+            <hr class="underline" />
+        </div>
+    </div>
+
+    @include('partials.contactForm')
 @endsection
 
 
