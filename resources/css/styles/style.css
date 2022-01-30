@@ -222,11 +222,8 @@ body {
   text-align: center;
 }
 .wrapper {
-  width: 76vw;
   max-width: 1440px;
   margin: 0 auto;
-  position: relative;
-  z-index: 2;
 }
 .back-box {
   background-size: cover !important;
@@ -248,10 +245,9 @@ body {
 }
 .background-website {
   width: 100%;
-  height: auto;
-  position: relative;
   background: #0c0d13;
-  padding: 180px 0;
+  padding: 180px 0 0 0;
+  position: relative;
 }
 .gradient-header-top {
   width: 100%;
@@ -1044,6 +1040,7 @@ body {
 .div-table {
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
 }
 .map-contacts {
   width: 100%;
@@ -1176,25 +1173,19 @@ body {
 }
 .name-icon-box {
   font-family: supermolot-Italic, sans-serif;
-  font-size: 1vw;
+  font-size: 12px;
   color: #fff;
-  padding: 10px 0 0;
   text-align: center;
   text-transform: initial;
   display: block;
   width: 80%;
-  margin: 0 auto;
+  margin: 10px auto;
   font-weight: bolder;
 }
 .info-icon {
-  width: 9vw;
-  height: 9vw;
+  width: 65px;
+  height: 65px;
   display: block;
-  margin: 3vw auto -1.3vw;
-  background-size: 80% !important;
-  background-position: center !important;
-  position: relative;
-  background-repeat: no-repeat !important;
 }
 .section-deteiling-page-2 {
   padding-top: 230px;
@@ -5200,16 +5191,6 @@ ul.tabs li.active {
     position: relative;
   }
 
-  .info-icon {
-    width: 70px;
-    height: 70px;
-    display: block;
-    margin: 10px auto -10px;
-    background-size: 100% !important;
-    background-position: center !important;
-    position: relative;
-    background-repeat: no-repeat !important;
-  }
   .row-3 p {
     font-size: 14px;
   }
@@ -10547,6 +10528,10 @@ button.swiper-pagination-bullet {
   align-items: center;
 }
 
+.flex-column {
+  flex-direction: column;
+}
+
 .padding-bottom-top {
   padding: 100px 0 0 0;
 }
@@ -10610,6 +10595,10 @@ button.swiper-pagination-bullet {
 
   .width-mobile-290 {
     width: 290px !important;
+  }
+
+  .box-container {
+    padding: 40px !important
   }
 }
 
@@ -10693,7 +10682,7 @@ button.swiper-pagination-bullet {
 
 .captcha-input-form {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   margin-bottom: 15px;
 }
@@ -12478,14 +12467,13 @@ button.swiper-pagination-bullet {
 
 .box-container{
   background-color: #0F1824;
-  width: 76vw;
-  max-width: 1440px;
+  max-width: 1120px;
   margin: 0 auto;
   padding: 65px;
 }
 
 .underline {
-  width: 500px;
+  max-width: 500px;
   border-color: #F7A816;
   margin: 20px auto;
 }
@@ -12515,7 +12503,7 @@ button.swiper-pagination-bullet {
 }
 
 .list-center {
-  width: 590px;
+  max-width: 590px;
   margin: 0 auto;
 }
 

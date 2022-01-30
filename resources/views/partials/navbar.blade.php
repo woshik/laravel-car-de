@@ -1,5 +1,5 @@
 <div class="service-box-menu">
-    <div class="wrapper" style="display: table;">
+    <div class="wrapper">
         <a href="{{ route('car-wrapping') }}" class="row-5">
             <div class="image-service back-box" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/service/car-wrapping.jpg)"></div>
             <span>Farbwechsel mit Folie</span>

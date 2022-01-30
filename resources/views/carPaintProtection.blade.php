@@ -24,12 +24,12 @@
                 Lackschutzfolie
             </h1>
             <p class="h5 sup-light">
-                Wir schützen deine Investion...
+                Wir schützen deine Investition...
             </p>
         </div>
     </header>
 
-    <div class="background-website padding-bottom-0">
+    <div class="background-website">
         <div class="box-container">
             <div class="header-container">
                 <h1 class="zag text-center">STEINSCHLAGSCHUTZFOLIE</h1>
@@ -52,7 +52,7 @@
         </div>
     </div>
 
-    <div class="background-website padding-bottom-0">
+    <div class="background-website">
         <div class="box-container">
             <div class="header-container">
                 <h2 class="zag text-center">STEINSCHLAGSCHUTZFOLIE - Wissenswerte Details</h2>
@@ -74,50 +74,46 @@
         </div>
     </div>
 
-    <div class="background-website padding-bottom-0">
+    <div class="background-website">
         <div style="margin-bottom: 35px;">
             <h2 class="zag text-center">Steinschlagschutzfolie</h2>
             <p class="sup-light text-center">der neuen Generation!</p>
         </div>
         <div class="wrapper">
             <div class="div-table">
-                <div class="row-4">
-                    <span class="name-icon-box box-icon-top-text">100% Steinschlagschutz</span>
-                    <i class="info-icon box-icon-custom-style"
-                        style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/rocket-icon.svg)"></i>
-                    <span class="name-icon-box box-icon-top-text no-height">ROCK SOLID TOPCOAT</span>
-                    <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Besonders robuste
+                <div class="row-4 div-flex flex-column">
+                    <span class="name-icon-box">100% Steinschlagschutz</span>
+                    <img class="info-icon" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/rocket-icon.svg" alt="rocket" />
+                    <span class="name-icon-box">ROCK SOLID TOPCOAT</span>
+                    <span class="name-icon-box box-icon-custom">Besonders robuste
                         Oberflache</span>
                 </div>
-                <div class="row-4">
-                    <span class="name-icon-box box-icon-top-text">Selbstheilungseffekt</span>
-                    <i class="info-icon box-icon-custom-style"
-                        style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/heart-icon.svg)"></i>
-                    <span class="name-icon-box box-icon-top-text no-height">INSTANT SELF HEALING</span>
-                    <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Selbstheilung bei
+                <div class="row-4 div-flex flex-column">
+                    <span class="name-icon-box">Selbstheilungseffekt</span>
+                    <img class="info-icon" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/heart-icon.svg" alt="heart" />
+                    <span class="name-icon-box">INSTANT SELF HEALING</span>
+                    <span class="name-icon-box box-icon-custom">Selbstheilung bei
                         Raumtemperatur</span>
                 </div>
-                <div class="row-4">
-                    <span class="name-icon-box box-icon-top-text">Hydrophope oberfäche</span>
-                    <i class="info-icon box-icon-custom-style"
-                        style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/drop-icon.svg)"></i>
-                    <span class="name-icon-box box-icon-top-text no-height">EXTREM HYDROPHOB</span>
-                    <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Oberflache wie
+                <div class="row-4 div-flex flex-column">
+                    <span class="name-icon-box">Hydrophope oberfäche</span>
+                    <img class="info-icon" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/drop-icon.svg" alt="drop" />
+                    <span class="name-icon-box">EXTREM HYDROPHOB</span>
+                    <span class="name-icon-box box-icon-custom">Oberflache wie
                         nanoversiegelt</span>
                 </div>
-                <div class="row-4">
-                    <span class="name-icon-box box-icon-top-text">Super Flexibel - 3D verlegbar</span>
-                    <i class="info-icon box-icon-custom-style"
-                        style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/web-icon.svg)"></i>
-                    <span class="name-icon-box box-icon-top-text no-height">DRIVEN TO DELIGHT</span>
-                    <span class="name-icon-box box-icon-top-text box-icon-custom no-height">Support &amp;
+                <div class="row-4 div-flex flex-column">
+                    <span class="name-icon-box">Super Flexibel - 3D verlegbar</span>
+                    <img class="info-icon" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/web-icon.svg" alt="web" />
+                    <span class="name-icon-box">DRIVEN TO DELIGHT</span>
+                    <span class="name-icon-box box-icon-custom">Support &amp;
                         Kundenservice</span>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="background-website padding-bottom-0">
+    <div class="background-website">
         <div class="box-container">
             <div class="header-container">
                 <h2 class="zag text-center">Steinschlagschutzfolie oder Lackschutzfolie - wo liegt der Unterschied?</h2>
@@ -136,26 +132,30 @@
         </div>
     </div>
 
-    <div class="background-website padding-bottom-0">
+    <div class="background-website">
         <section class="section-main-garant custom-slider-style">
             <div class="slick-slider">
-                <div><a href="https://www.hexis-graphics.com/fr/" target="_blank" rel="nofollow"><img
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/bodyfencelong.png" /></a>
+                <div>
+                    <a href="https://www.xpel.com/" target="_blank" rel="nofollow">
+                        <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/XPEL_White.png" alt="xpel" />
+                    </a>
                 </div>
-                <div><a href="https://rocketguard.shop/" target="_blank" rel="nofollow"><img
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/RocketGuard Logo-03.png"></a>
+                <div>
+                    <a href="https://www.hexis-graphics.com/fr/" target="_blank" rel="nofollow">
+                        <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/bodyfencelong.png" alt="bodyfence" />
+                    </a>
                 </div>
-                <div><a href="https://www.scotchgard.com/3M/en_US/scotchgard/" target="_blank" rel="nofollow"><img
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/scotchguard3Mweiss-01.png"></a>
-                </div>
-                <div><a href="https://www.xpel.com/" target="_blank" rel="nofollow"><img
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/XPEL_White.png"></a>
-                </div>
+
+                <div>
+                    <a href="https://www.premiumshield.de/" target="_blank" rel="nofollow">
+                        <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/LogoPMS" alt="premiumshield">
+                    </a>
+                </div> 
             </div>
         </section>
     </div>
 
-    <div class="background-website padding-bottom-0">
+    <div class="background-website">
         <div class="box-container">
             <div class="header-container">
                 <h2 class="zag text-center">Auf welchen Bereichen des Autos lohnt sich eine Steinschlagschutzfolie?</h2>
@@ -172,7 +172,7 @@
         </div>
     </div>
 
-    <div class="background-website padding-bottom-0">
+    <div class="background-website">
         <h2 class="zag" style="text-align: center;">Lackschutzpakete</h2>
         <section class="section-range-tonirovka">
             <div class="wrapper">
@@ -219,7 +219,7 @@
         </section>
     </div>
 
-    <div class="background-website padding-bottom-0">
+    <div class="background-website">
         <div class="box-container">
             <div class="header-container">
                 <h2 class="zag text-center">Alle Vorteile einer Steinschlagschutzfolie für Sie zusammengefasst</h2>
@@ -241,7 +241,7 @@
         </div>
     </div>
 
-    <div class="background-website padding-bottom-0">
+    <div class="background-website">
         <div class="box-container">
             <div class="header-container">
                 <h3 class="zag text-center">Sie sind noch unschlüssig, ob eine Steinschutzfolie das Richtige für Ihr Auto ist?</h3>

@@ -14,7 +14,7 @@
 
     @yield('title')
     @yield('meta')
-
+    
     <link rel="shortcut icon" href="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/logo.ico" type="image/x-icon">
     <link rel="canonical" href="https://www.folientechnik-schweiz.ch/">
     <link rel="preconnect" href="https://raw.githubusercontent.com">
