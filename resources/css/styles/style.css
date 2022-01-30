@@ -3344,7 +3344,7 @@ ul.tabs li.active {
   margin-top: -3vw;
 }
 .name-slider-range-col i {
-  font-size: 1.2vw;
+  font-size: 1rem;
   color: #3d95ee;
   text-transform: uppercase;
   margin: 0 0 0 -2vw;
@@ -5838,7 +5838,7 @@ ul.tabs li.active {
   }
   .name-slider-range-col i {
     font-family: supermolot-bold-Italic, sans-serif;
-    font-size: 16px;
+    font-size: 12px;
     color: #3d95ee;
     text-transform: uppercase;
     margin: 0 0 0 -22px;
