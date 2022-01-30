@@ -81,28 +81,28 @@
         </div>
         <div class="wrapper">
             <div class="div-table">
-                <div class="row-4 div-flex flex-column">
+                <div class="row-4 d-flex flex-column align-items-center m-b-32">
                     <span class="name-icon-box">100% Steinschlagschutz</span>
                     <img class="info-icon" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/rocket-icon.svg" alt="rocket" />
                     <span class="name-icon-box">ROCK SOLID TOPCOAT</span>
                     <span class="name-icon-box box-icon-custom">Besonders robuste
                         Oberflache</span>
                 </div>
-                <div class="row-4 div-flex flex-column">
+                <div class="row-4 d-flex flex-column align-items-center m-b-32">
                     <span class="name-icon-box">Selbstheilungseffekt</span>
                     <img class="info-icon" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/heart-icon.svg" alt="heart" />
                     <span class="name-icon-box">INSTANT SELF HEALING</span>
                     <span class="name-icon-box box-icon-custom">Selbstheilung bei
                         Raumtemperatur</span>
                 </div>
-                <div class="row-4 div-flex flex-column">
+                <div class="row-4 d-flex flex-column align-items-center m-b-32">
                     <span class="name-icon-box">Hydrophope oberfäche</span>
                     <img class="info-icon" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/drop-icon.svg" alt="drop" />
                     <span class="name-icon-box">EXTREM HYDROPHOB</span>
                     <span class="name-icon-box box-icon-custom">Oberflache wie
                         nanoversiegelt</span>
                 </div>
-                <div class="row-4 div-flex flex-column">
+                <div class="row-4 d-flex flex-column align-items-center m-b-32">
                     <span class="name-icon-box">Super Flexibel - 3D verlegbar</span>
                     <img class="info-icon" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/icon/web-icon.svg" alt="web" />
                     <span class="name-icon-box">DRIVEN TO DELIGHT</span>
@@ -148,7 +148,7 @@
 
                 <div>
                     <a href="https://www.premiumshield.de/" target="_blank" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/LogoPMS.png" alt="premiumshield">
+                        <img class="image-22" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/LogoPMS.png" alt="premiumshield">
                     </a>
                 </div> 
             </div>

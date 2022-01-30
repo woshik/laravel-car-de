@@ -5,4 +5,13 @@ $('.slick-slider').slick({
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 3000,
+    responsive: [
+        {
+            breakpoint: 720,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+        },
+    ]
 });
