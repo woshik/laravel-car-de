@@ -148,7 +148,7 @@
 
                 <div>
                     <a href="https://www.premiumshield.de/" target="_blank" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/LogoPMS" alt="premiumshield">
+                        <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/LogoPMS.png" alt="premiumshield">
                     </a>
                 </div> 
             </div>
