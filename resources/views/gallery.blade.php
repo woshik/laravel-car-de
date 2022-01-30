@@ -27,8 +27,7 @@
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">BMW folieren Zürich</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Sie möchten ihr Auto folieren lassen und suchen einen fachmännischen Autofolierer in Raum Zürich, Thurgau und St.Gallen?</p>
                         </div>
                     </div>
                 </a>
@@ -39,8 +38,7 @@
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">Chevrolet Camaro folieren Schweiz</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Sie möchten ihr Auto folieren lassen und suchen einen fachmännischen Autofolierer in Raum Zürich, Thurgau und St.Gallen?</p>
                         </div>
                     </div>
                 </a>
@@ -51,8 +49,7 @@
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">Corvette folieren Zürich</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Sie möchten ihr Auto folieren lassen und suchen einen fachmännischen Autofolierer in Raum Zürich, Thurgau und St.Gallen?</p>
                         </div>
                     </div>
                 </a>
@@ -63,8 +60,7 @@
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">Die Folizei</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Sie möchten ihr Auto folieren lassen und suchen einen fachmännischen Autofolierer in Raum Zürich, Thurgau und St.Gallen?</p>
                         </div>
                     </div>
                 </a>
@@ -75,8 +71,7 @@
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">Ferrari folieren Schweiz</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Sie möchten ihr Auto folieren lassen und suchen einen fachmännischen Autofolierer in Raum Zürich, Thurgau und St.Gallen?</p>
                         </div>
                     </div>
                 </a>
@@ -87,8 +82,7 @@
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">Fiat Abarth - 124 Folierung Zürich</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Sie möchten ihr Auto folieren lassen und suchen einen fachmännischen Autofolierer in Raum Zürich, Thurgau und St.Gallen?</p>
                         </div>
                     </div>
                 </a>
@@ -99,8 +93,7 @@
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">Mercedes folieren Zürich</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Sie möchten ihr Auto folieren lassen und suchen einen fachmännischen Autofolierer in Raum Zürich, Thurgau und St.Gallen?</p>
                         </div>
                     </div>
                 </a>
@@ -111,8 +104,7 @@
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">Nissan GTR folieren Schweiz</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Sie möchten ihr Auto folieren lassen und suchen einen fachmännischen Autofolierer in Raum Zürich, Thurgau und St.Gallen?</p>
                         </div>
                     </div>
                 </a>
@@ -123,8 +115,7 @@
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">Porsche 911 Turbo folieren Schweiz</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Sie möchten ihr Auto folieren lassen und suchen einen fachmännischen Autofolierer in Raum Zürich, Thurgau und St.Gallen?</p>
                         </div>
                     </div>
                 </a>
@@ -146,8 +137,7 @@
                     <div class="hover-portfolio-box">
                         <div>
                             <span class="hover-portfolio-box_zag">Porsche folieren Schweiz</span>
-                            <p class="hover-portfolio-box_text p-reg roboto-regular">Яркие дизайны, смены цветов,
-                                феерические сочетания красок никогда полностью не вытеснят классику....</p>
+                            <p class="hover-portfolio-box_text p-reg roboto-regular">Sie möchten ihr Auto folieren lassen und suchen einen fachmännischen Autofolierer in Raum Zürich, Thurgau und St.Gallen?</p>
                         </div>
                     </div>
                 </a>
