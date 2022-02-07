@@ -98,9 +98,9 @@
                     </div>
                     <hr class="underline" />
                     <div class="div-flex">
-                        <button class="nice-btn plenka-modal-protection-btn custom-button-style">
+                        <a href="#contact" class="nice-btn plenka-modal-protection-btn custom-button-style">
                             Kostenloses Beratungsgespräch buchen
-                        </button>
+                        </a>
                     </div>
                 </div>
                 <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
@@ -154,9 +154,9 @@
                     </div>
                     <hr class="underline" />
                     <div class="div-flex">
-                        <button class="nice-btn plenka-modal-protection-btn custom-button-style">
+                        <a  href="#contact" class="nice-btn plenka-modal-protection-btn custom-button-style">
                             Kostenloses Beratungsgespräch buchen
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -180,9 +180,9 @@
                     </div>
                     <hr class="underline" />
                     <div class="div-flex">
-                        <button class="nice-btn plenka-modal-protection-btn custom-button-style">
+                        <a href="#contact" class="nice-btn plenka-modal-protection-btn custom-button-style">
                             Kostenloses Beratungsgespräch buchen
-                        </button>
+                        </a>
                     </div>
                 </div>
                 <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">

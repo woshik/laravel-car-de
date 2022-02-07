@@ -1,4 +1,4 @@
-<div class="background-website">
+<div class="background-website" id="contact">
     <div class="wrapper" style="max-width: 635px;">
         <div class="div-flex flex-column">
             <div class="row-form-box mb-4">
