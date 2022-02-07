@@ -141,7 +141,7 @@
                     </a>
                 </div>
                 <div>
-                    <a href="https://www.hexis-graphics.com/fr/" target="_blank" rel="nofollow">
+                    <a href="https://www.hexis-graphics.com/" target="_blank" rel="nofollow">
                         <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/bodyfencelong.png" alt="bodyfence" />
                     </a>
                 </div>

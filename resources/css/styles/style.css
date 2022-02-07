@@ -4388,6 +4388,22 @@ ul.tabs li.active {
   }
 }
 @media (max-width: 1023px) {
+  .flex-column-reverse-1023 {
+    flex-direction: column-reverse;
+  }
+
+  .flex-column-1023 {
+    flex-direction: column;
+  }
+
+  .half-width-min-1023 {
+    width: unset !important;
+  }
+
+  .image-border-margin {
+    margin: 0 0 24px 0 !important;
+  }
+
   #video {
     display: none;
   }
@@ -10343,7 +10359,7 @@ button.swiper-pagination-bullet {
 }
 
 .custom-button-style {
-  width: 100%;
+  padding: 5px 10px;
   color: #fff;
   background-color: #1B4268;
   font-weight: bolder;
@@ -12461,6 +12477,7 @@ button.swiper-pagination-bullet {
   max-width: 1120px;
   margin: 0 auto;
   padding: 65px;
+  border-radius: 14px;
 }
 
 .underline {
@@ -12556,4 +12573,12 @@ button.swiper-pagination-bullet {
 
 .m-b-32{
   margin-bottom: 32px;
+}
+
+.half-width-min-1023 {
+  width: 50%;
+}
+
+.image-border-margin {
+  margin: 0 24px;
 }
