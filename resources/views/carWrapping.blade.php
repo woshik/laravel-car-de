@@ -137,7 +137,7 @@
         <div class="wrapper">
             <div class="d-flex flex-column-1023">
                 <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
-                    <img class="image-width-100 " src="https://github.com/woshik/laravel-car-de/blob/main/public/images/feature-images/CorvettefolierenSchweiz.png" alt="Folientechnik Schweiz - diese Methoden und Arten stehen Ihnen zur Wahl" />
+                    <img class="image-width-100 " src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/CorvettefolierenSchweiz.png" alt="Folientechnik Schweiz - diese Methoden und Arten stehen Ihnen zur Wahl" />
                 </div>
                 <div class="box-container half-width-min-1023">
                     <div class="header-container">
