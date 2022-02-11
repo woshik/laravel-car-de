@@ -25,76 +25,36 @@
             <p class="h5 sup-light">Folierung, Lackschutz und mehr...</p>
         </div>
     </header>
-    
-    <div class="background-website box-shadow background-website-padding-top padding-bottom-0">
-        <section class="section-main-page-1">
-            <div class="wrapper">
-                <div class="box-left-text-right-image clearfix">
-                    <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/home-BMWfolierenSchweiz.png" alt="BMW Folientechnik Schweiz" />
+
+    <div class="background-website">
+        <div class="wrapper">
+            <div class="d-flex flex-column-reverse-1023">
+                <div class="box-container half-width-min-1023">
+                    <div class="header-container">
+                        <h2 class="zag text-center">Folientechnik Schweiz</h2>
                     </div>
-                    <div class="row">
-                        <div>
-                            <h2 class="zag">Folientechnik Schweiz</h2>
-                            <span class="p-reg roboto-regular">
-                                <p>Foliencenter in Zürich bieten seit 2011 alles rund um Folie am Auto an und ist
-                                    seit her
-                                    immer ein Begriff in Sachen Car Wrapping.</p>
-                                <p>Wir arbeiten stets mit den besten Marken und Folien. Platinum Wrapping Film und
-                                    RocketGuard sind unsere Premium Folien, denn noch bieten wir auf Kundenwunsch
-                                    andere
-                                    Marken wie 3M, Avery, Oracal, KPMF, Sott, Llumar und noch vieles mehr.</p>
-                                <p>Durch direkten Kontakt zum Hersteller sind wir immer am laufenden mit den
-                                    neuersten
-                                    Trendfarben und haben diese sofort auf Lager.</p>
-                                <p>Unser Handwerk mit dem Know How und After Sale Support lässt uns Schweizweit
-                                    einzigartig
-                                    wirken.</p>
-                                <p>Jedes Projekt wird als Unikat behandelt mit Schweizer Standart mit exklusiven
-                                    Niveau, kein
-                                    Design wird identisch gemacht, keine Scheibentönung ohne 100% Garantie, keine
-                                    Luxuswagen
-                                    mit der entsprechenden Behandlung. Folientechnik Schweiz ist jedes Mal
-                                    einzigartig wie
-                                    unsere Kunden.</p>
-                            </span>
-                        </div>
+                    <hr class="underline" />
+                    <div class="text-center">
+                        <p class="p-reg roboto-regular mb-4">Foliencenter in Zürich bieten seit 2011 alles rund um Folie am Auto an und ist seit her immer ein Begriff in Sachen Car Wrapping.</p>
+                        <p class="p-reg roboto-regular mb-4">Wir arbeiten stets mit den besten Marken und Folien. Platinum Wrapping Film und RocketGuard sind unsere Premium Folien, denn noch bieten wir auf Kundenwunsch andere Marken wie 3M, Avery, Oracal, KPMF, Sott, Llumar und noch vieles mehr.</p>
+                        <p class="p-reg roboto-regular mb-4">Durch direkten Kontakt zum Hersteller sind wir immer am laufenden mit den neuersten Trendfarben und haben diese sofort auf Lager.</p>   
+                        <p class="p-reg roboto-regular mb-4">Unser Handwerk mit dem Know How und After Sale Support lässt uns Schweizweit einzigartig wirken.</p>
+                        <p class="p-reg roboto-regular mb-4">Jedes Projekt wird als Unikat behandelt mit Schweizer Standart mit exklusiven Niveau, kein Design wird identisch gemacht, keine Scheibentönung ohne 100% Garantie, keine Luxuswagen mit der entsprechenden Behandlung. Folientechnik Schweiz ist jedes Mal einzigartig wie unsere Kunden.</p>
                     </div>
-                    <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/home-BMWfolierenSchweiz.png" alt="BMW Folientechnik Schweiz" />
-                    </div>
+                    <hr class="underline" />
+                </div>
+                <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
+                    <img class="image-width-100 " src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/home-BMWfolierenSchweiz.png" alt="BMW Folientechnik Schweiz" />
                 </div>
             </div>
-        </section>
+        </div>
     </div>
-    <div class="background-website padding-bottom-0">
+    
+    <div class="background-website">
+        @include('partials.services')   
+    </div>
 
-        @include('partials.services')
-
-        <section class="section-main-page-3" data-block="4">
-            <h2 class="zag text-center">GEFRAGT. GETAN. ERGEBNIS</h2>
-            <div class="wrapper">
-                <div class="div-flex ">
-                    <div class="row-4">
-                        <span class="cifra-info"> <b class="b-count"><span class="numscroller">485</span></b></span>
-                        <p class="roboto-regular">Anfragen</p>
-                    </div>
-                    <div class="row-4">
-                        <span class="cifra-info"> <b class="b-count"><span class="numscroller">47</span></b></span>
-                        <p class="roboto-regular">Abgeschlossene Arbeiten</p>
-                    </div>
-                    <div class="row-4">
-                        <span class="cifra-info"> <b class="b-count"><span class="numscroller">3800</span>+</b></span>
-                        <p class="roboto-regular">Verklebte Folie</p>
-                    </div>
-                    <div class="row-4">
-                        <span class="cifra-info"> <b class="b-count"><span class="numscroller">11</span></b></span>
-                        <p class="roboto-regular">Zertifizierte Spezialisten</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
+    <div class="background-website">
         <section class="section-main-page-3 section-main-page-6" style="margin: 0;">
             <h2 class="zag text-center">Unser Team</h2>
             <div class="wrapper">
