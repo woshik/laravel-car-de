@@ -1,6 +1,13 @@
 @extends('layouts.app')
 
-@section('title', 'CAR WRAPPING')
+@section('title')
+    <title>Auto Folierung Zürich von | Folientechnik Schweiz</title>
+@endsection
+
+@section('meta')
+    <meta name="keywords" content="auto folierung zürich" />
+    <meta name="description" content="Dein Auto soll in neuem Glanz erstrahlen? Wir als Profis in Sachen Autofolierung helfen Dir gerne! ✅ Auto Folierung Zürich. » | Folientechnik Schweiz"/>
+@endsection
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/car_wrapping.css') }}">
@@ -13,280 +20,179 @@
 
     <header class="header">
         <div class="header-content-box">
-            <h1 class="h1 sup-bold-Italic">Auto folieren</h1>
-            <p class="h5 sup-light">Die Kunst zu folieren...</p>
+            <h1 class="h1 sup-bold-Italic">Auto folieren Schweiz</h1>
+            <p class="h5 sup-light">Wrapped just for you</p>
         </div>
     </header>
 
-    <div class="background-website background-website-padding-top padding-bottom-0">
-        <section class="section-main-page-1">
-            <div class="wrapper">
-                <div class="box-left-text-right-image clearfix">
-                    <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/AutofolierungSchweiz---Bild-Nr.1-.png" />
-                    </div>
-                    <div class="row">
-                        <div>
-                            <h2 class="zag">Auto folieren im Kanton Zürich</h2>
-                            <span class="p-reg roboto-regular">
-                                <p>Das Thema Auto folieren ist nicht nur in Zürich populär, sondern in der ganzen Schweiz,
-                                    wie der
-                                    Kundenzustrom zur Folientechnik Schweiz nach Ellikon an der Thur – nordöstlich von
-                                    Winterthur
-                                    zeigt. Häufig besteht der Wunsch, sein Auto zu folieren aus dem Grund, dass man das Auto
-                                    vor
-                                    Steinschlagschäden mit einer Lackschutzfolie schützen möchte, was nicht nur bei
-                                    Leasingfahrzeugen
-                                    Sinn macht. Wer einmal bei einer Leasingfahrzeug-Rückgabe eine Wertminderung wegen
-                                    Steinschlagschäden abgezogen bekommen hat, weiß warum die Lackschutzfolie Sinn macht.
-                                </p>
-                            </span>
-                        </div>
-                    </div>
-                    <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/AutofolierungSchweiz---Bild-Nr.1-.png" />
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-    <div class="background-website padding-bottom-0">
-        <section class="section-main-page-1">
-            <div class="wrapper">
-                <div class="box-left-text-right-image flex-reverse-row clearfix">
-                    <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img"
-                            src="https://github.com/woshik/laravel-car-de/blob/main/public/images/feature-images/Orange%20Chrom%20Matte.png?raw=true">
-                    </div>
-                    <div class="row">
-                        <div>
-                            <h2 class="zag">Was gehört alles zum Thema Auto folieren?</h2>
-                            <span class="p-reg roboto-regular">
-                                <p>Auto Folieren kann verschiedene Facetten haben, nicht immer wird ein Auto ganz mit Folie
-                                    versehen,
-                                    die häufigsten Anwendungen sind:</p>
-                                <ul>
-                                    <li>Anbringung von Lackschutzfolie ganzes Fahrzeug oder Teilbereiche.</li>
-
-                                    <li>Auto Beschriftung, um das Auto als Werbeträger zu nutzen.</li>
-
-                                    <li>Car Wrapping, um das Fahrzeug aufzuwerten oder ein cooles Aussehen zu erreichen.
-                                    </li>
-                                    <li>Scheiben tönen</li>
-                                </ul>
-                                <div class="div-flex">
-                                    <button onclick="openContactModal()"
-                                        class="width-260 nice-btn plenka-modal-decor-btn custom-button-style"
-                                        style="padding: 5px 0">
-                                        <img width="60%"
-                                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/extra/button.png" />
-                                    </button>
-                                </div>
-
-                            </span>
-                        </div>
-                    </div>
-                    <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img"
-                            src="https://github.com/woshik/laravel-car-de/blob/main/public/images/feature-images/Orange%20Chrom%20Matte.png?raw=true" />
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-
-    <div class="background-website padding-bottom-0">
-        <section class="section-main-page-1">
-            <div class="wrapper">
-                <div class="box-left-text-right-image clearfix">
-                    <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/BMW%20Z4%20-%20Chrom%20Matte%20Folierung_.png">
-                    </div>
-                    <div class="row">
-                        <div>
-                            <h2 class="zag">Moderne Autofolien haben viele Vorteile</h2>
-                            <span class="p-reg roboto-regular">
-                                <p>
-                                    Die Folien für die Auto-Folierung haben sich die letzten Jahre unglaublich
-                                    weiterentwickelt: Wer
-                                    heute aus Zürich, Winterthur oder einem anderen Ort zu uns zum Auto folieren kommt, kann
-                                    sich auf
-                                    die folgenden Eigenschaften einer Lackschutzfolie verlassen:
-                                </p>
-                                <ul>
-                                    <li>100% Steinschlagschutz durch besonders robuste Qualität</li>
-                                    <li>Selbstheilungseffekt der Folie bereits bei Raumtemperatur</li>
-                                    <li>Nanoversiegelte Oberfläche – wasserabweisend</li>
-                                </ul>
-
-                                <div class="div-flex">
-                                    <button onclick="openContactModal()"
-                                        class="width-320 nice-btn plenka-modal-protection-btn custom-button-style"
-                                        style="padding: 5px 0">
-                                        Jetzt Termin vereinbaren
-                                    </button>
-                                </div>
-                            </span>
-                        </div>
-                    </div>
-                    <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/BMW%20Z4%20-%20Chrom%20Matte%20Folierung_.png">
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-    <div class="background-website padding-bottom-0">
-        <section class="section-deteiling-page-1">
-            <h2 class="zag text-center">Was ist in unserem service <br /> inbegriffen?</h2>
-            <p class="sup-light text-center">In der Regel dauern unsere Projekte 3 - 7 Werkstage<br>je nach Umfang
-                des
-                Projektes!</p>
-            <div class="wrapper">
-                <div class="div-flex-wrap">
-                    <div class="row-4">
-                        <i class="info-icon"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-2.svg)"></i>
-                        <span class="name-icon-box">3 Phasen Handwäsche</span>
-                    </div>
-                    <div class="row-4">
-                        <i class="info-icon"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-5.svg)"></i>
-                        <span class="name-icon-box">Lackzusstandskontrolle</span>
-                    </div>
-                    <div class="row-4">
-                        <i class="info-icon"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-4.svg)"></i>
-                        <span class="name-icon-box">fachgerechte Demontage</span>
-                    </div>
-                    <div class="row-4">
-                        <i class="info-icon"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-3.svg)"></i>
-                        <span class="name-icon-box">Wax, Kleberesteentfernung <br> und Entfetten</span>
-                    </div>
-                    <div class="row-4">
-                        <i class="info-icon"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy.svg)"></i>
-                        <span class="name-icon-box">fachgerechte Folierung <br> vom Profi</span>
-                    </div>
-                    <div class="row-4">
-                        <i class="info-icon"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-6.svg)"></i>
-                        <span class="name-icon-box">fachgerechte Montage</span>
-                    </div>
-                    <div class="row-4">
-                        <i class="info-icon"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-12.svg)"></i>
-                        <span class="name-icon-box">Aufbereitung <br> zur Auslieferung</span>
-                    </div>
-                    <div class="row-4">
-                        <i class="info-icon"
-                            style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/test-copy-11.svg)"></i>
-                        <span class="name-icon-box">Qualitätskontrolle</span>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
     <div class="background-website">
-        <section class="section-main-page-1">
-            <div class="wrapper">
-                <div class="box-left-text-right-image flex-reverse-row clearfix">
-                    <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Bild-3-I-Wrapping.png">
-                    </div>
-                    <div class="row">
-                        <div>
-                            <h2 class="zag text-center">Warum zur Folientechnik Schweiz kommen?</h2>
-                            <div class="quote-block">
-                                <p class="car-wrapping-quote">Kunden aus der ganzen Schweiz kommen nach Ellikon im Kanton Zürich, um das Auto folieren zu
-                                    lassen. Das hat seinen Grund. Sein Auto sollte man nur von Profis mit Profi-Folien folieren lassen.
-                                    Ansonsten läuft man Gefahr, dass sich unschöne Blasen bilden oder die Folie nur bei der Übergabe
-                                    des Fahrzeugs gut aussieht und sich die Folien schnell wieder an verschiedenen Stellen ablösen.
-                                </p>
-                            </div>
-
-                            <span class="p-reg roboto-regular text-center">
-                                <p>Wir bei der Folientechnik Schweiz verwenden ausschliesslich hochwertige Markenfolien z.B. von:</p>
-                                <ul>
-                                    <li>Rocket Guard</li>
-                                    <li>Xpel</li>
-                                    <li>Hexis</li>
-                                </ul>
-                                <p>Daher können herstellerseits und von uns auch 10 Jahre Garantie auf die Folienverlegung und
-                                    Materialbeschaffenheit (Materialfehler) gegeben werden.</p>
-                                <div class="div-flex">
-                                    <button class="nice-btn" onclick="openContactModal()"><i></i>EIGENE FOLIE
-                                        GESTALTEN...<i></i></button>
-                                </div>
-                            </span>
-                        </div>
-                    </div>
-                    <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Bild-3-I-Wrapping.png" />
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-    <section class="section-main-page-3" data-block="7">
-        <h2 class="zag text-center">Unsere Statistik für 2020</h2>
-        <div class="gradient-header-top"></div>
-        <div class="gradient-header-bottom"></div>
         <div class="wrapper">
-            <div class="info-box ">
-                <div class="row-4">
-                    <span class="cifra-info"> <b class="b-count"><span class='numscroller'>192</span></b> </span>
-                    <p class="roboto-regular">abgeschlossene Aufträge</p>
+            <div class="d-flex flex-column-reverse-1023">
+                <div class="box-container half-width-min-1023">
+                    <div class="header-container">
+                        <h2 class="zag text-center">Auto folieren Schweiz - Foliert nur für dich!</h2>
+                        <p class="sup-light text-center">cooler Style, faire Preis</p>
+                    </div>
+                    <hr class="underline" />
+                    <div class="text-center">
+                        <p class="zag mb-4 heading">Wir verleihen ihrem Fahrzeug einen neuen Look!</p>
+                        <p class="p-reg roboto-regular mb-4">Felgen, Auspuff, Lenkräder… Es gibt unzählige Möglichkeiten, ein Auto zu individualisieren und ihm eine persönliche Note zu verleihen. Eine besonders moderne und vielfältige Variante besteht Adaurtion ,F doalise ren in der Schweiz bei unseren erfahrenen Profis zu nutzen.</p>
+                        <p class="p-reg roboto-regular mb-4">Hierbei wird Ihr Fahrzeug mit einer ansprechenden, hochwertigen Folie versehen. Diese erzeugt auf Wunsch angenehme optische Effekte und bietet gleichzeitig eine hohe Schutzfunktion. Die einzelnen Lösungen können prinzipiell auf jedes Fahrzeug angepasst werden, sodass Sie beim Auto Folieren in der Schweiz eine grosse Flexibilität und Gestaltungsfreiheit geniessen.</p>
+                        <p class="p-reg roboto-regular mb-4">Das Auto Folieren in der Schweiz eignet sich sowohl für den Aussen- als auch für den Innenbereich eines Fahrzeuges. Ein besonderer Vorteil hierbei ist, dass sich die einzelnen Folien leicht verarbeiten lassen und sie rückstandlos entfernbar ist.</p>   
+                        <p class="p-reg roboto-regular mb-4">Es benötigt aber ein ausgeprägtes handwerkliches Geschick um Ihr Auto mit Folie gestalten zu können. Deswegen gehen Sie liefer zu einen Folienprofi des das für Sie machen kann.</p>
+                        <p class="p-reg roboto-regular mb-4">Des Weiteren zeichnen sich Autofolien durch eine hohe Langlebigkeit aus. Sie haben somit über lange Zeit Freude an dem Design und Ihr Fahrzeug sieht jederzeit hervorragend aus. Gleichzeitig ist es kein Problem, Folien bei Bedarf auszutauschen. Das ist dann hilfreich, wenn Sie Ihrem Auto gerne regelmässig einen neuen Look geben wollen.</p>
+                    </div>
+                    <hr class="underline" />
                 </div>
-                <div class="row-4">
-                    <span class="cifra-info"> <b class="b-count"><span class='numscroller'>4852</span></b>
-                    </span>
-                    <p class="roboto-regular">Laufmeter Folie</p>
-                </div>
-                <div class="row-4">
-                    <span class="cifra-info"> <b class="b-count"><span class='numscroller'>16</span></b>
-                    </span>
-                    <p class="roboto-regular">Designfolierungen</p>
-                </div>
-                <div class="row-4">
-                    <span class="cifra-info"> <b class="b-count"><span class='numscroller'>1420</span></b>
-                    </span>
-                    <p class="roboto-regular">bedruckte Folie</p>
+                <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
+                    <img class="image-width-100 " src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/AutofolierungSchweiz---Bild-Nr.1-.png" alt="Auto folieren Schweiz - Foliert nur für dich" />
                 </div>
             </div>
         </div>
-    </section>
+    </div>
 
-    <div class="background-website padding-bottom-top">
-        <section class="section-main-page-7">
-            <div class="wrapper">
-                <div class="div-flex">
-                    <div class="row-form-box mobile-box-footer-form">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Manufaktur-Folien-Schweiz---gross.png">
+    <div class="background-website">
+        <div class="wrapper">
+            <div class="d-flex flex-column-1023">
+                <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
+                    <img class="image-width-100 " src="https://github.com/woshik/laravel-car-de/blob/main/public/images/feature-images/Orange%20Chrom%20Matte.png?raw=true" alt="Folientechnik Schweiz - diese Methoden und Arten stehen Ihnen zur Wahl" />
+                </div>
+                <div class="box-container half-width-min-1023">
+                    <div class="header-container">
+                        <h2 class="zag text-center">Folientechnik Schweiz - diese Methoden und Arten stehen Ihnen zur Wahl</h2>
                     </div>
-                    <div class="row-form-box width-mobile-290 contact-form-box">
-                        <h2 class="zag">Kontaktieren sie uns...</h2>
-                        <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
-                            <button type="button" class="wpcf7-form-control wpcf7-submit"
-                                onclick="openContactModal()">KONTAKT ANFORDERN</button>
-                        </div>
+                    <hr class="underline" />
+                    <div class="text-center">
+                        <p class="p-reg roboto-regular mb-4">die Sie beim Auto Folieren in der Schweiz wählen können. Bei einigen handelt es sich um reine Autofarbfolien. Diese verfolgen vorrangig das Ziel, Ihrem Fahrzeug ein attraktives Aussehen zu verleihen und dafür zu sorgen, dass es sich im Strassenverkehr deutlich von anderen Autos abhebt.</p>
+                        <p class="p-reg roboto-regular mb-4">Unabhängig davon, welche Marke Sie fahren, können Sie Ihr Auto an Ihren persönlichen Stil und Ihre individuellen Ansprüche anpassen. Ebenfalls beliebt sind Autolackfolien und Lackschutzfolien. Mit diesen Hilfsmitteln sieht Ihr Fahrzeug nach dem Auto Folieren in der Schweiz aus, als wäre es komplett neu lackiert worden.</p>
+                        <p class="p-reg roboto-regular mb-4">Sie erzielen somit hervorragende Ergebnisse, ohne immer wieder eine teure Neulackierung bezahlen zu müssen. Gleichzeitig ist der Autolack vor Kratzern und Beschädigungen geschützt. Sollte es einmal zu Beschädigungen an der Folie kommen, betrifft das den darunter befindlichen Lack in der Regel nicht. Sie tauschen die Folie einfach aus und erfreuen sich weiterhin dank professionellem Auto Folieren in der Schweiz an dem unversehrten Look Ihres Fahrzeugs.</p>   
+                        <p class="p-reg roboto-regular mb-4">In der Praxis haben sich verschiedene Arten von Autofolien für das Auto Folieren in der Schweiz durchgesetzt. Insbesondere hochwertig el und anglebige Carbonfolien sind stark nachgefragt. Ausserdem entscheiden sich viele Anwender für matte oder glänzende Folien. Diese können in zahlreichen stilvollen Farben und Nuancen ausgewählt werden.</p>
+                        <p class="p-reg roboto-regular mb-4">Es empfiehlt sich, die einzelnen Modelle genau zu vergleichen und einander gegenüberzustellen, um die für Ihr Fahrzeug optimalen Lösungen für das Auto Folieren in der Schweiz zu finden.</p>
                     </div>
-                    <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Manufaktur-Folien-Schweiz---gross.png" />
+                    <hr class="underline" />
+                </div>
+               
+            </div>
+        </div>
+    </div>
+
+    <div class="background-website">
+        <div class="wrapper">
+            <div class="d-flex flex-column-reverse-1023">
+                <div class="box-container half-width-min-1023">
+                    <div class="header-container">
+                        <h2 class="zag text-center">Diese Verfahren sind beim Auto Folieren in der Schweiz sind gängig:</h2>
+                    </div>
+                    <hr class="underline" />
+                    <div class="p-reg roboto-regular list-style list-center">
+                        <ul>
+                            <li>Farbwechselfolien</li>
+                            <li>Lackschutzfolien</li>
+                            <li>Car Wrapping Folien</li>
+                            <li>Beschriftungsfolien</li>
+                            <li>Möbelfolien</li>
+                            <li>Strukturfolien, gebürstet oder Carbonfolien</li>
+                            <li>Chromfolien</li>
+                            <li>Sonnenschutzfolien</li>
+                        </ul>
+                    </div>
+                    <hr class="underline" />
+                    <div class="div-flex">
+                        <a href="#contact" class="nice-btn plenka-modal-protection-btn custom-button-style">
+                            Kostenloses Beratungsgespräch buchen
+                        </a>
                     </div>
                 </div>
+                <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
+                    <img class="image-width-100 " src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/BMW%20Z4%20-%20Chrom%20Matte%20Folierung_.png" alt="Folientechnik Schweiz - diese Methoden und Arten stehen Ihnen zur Wahl" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="background-website">
+        <section class="section-main-garant custom-slider-style">
+            <div class="slick-slider">
+                <div>
+                    <a href="https://www.3m.com/" target="_blank" rel="nofollow">
+                        <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/3M.png" alt="3M Logo" />
+                    </a>
+                </div>
+                <div>
+                    <a href="https://platinum-wrapping-film.de/" target="_blank" rel="nofollow">
+                        <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/PWF.png" alt="Platinum Wrapping Film" />
+                    </a>
+                </div>
+
+                <div>
+                    <a href="https://www.premiumshield.de/" target="_blank" rel="nofollow">
+                        <img class="image-22" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/brand/HEXIS.png" alt="HEXIS Graphics">
+                    </a>
+                </div> 
             </div>
         </section>
     </div>
+
+    <div class="background-website">
+        <div class="wrapper">
+            <div class="d-flex flex-column-1023">
+                <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
+                    <img class="image-width-100 " src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/CorvettefolierenSchweiz.png" alt="Folientechnik Schweiz - diese Methoden und Arten stehen Ihnen zur Wahl" />
+                </div>
+                <div class="box-container half-width-min-1023">
+                    <div class="header-container">
+                        <h2 class="zag text-center">Auto Folieren Schweiz - für diese Einsatzgebiete eignet es sich!</h2>
+                    </div>
+                    <hr class="underline" />
+                    <div class="text-center">
+                        <p class="p-reg roboto-regular mb-4">Das Auto Folieren in der Schweiz kommt vielfältig zum Einsatz.</p>
+                        <p class="p-reg roboto-regular mb-4">Beispielsweise nutzen viele Unternehmen das Verfahren, um sich von der Konkurrenz abzuheben. Durch die Folien haben die Betriebsfahrzeuge einen aussergewöhnlichen Look und fallen auf der Strasse direkt ins Auge.</p>
+                        <p class="p-reg roboto-regular mb-4">Hierdurch lassen sich oft teure und aufwendige Werbemassnahmen über andere Kanäle einsparen. Mit einem erfahrenen Team wie unseren Experten von Folientechnik Schweiz wird es mit Auto Folieren in der Schweiz nämlich kein Problem, Informationen und Werbebotschaften auch auf Ihrem Fahrzeug gekonnt unterzubringen.</p>   
+                        <p class="p-reg roboto-regular mb-4">Ebenso geniessen es Privatleute, ihr Auto auf einzigartige Weise zu gestalten. Einige wollen sich selbst etwas Gutes tun, andere möchten auf Tuningtreffen, Autoshows und bei Messen etwas hermachen.</p>
+                        <p class="p-reg roboto-regular mb-4">Es besteht die Möglichkeit, eine Vollfolierung vorzunehmen, aber auch Teilfolierungen sind kein Problem. Einige entscheiden sich beispielsweise dafür, ihr Autodach folieren zu lassen, andere versehen die Motorhaube oder den Innenraum mit einer Folie.</p>
+                        <p class="p-reg roboto-regular mb-4">Ihrer Kreativität und Gestaltungsfreude sind somit keine Grenzen gesetzt.</p>
+                    </div>
+                    <hr class="underline" />
+                    <div class="div-flex">
+                        <a  href="#contact" class="nice-btn plenka-modal-protection-btn custom-button-style">
+                            Kostenloses Beratungsgespräch buchen
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="background-website">
+        <div class="wrapper">
+            <div class="d-flex flex-column-reverse-1023">
+                <div class="box-container half-width-min-1023">
+                    <div class="header-container">
+                        <h2 class="zag text-center">Auto folieren Schweiz - ein zuverlässiger Partner bietet Ihnen Unterstützung</h2>
+                    </div>
+                    <hr class="underline" />
+                    <div class="text-center">
+                        <p class="p-reg roboto-regular mb-4">Damit ein Fahrzeug vom Auto folieren in der Schweiz profitiert, müssen die Produkte hochwertig, attraktiv und langlebig sein. Deswegen ist es ratsam, ausschliesslich auf die Artikel eines namhaften und erfahrenen Anbieters zu setzen.</p>
+                        <p class="p-reg roboto-regular mb-4">Wir bieten Ihnen ein breites Produktportfolio, aus dem Sie wählen können. Gerne beraten wir Sie umfassend zu den einzelnen Artikeln und stellen Ihnen deren Vor- und Nachteile ausführlich und klar verständlich vor. Gemeinsam mit Ihnen ermitteln wir Ihren ganz individuellen Bedarf und Ihre persönlichen Vorlieben. So fällt Ihnen die Auswahl der für Sie am besten geeigneten Folien leicht.</p>
+                        <p class="p-reg roboto-regular mb-4">Wir bringen langjährige Erfahrungen mit und konnten schon vielen Kunden auf der Suchen nach den geeigneten Artikeln für das Auto folieren in der Schweiz helfen.</p>   
+                        <p class="p-reg roboto-regular mb-4">Zudem zeichnet sich unser Team durch eine grosse Liebe zu Autos im Allgemeinen und zu Autofolien im Speziellen aus. Gerne begleiten wir Sie auf Ihrem Weg hin zu den optimalen Produkten.</p>
+                        <p class="p-reg roboto-regular mb-4">Melden Sie sich am besten noch heute bei uns und lernen Sie Ihre vielfältigen Möglichkeiten beim Auto folieren in der Schweiz kennen.</p>
+                    </div>
+                    <hr class="underline" />
+                    <div class="div-flex">
+                        <a href="#contact" class="nice-btn plenka-modal-protection-btn custom-button-style">
+                            Kostenloses Beratungsgespräch buchen
+                        </a>
+                    </div>
+                </div>
+                <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
+                    <img class="image-width-100 " src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Opel_folieren_Schweiz.png" alt="Folientechnik Schweiz - diese Methoden und Arten stehen Ihnen zur Wahl" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @include('partials.contactForm')
 @endsection
 
 @section('script-file')

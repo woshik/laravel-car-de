@@ -1,6 +1,13 @@
 @extends('layouts.app')
 
-@section('title', 'Detailing')
+@section('title')
+    <title>Auto Detailing - Neuer Glanz | Folientechnik Schweiz</title>
+@endsection
+
+@section('meta')
+    <meta name="keywords" content="auto detailing" />
+    <meta name="description" content="Du willst Dein Auto in neuem Glanz erstrahlen lassen? Dann probier unser 1 a Auto Detailing! ✅ Schutz vor Dreck ✅ Langer Schutz! | Folientechnik Schweiz"/>
+@endsection
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/car_detailing.css') }}">
@@ -208,7 +215,7 @@
         <div class="gradient-header-top"></div>
         <div class="gradient-header-bottom"></div>
         <div class="wrapper">
-            <div class="info-box ">
+            <div class="div-flex">
                 <div class="row-4">
                     <span class="cifra-info"> <b class="b-count"><span class='numscroller' data-min='1' data-max='3'
                                 data-delay='5' data-increment='1'>3</span> - <span class='numscroller' data-min='1'
@@ -427,27 +434,7 @@
         </section>
     </div>
 
-    <div class="background-website">
-        <section class="section-main-page-7">
-            <div class="wrapper">
-                <div class="div-table">
-                    <div class="row-form-box mobile-box-footer-form">
-                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car16.png" alt="" />
-                    </div>
-                    <div class="row-form-box">
-                        <h2 class="zag">Order detailing services</h2>
-                        <div role="form" class="wpcf7" id="wpcf7-f121-o1" lang="ru-RU" dir="ltr">
-                            <div class="screen-reader-response"></div>
-                            <button type="button" class="wpcf7-form-control wpcf7-submit" onclick="openContactModal()">KONTAKT ANFORDERN</button>
-                        </div>
-                    </div>
-                    <div class="row-form-box pc-box-footer-form">
-                        <img class="box-left-text-right-image__img parallax" src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/car16.png" alt="" />
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
+    @include('partials.contactForm')
 @endsection
 
 

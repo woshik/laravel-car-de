@@ -37,7 +37,11 @@ mix
         "resources/js/script/slider.js",
     ], "public/js/car_window_tinting.js")
     .scripts(commonJS, "public/js/car_detailing.js")
-    .scripts(commonJS, "public/js/car_wrapping.js")
+    .scripts([
+        ...commonJS, 
+        "resources/js/script/slick.min.js", 
+        "resources/js/page/car_wrapping.js"
+    ], "public/js/car_wrapping.js")
     .scripts(commonJS, "public/js/car_wrapping_design.js")
     .scripts(commonJS, "public/js/contact.js")
     .scripts(commonJS, "public/js/gallery.js")

@@ -15,6 +15,9 @@ Gratulation!!! <br />
     Address: {{ $address }}
 </p>
 <p>
+    IP: {{ $ip }}
+</p>
+<p>
     Message: {{ $message }}
 </p>
 

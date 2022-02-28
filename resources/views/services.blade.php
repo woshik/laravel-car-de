@@ -12,7 +12,6 @@
     </div>
 @endsection
 
-
 @section('script-file')
     <script src="{{ mix('/js/services.js') }}"></script>
 @endsection

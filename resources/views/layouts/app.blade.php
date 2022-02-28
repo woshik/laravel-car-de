@@ -6,24 +6,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta name="author" content="Folientechnik Schweiz">
-    <meta property="X-Cache" content="" />
-    <meta property="X-Cache-Results" content="" />
     <meta name="application-name" content="folientechnik-schweiz" />
-    <meta name="description"
-        content="Foliencenter in Zürich bieten seit 2011 alles rund um Folie am Auto an und ist seit her immer ein Begriff in Sachen Car Wrapping.">
     <meta name="facebook-domain-verification" content="32eu0jr4ugc9jck3262hqgzqqe8skj" />
     <meta name="google-site-verification" content="AKivcejAi7-bLPOe9nhG7ZZtz2oR0SMJ8qhNfkNHaNM" />
 
     <meta name="robots" content="index, follow" />
 
+    @yield('title')
     @yield('meta')
-
-    <link rel="shortcut icon" href="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/logo.ico"
-        type="image/x-icon">
-    <link rel="canonical" href="https://www.folientechnik-schweiz.ch/" />
-
-    <title>AUTO FOLIEREN - @yield('title')</title>
-
+    
+    <link rel="shortcut icon" href="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/logo.ico" type="image/x-icon">
+    <link rel="canonical" href="https://www.folientechnik-schweiz.ch/">
     <link rel="preconnect" href="https://raw.githubusercontent.com">
     <link rel="dns-prefetch" href="https://raw.githubusercontent.com">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -67,15 +60,11 @@
 
     @include('partials.navbar')
 
-    <div>
-        @yield('content')
-    </div>
+    @yield('content')
 
     @section('footer')
         @include('partials.footer')
     @show
-
-    @include('partials.popup-contact')
 
     @include('partials.social-icon')
 
