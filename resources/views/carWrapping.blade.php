@@ -15,7 +15,7 @@
 
 @section('content')
     <video
-        src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/Folientechnik%20Schweiz%20I%20Image%20Video.mp4"
+        src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/gt3-rs-folientechnik-schweiz.mp4"
         autoplay muted loop id="myVideo"></video>
 
     <header class="header">
