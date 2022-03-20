@@ -51,7 +51,15 @@ mix
         "resources/js/lib/jquery.mousewheel.min.js",
         "resources/js/lib/lightgallery-all-min.js",
         "resources/js/page/car_detail.js"
-    ], "public/js/car_detail.js");
+    ], "public/js/car_detail.js")
+    .scripts([
+        ...commonJS, 
+        "resources/js/script/slick.min.js",
+        "resources/js/lib/swiper.js",
+        "resources/js/lib/jquery.mousewheel.min.js",
+        "resources/js/lib/lightgallery-all-min.js",
+        "resources/js/page/landing.js"
+    ], "public/js/landing.js");
 
 mix
     .postCss("resources/css/home.css", "public/css/home.css")
@@ -63,7 +71,8 @@ mix
     .postCss("resources/css/car_wrapping_design.css", "public/css/car_wrapping_design.css")
     .postCss("resources/css/contact.css", "public/css/contact.css")
     .postCss("resources/css/gallery.css", "public/css/gallery.css")
-    .postCss("resources/css/car_detail.css", "public/css/car_detail.css");
+    .postCss("resources/css/car_detail.css", "public/css/car_detail.css")
+    .postCss("resources/css/landing.css", "public/css/landing.css");
 
 if (mix.inProduction()) {
     mix.version();

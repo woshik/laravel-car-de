@@ -1,29 +1,56 @@
 @extends('layouts.app')
 
 @section('title')
-    <title>Auto Folierung Zürich von | Folientechnik Schweiz</title>
+    <title>{{ $data->title }}</title>
 @endsection
 
 @section('meta')
-    <meta name="keywords" content="auto folierung zürich" />
-    <meta name="description"
-        content="Dein Auto soll in neuem Glanz erstrahlen? Wir als Profis in Sachen Autofolierung helfen Dir gerne! ✅ Auto Folierung Zürich. » | Folientechnik Schweiz" />
+    <meta name="keywords" content="{{$data->keywords}}" />
+    <meta name="description" content="{{$data->meta}}" />
+@endsection
+
+@section('facebook-pixel')
+    <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '956266031641996');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=956266031641996&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
 @endsection
 
 @section('style-file')
-    <link rel="stylesheet" href="{{ mix('/css/car_wrapping.css') }}">
+    <link rel="stylesheet" href="{{ mix('/css/landing.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.1.8/css/lightgallery.min.css"
+    integrity="sha512-DY7doCjzDiHKPjOIz7TBml+ZGeiORmxLdMEa8x7j+I0kuHD/vBogtvqhZCUbeCKJ8TR1slujyv9wxO4x0hbBMQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
 @endsection
 
 @section('content')
-    <video src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/video/gt3-rs-folientechnik-schweiz.mp4"
-        autoplay muted loop id="myVideo"></video>
-
-    <header class="header">
-        <div class="header-content-box">
-            <h1 class="h1 sup-bold-Italic">Auto folieren Schweiz</h1>
-            <p class="h5 sup-light">Wrapped just for you</p>
+    
+    <div class="slider-single-page">
+        <div class="swiper-container gallery-top">
+            <div class="swiper-wrapper" id="lightgallery">
+                @foreach ($data->slider as $image)
+                    <a href="{{ $image->src }}" class="swiper-slide activate-info-box-gallery">
+                        <img src="{{ $image->src }}" alt="{{ $image->alt }}">
+                    </a>
+                @endforeach
+            </div>
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
         </div>
-    </header>
+    </div>
 
     <div class="background-website">
         <div class="wrapper">
@@ -266,5 +293,5 @@
 @endsection
 
 @section('script-file')
-    <script src="{{ mix('/js/car_wrapping.js') }}"></script>
+    <script src="{{ mix('/js/landing.js') }}"></script>
 @endsection

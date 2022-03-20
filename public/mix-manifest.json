@@ -1,4 +1,5 @@
 {
+    "/css/landing.css": "/css/landing.css?id=7fc4e09eba6566eb396b",
     "/css/car_wrapping.css": "/css/car_wrapping.css?id=2bc4c1b106255d91cd73",
     "/css/car_paint_protection.css": "/css/car_paint_protection.css?id=04786552b57126523f10",
     "/css/home.css": "/css/home.css?id=86c25820b990b5e455cd",
@@ -18,5 +19,6 @@
     "/js/car_wrapping_design.js": "/js/car_wrapping_design.js?id=d4d617b72f1bff6d13a9",
     "/js/contact.js": "/js/contact.js?id=d4d617b72f1bff6d13a9",
     "/js/gallery.js": "/js/gallery.js?id=d4d617b72f1bff6d13a9",
-    "/js/car_detail.js": "/js/car_detail.js?id=a5fd02a0b0110ab855ab"
+    "/js/car_detail.js": "/js/car_detail.js?id=a5fd02a0b0110ab855ab",
+    "/js/landing.js": "/js/landing.js?id=c8fe0dd94184d9116eba"
 }

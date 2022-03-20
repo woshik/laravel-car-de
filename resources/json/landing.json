@@ -1,0 +1,21 @@
+{
+    "corvette-folieren": {
+        "title": "CORVETTE folieren Schweiz - cooler Style, fairer Preis",
+        "keywords": "corvette folieren Schweiz",
+        "meta": "Corvette Folieren beim Fachmann ✔️ Farbe wechseln in nur wenigen Tagen ✔️ Werterhaltung mit Lackschutzfolie ✔️ stylische Effekte und Designs ✔️ erfahrenes Team ✔️ Die Folientechniker",
+        "slider": [
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/folieren-schweiz.png",
+                "alt": "corvette folieren schweiz"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/vollfolierung-zurich.png",
+                "alt": "corvette vollfolierung zurich"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/platinum-wrapping-film-ruby-red.png",
+                "alt": "platinum wrapping film ruby red"
+            }
+        ]
+    }
+}
