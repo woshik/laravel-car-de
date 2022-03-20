@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Gallery')
+@section('title')
+    <title>Gallery</title>
+@endsection
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/gallery.css') }}">

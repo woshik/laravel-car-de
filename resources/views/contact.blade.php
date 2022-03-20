@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Kontakt')
+@section('title')
+    <title>Kontakt</title>
+@endsection
 
 @section('style-file')
     <link rel="stylesheet" href="{{ mix('/css/contact.css') }}">
