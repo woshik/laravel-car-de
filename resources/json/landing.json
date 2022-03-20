@@ -15,6 +15,10 @@
             {
                 "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/platinum-wrapping-film-ruby-red.png",
                 "alt": "platinum wrapping film ruby red"
+            },
+            {
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/pwf-ruby-red-folientechnik-schweiz.png",
+                "alt": "pwf ruby red folientechnik schweiz"
             }
         ]
     }
