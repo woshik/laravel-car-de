@@ -89,6 +89,9 @@
                                         @if (str_starts_with($k, 'body'))
                                             <p class="p-reg roboto-regular mb-4">{{ $v }}</p>
                                         @endif
+                                        @if (str_starts_with($k, 'quote'))
+                                            <p class="p-reg roboto-regular mb-4 car-wrapping-quote">{{ $v }}</p>
+                                        @endif
                                     @endforeach
                                 </div>
                             @elseif ($sectionData->content_type === 'list')

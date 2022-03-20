@@ -1893,7 +1893,7 @@ textarea {
   width: 190%;
   height: auto;
   margin-left: -45%;
-  margin-top: 7vw;
+  padding-top: 250px;
 }
 .slider-single-page .swiper-slide img {
   width: auto;
