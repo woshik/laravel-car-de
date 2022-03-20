@@ -74,7 +74,7 @@
                         @endif
                         <div class="box-container half-width-min-1023">
                             <div class="header-container">
-                                <h2 class="zag text-center">{{ $sectionData->header }}</h2>
+                                <h2 class="zag text-center">{!! $sectionData->header !!}</h2>
                                 @isset($sectionData->sub_header)
                                     <p class="sup-light text-center">{{ $sectionData->sub_header }}</p>
                                 @endisset

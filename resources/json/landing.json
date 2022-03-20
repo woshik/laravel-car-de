@@ -102,7 +102,7 @@
             {
                 "content_side": "right",
                 "type": "content",
-                "header": "\"DIE FOLIENTECHNIKER\" WER SIND WIR?",
+                "header": "\"DIE FOLIENTECHNIKER\"<br />WER SIND WIR?",
                 "image": {
                     "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/andreas.png",
                     "alt": "corvette folierung zurich"
