@@ -5,20 +5,20 @@
         "meta": "Corvette Folieren beim Fachmann ✔️ Farbe wechseln in nur wenigen Tagen ✔️ Werterhaltung mit Lackschutzfolie ✔️ stylische Effekte und Designs ✔️ erfahrenes Team ✔️ Die Folientechniker",
         "slider": [
             {
-                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/folieren-schweiz.png",
-                "alt": "corvette folieren schweiz"
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/image-1.png",
+                "alt": "corvette folieren"
             },
             {
-                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/vollfolierung-zurich.png",
-                "alt": "corvette vollfolierung zurich"
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/image-2.png",
+                "alt": "corvette folieren"
             },
             {
-                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/pwf-ruby-red-folientechnik-schweiz.png",
-                "alt": "pwf ruby red folientechnik schweiz"
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/image-3.png",
+                "alt": "corvette folieren"
             },
             {
-                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/platinum-wrapping-film-ruby-red.png",
-                "alt": "platinum wrapping film ruby red"
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/slider/image-4.png",
+                "alt": "corvette folieren"
             }
         ],
         "section" : [
@@ -28,8 +28,8 @@
                 "header": "CORVETTE FOLIEREN SCHWEIZ",
                 "sub_header": "cooler Style, faire Preis",
                 "image": {
-                    "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/autofolierung-zurich.png",
-                    "alt": "corvette autofolierung zurich"
+                    "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/image-1.png",
+                    "alt": "corvette folieren"
                 },
                 "content_type": "head_body",
                 "content": {
@@ -46,8 +46,8 @@
                 "type": "content",
                 "header": "\"DIE FOLIENTECHNIKER\" - DIESE METHODEN UND ARTEN STEHEN IHNEN ZUR WAHL",
                 "image": {
-                    "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/folierung-zurich.png",
-                    "alt": "corvette folierung zurich"
+                    "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/image-2.png",
+                    "alt": "corvette folieren"
                 },
                 "content_type": "head_body",
                 "content": {
@@ -63,7 +63,7 @@
                 "type": "content",
                 "header": "DIESE Möglichkeiten HABEN SIE UM EINE CORVETTE IN DER SCHWEIZ FOLIEREN ZU KöNNEN",
                 "image": {
-                    "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/folieren.png",
+                    "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/image-3.png",
                     "alt": "corvette folieren"
                 },
                 "content_type": "list",
@@ -104,8 +104,8 @@
                 "type": "content",
                 "header": "\"DIE FOLIENTECHNIKER\"<br />WER SIND WIR?",
                 "image": {
-                    "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/andreas.png",
-                    "alt": "corvette folierung zurich"
+                    "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren/image-4.png",
+                    "alt": "corvette folieren"
                 },
                 "content_type": "head_body",
                 "content": {
@@ -125,15 +125,15 @@
         "meta": "Corvette Folieren beim Fachmann ✔️ Farbe wechseln in nur wenigen Tagen ✔️ Werterhaltung mit Lackschutzfolie ✔️ stylische Effekte und Designs ✔️ erfahrenes Team ✔️ Die Folientechniker",
         "slider": [
             {
-                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren-zuerich/slider/slider-1.png",
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren-zuerich/slider/image-1.png",
                 "alt": "corvette folieren zuerich"
             },
             {
-                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren-zuerich/slider/slider-2.png",
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren-zuerich/slider/image-2.png",
                 "alt": "corvette folieren zuerich"
             },
             {
-                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren-zuerich/slider/slider-3.png",
+                "src": "https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/landing/corvette-folieren-zuerich/slider/image-3.png",
                 "alt": "corvette folieren zuerich"
             }
         ],
