@@ -1,13 +1,12 @@
 @extends('layouts.app')
 
 @section('title')
-    <title>Auto Folieren Schweiz - cooler Style, fairer Preis ✓</title>
+    <title>Auto folieren Schweiz - cooler Style, bestes Niveau ✔️</title>
 @endsection
 
 @section('meta')
     <meta name="keywords" content="auto folieren schweiz" />
-    <meta name="description"
-        content="Auto Folieren beim Spezialisten ✓ Lack optimal schützen ✓ stylische Effekte ✓ Werterhaltung Ihres Fahrzeugs ✓ erfahrenes Team ✓ Folientechnik Schweiz" />
+    <meta name="description" content="Auto folieren in der Schweiz ✔️ schützende Lackschutzfolien ✔️ Car Wrapping bei einem erfahrenen Team ✔️ Scheiben tönen an ihrem Fahrzeug ✔️ Folientechnik Schweiz" />
 @endsection
 
 @section('style-file')
@@ -22,7 +21,8 @@
 
     <header class="header">
         <div class="header-content-box">
-            <h1 class="h1 sup-bold-Italic">Auto folieren Schweiz <br /> Wir schützen Ihren Lack!</h1>
+            <h1 class="h1 sup-bold-Italic">Auto folieren Schweiz</h1>
+            <p class="h5 sup-light">Car Wrapping - Lackschutz folieren - Scheiben tönen</p>
         </div>
     </header>
 
