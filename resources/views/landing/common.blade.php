@@ -98,7 +98,7 @@
                                 <div class="p-reg roboto-regular list-style list-center">
                                     <ul>
                                         @foreach ($sectionData->content as $k => $v)
-                                            <li>{{ $v }}</li>
+                                            <li>✅ {{ $v }}</li>
                                         @endforeach
                                     </ul>
                                 </div>

@@ -122,14 +122,14 @@
                     <hr class="underline" />
                     <div class="p-reg roboto-regular list-style list-center">
                         <ul>
-                            <li>Farbwechselfolien</li>
-                            <li>Lackschutzfolien</li>
-                            <li>Car Wrapping Folien</li>
-                            <li>Beschriftungsfolien</li>
-                            <li>Möbelfolien</li>
-                            <li>Strukturfolien, gebürstet oder Carbonfolien</li>
-                            <li>Chromfolien</li>
-                            <li>Sonnenschutzfolien</li>
+                            <li>✅ Farbwechselfolien</li>
+                            <li>✅ Lackschutzfolien</li>
+                            <li>✅ Car Wrapping Folien</li>
+                            <li>✅ Beschriftungsfolien</li>
+                            <li>✅ Möbelfolien</li>
+                            <li>✅ Strukturfolien, gebürstet oder Carbonfolien</li>
+                            <li>✅ Chromfolien</li>
+                            <li>✅ Sonnenschutzfolien</li>
                         </ul>
                     </div>
                     <hr class="underline" />
@@ -229,7 +229,8 @@
                     </div>
                     <hr class="underline" />
                     <div class="text-center">
-                        <p class="p-reg roboto-regular mb-4">Damit ein Fahrzeug vom Auto folieren in der Schweiz profitiert,
+                        <p class="p-reg roboto-regular mb-4">Damit ein Fahrzeug vom Auto folieren in der Schweiz
+                            profitiert,
                             müssen die Produkte hochwertig, attraktiv und langlebig sein. Deswegen ist es ratsam,
                             ausschliesslich auf die Artikel eines namhaften und erfahrenen Anbieters zu setzen.</p>
                         <p class="p-reg roboto-regular mb-4">Wir bieten Ihnen ein breites Produktportfolio, aus dem Sie
@@ -240,7 +241,8 @@
                         <p class="p-reg roboto-regular mb-4">Wir bringen langjährige Erfahrungen mit und konnten schon
                             vielen Kunden auf der Suchen nach den geeigneten Artikeln für das Auto folieren in der Schweiz
                             helfen.</p>
-                        <p class="p-reg roboto-regular mb-4">Zudem zeichnet sich unser Team durch eine grosse Liebe zu Autos
+                        <p class="p-reg roboto-regular mb-4">Zudem zeichnet sich unser Team durch eine grosse Liebe zu
+                            Autos
                             im Allgemeinen und zu Autofolien im Speziellen aus. Gerne begleiten wir Sie auf Ihrem Weg hin zu
                             den optimalen Produkten.</p>
                         <p class="p-reg roboto-regular mb-4">Melden Sie sich am besten noch heute bei uns und lernen Sie
