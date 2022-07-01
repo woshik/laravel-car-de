@@ -5,9 +5,9 @@
 @endsection
 
 @section('meta')
-    <meta name="keywords" content="auto folierung zürich" />
+    <meta name="keywords" content="Autofolierung, Autofolierung Zürich, Autofolierung Schweiz, Auto folieren" />
     <meta name="description"
-        content="Dein Auto soll in neuem Glanz erstrahlen? Wir als Profis in Sachen Autofolierung helfen Dir gerne! ✅ Auto Folierung Zürich. » | Folientechnik Schweiz" />
+        content="Autofolierung in der Schweiz ✅ selbstheilende Lackschutzfolien ✅ Car Wrapping bei einem Team mit mehrjähriger Erfahrung ✅ Scheiben tönen für mehr Hitzeschutz ..." />
 @endsection
 
 @section('style-file')
@@ -20,8 +20,7 @@
 
     <header class="header">
         <div class="header-content-box">
-            <h1 class="h1 sup-bold-Italic">Auto folieren Schweiz</h1>
-            <p class="h5 sup-light">Wrapped just for you</p>
+            <h1 class="h1 sup-bold-Italic">Autofolierung in Zürich von Folientechnik Schweiz</h1>
         </div>
     </header>
 
@@ -30,38 +29,36 @@
             <div class="d-flex flex-column-reverse-1023">
                 <div class="box-container half-width-min-1023">
                     <div class="header-container">
-                        <h2 class="zag text-center">Auto folieren Schweiz - Foliert nur für dich!</h2>
-                        <p class="sup-light text-center">cooler Style, faire Preis</p>
+                        <h2 class="zag text-center">AUTOFOLIERUNG IN DER SCHWEIZ <br>Folierung / Scheibentönung / Lackschutz
+                            / Beschriftung</h2>
                     </div>
                     <hr class="underline" />
                     <div class="text-center">
-                        <p class="zag mb-4 heading">Wir verleihen ihrem Fahrzeug einen neuen Look!</p>
-                        <p class="p-reg roboto-regular mb-4">Felgen, Auspuff, Lenkräder… Es gibt unzählige Möglichkeiten,
-                            ein Auto zu individualisieren und ihm eine persönliche Note zu verleihen. Eine besonders moderne
-                            und vielfältige Variante besteht Adaurtion ,F doalise ren in der Schweiz bei unseren erfahrenen
-                            Profis zu nutzen.</p>
-                        <p class="p-reg roboto-regular mb-4">Hierbei wird Ihr Fahrzeug mit einer ansprechenden, hochwertigen
-                            Folie versehen. Diese erzeugt auf Wunsch angenehme optische Effekte und bietet gleichzeitig eine
-                            hohe Schutzfunktion. Die einzelnen Lösungen können prinzipiell auf jedes Fahrzeug angepasst
-                            werden, sodass Sie beim Auto Folieren in der Schweiz eine grosse Flexibilität und
-                            Gestaltungsfreiheit geniessen.</p>
-                        <p class="p-reg roboto-regular mb-4">Das Auto Folieren in der Schweiz eignet sich sowohl für den
-                            Aussen- als auch für den Innenbereich eines Fahrzeuges. Ein besonderer Vorteil hierbei ist, dass
-                            sich die einzelnen Folien leicht verarbeiten lassen und sie rückstandlos entfernbar ist.</p>
-                        <p class="p-reg roboto-regular mb-4">Es benötigt aber ein ausgeprägtes handwerkliches Geschick um
-                            Ihr Auto mit Folie gestalten zu können. Deswegen gehen Sie liefer zu einen Folienprofi des das
-                            für Sie machen kann.</p>
-                        <p class="p-reg roboto-regular mb-4">Des Weiteren zeichnen sich Autofolien durch eine hohe
-                            Langlebigkeit aus. Sie haben somit über lange Zeit Freude an dem Design und Ihr Fahrzeug sieht
-                            jederzeit hervorragend aus. Gleichzeitig ist es kein Problem, Folien bei Bedarf auszutauschen.
-                            Das ist dann hilfreich, wenn Sie Ihrem Auto gerne regelmässig einen neuen Look geben wollen.</p>
+                        <p class="p-reg roboto-regular mb-4">Sie suchen nach einem Anbieter für <a
+                                href="{{ route('car-wrapping') }}" class="url-link">Autofolierung</a> in Zürich?
+                            Entscheiden Sie sich für den Vorreiter in Sachen Kompetenz und Innovation.
+                            Die Vorteile, die einer <a href="{{ route('car-wrapping') }}"
+                                class="url-link">Autofolierung</a> mit sich bringt, sind gross und vielseitig.
+                            Natürlich sollten Sie immer auf Nummer sicher gehen, dass Sie Ihr Auto in die Hände von
+                            Experten geben. Bei <a href="{{ route('home') }}"
+                                class="url-link yello-color">Folientechnik-Schweiz</a> bieten wir Ihnen für jeden noch so
+                            ausgefallenen
+                            Wunsch etwas. Kunden aus der ganzen Schweiz kommen zu uns nach Zürich, um Ihre
+                            <a href="{{ route('car-wrapping') }}" class="url-link">Autofolierung</a> vornehmen zu lassen.
+                            Sie möchten Ihrem Auto einen neuen Look durch einen
+                            Farbwechsel mit Folie verpassen oder mit einer neuen Folie auf Ihrem Auto für Ihr Unternehmen
+                            Werbung machen und obendrein noch clever für einen Lackschutz sorgen?
+                            Unser Service für <a href="{{ route('car-wrapping') }}" class="url-link">Autofolierung</a> hat
+                            sich nicht nur im Raum Zürich einen Namen
+                            gemacht.
+                        </p>
                     </div>
                     <hr class="underline" />
                 </div>
                 <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
                     <img class="image-width-100"
                         src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/AutofolierungSchweiz---Bild-Nr.1-.png"
-                        alt="Auto folieren Schweiz - Foliert nur für dich" />
+                        alt="AUTOFOLIERUNG IN DER SCHWEIZ Folierung / Scheibentönung / Lackschutz / Beschriftung" />
                 </div>
             </div>
         </div>
@@ -73,37 +70,23 @@
                 <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
                     <img class="image-width-100"
                         src="https://github.com/woshik/laravel-car-de/blob/main/public/images/feature-images/Orange%20Chrom%20Matte.png?raw=true"
-                        alt="Folientechnik Schweiz - diese Methoden und Arten stehen Ihnen zur Wahl" />
+                        alt="Autofolierung statt Neulackierung - das sind klar die Vorteile" />
                 </div>
                 <div class="box-container half-width-min-1023">
                     <div class="header-container">
-                        <h2 class="zag text-center">Folientechnik Schweiz - diese Methoden und Arten stehen Ihnen zur Wahl
+                        <h2 class="zag text-center"><a href="{{ route('car-wrapping') }}"
+                                class="url-link">Autofolierung</a> statt Neulackierung - das sind klar die Vorteile
                         </h2>
                     </div>
                     <hr class="underline" />
                     <div class="text-center">
-                        <p class="p-reg roboto-regular mb-4">die Sie beim Auto Folieren in der Schweiz wählen können. Bei
-                            einigen handelt es sich um reine Autofarbfolien. Diese verfolgen vorrangig das Ziel, Ihrem
-                            Fahrzeug ein attraktives Aussehen zu verleihen und dafür zu sorgen, dass es sich im
-                            Strassenverkehr deutlich von anderen Autos abhebt.</p>
-                        <p class="p-reg roboto-regular mb-4">Unabhängig davon, welche Marke Sie fahren, können Sie Ihr Auto
-                            an Ihren persönlichen Stil und Ihre individuellen Ansprüche anpassen. Ebenfalls beliebt sind
-                            Autolackfolien und Lackschutzfolien. Mit diesen Hilfsmitteln sieht Ihr Fahrzeug nach dem Auto
-                            Folieren in der Schweiz aus, als wäre es komplett neu lackiert worden.</p>
-                        <p class="p-reg roboto-regular mb-4">Sie erzielen somit hervorragende Ergebnisse, ohne immer wieder
-                            eine teure Neulackierung bezahlen zu müssen. Gleichzeitig ist der Autolack vor Kratzern und
-                            Beschädigungen geschützt. Sollte es einmal zu Beschädigungen an der Folie kommen, betrifft das
-                            den darunter befindlichen Lack in der Regel nicht. Sie tauschen die Folie einfach aus und
-                            erfreuen sich weiterhin dank professionellem Auto Folieren in der Schweiz an dem unversehrten
-                            Look Ihres Fahrzeugs.</p>
-                        <p class="p-reg roboto-regular mb-4">In der Praxis haben sich verschiedene Arten von Autofolien für
-                            das Auto Folieren in der Schweiz durchgesetzt. Insbesondere hochwertig el und anglebige
-                            Carbonfolien sind stark nachgefragt. Ausserdem entscheiden sich viele Anwender für matte oder
-                            glänzende Folien. Diese können in zahlreichen stilvollen Farben und Nuancen ausgewählt werden.
-                        </p>
-                        <p class="p-reg roboto-regular mb-4">Es empfiehlt sich, die einzelnen Modelle genau zu vergleichen
-                            und einander gegenüberzustellen, um die für Ihr Fahrzeug optimalen Lösungen für das Auto
-                            Folieren in der Schweiz zu finden.</p>
+                        <p class="p-reg roboto-regular mb-4">Was geschieht bei der Folierung</p>
+                        <p class="p-reg roboto-regular mb-4">Wir bringen eine selbstklebende Folie, die Sie nach eigenen
+                            Wünschen aussuchen können, mit speziellem Werkzeug auf Ihrem Auto an. Unser Fachpersonal
+                            versteht sich darauf auf Ihre Wünsche einzugehen und sie bis ins kleinste Detail sauber
+                            umzusetzen. Wer sein Auto in Zürich <a href="{{ route('car-wrapping') }}"
+                                class="url-link">folieren</a> lassen möchte, kommt zu uns! Egal, ob Vollfolierung,
+                            Teilfolierung, Lackschutzfolierung oder Branding, wir nehmen uns für Sie Zeit.</p>
                     </div>
                     <hr class="underline" />
                 </div>
@@ -117,27 +100,29 @@
             <div class="d-flex flex-column-reverse-1023">
                 <div class="box-container half-width-min-1023">
                     <div class="header-container">
-                        <h2 class="zag text-center">Diese Verfahren sind beim Auto Folieren in der Schweiz sind gängig:</h2>
+                        <h2 class="zag text-center">Optimaler Schutz vor Lackschäden bei Ihrer Auto mit einer <a
+                                href="{{ route('car-wrapping') }}" class="url-link">Autofolierung</a>!
+                        </h2>
                     </div>
                     <hr class="underline" />
-                    <div class="p-reg roboto-regular list-style list-center">
-                        <ul>
-                            <li>✅ Farbwechselfolien</li>
-                            <li>✅ Lackschutzfolien</li>
-                            <li>✅ Car Wrapping Folien</li>
-                            <li>✅ Beschriftungsfolien</li>
-                            <li>✅ Möbelfolien</li>
-                            <li>✅ Strukturfolien, gebürstet oder Carbonfolien</li>
-                            <li>✅ Chromfolien</li>
-                            <li>✅ Sonnenschutzfolien</li>
-                        </ul>
+                    <div class="text-center">
+                        <p class="p-reg roboto-regular mb-4">Wer kennt es nicht, auf einmal ist ein kleiner Kratzer im Lack.
+                            Das ist nicht nur ärgerlich und
+                            sieht nicht besonders schön aus, bei der Leasingrückgabe kann das zudem zum Problem
+                            werden. Eine <a href="{{ route('car-wrapping') }}" class="url-link">Autofolierung</a> kann Ihr
+                            Fahrzeug gegen Kratzer, Steinschläge und
+                            Umweltschäden schützen. Die lichtdurchlässige <a href="{{ route('car-paint-protection') }}"
+                                class="url-link yello-color">Lackschutzfolie</a> sorgt zudem dafür, dass der
+                            Ausbleicheffekt der Farbe gleichmässig stattfindet, damit sie nach Ablösung der Folie keine
+                            bösen Überraschungen erleben.
+                        </p>
+                        <p class="p-reg roboto-regular mb-4">Folientechnik Schweiz, Ihr Spezialist in Sachen <a
+                                href="{{ route('car-wrapping') }}" class="url-link">Autofolierung</a>
+                            in Zürich, hat hier an alles
+                            gedacht!
+                        </p>
                     </div>
                     <hr class="underline" />
-                    <div class="div-flex">
-                        <a href="#contact" class="nice-btn plenka-modal-protection-btn custom-button-style">
-                            Kostenloses Beratungsgespräch buchen
-                        </a>
-                    </div>
                 </div>
                 <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
                     <img class="image-width-100"
@@ -185,35 +170,25 @@
                 </div>
                 <div class="box-container half-width-min-1023">
                     <div class="header-container">
-                        <h2 class="zag text-center">Auto Folieren Schweiz - für diese Einsatzgebiete eignet es sich!</h2>
+                        <h2 class="zag text-center"><a href="{{ route('car-wrapping') }}"
+                                class="url-link">Autofolierung</a> Zürich - unser Angebot für Sie!</h2>
                     </div>
                     <hr class="underline" />
                     <div class="text-center">
-                        <p class="p-reg roboto-regular mb-4">Das Auto Folieren in der Schweiz kommt vielfältig zum Einsatz.
+                        <p class="p-reg roboto-regular mb-4">Schützen Sie Ihr Auto mit einem Lackschutzpaket von
+                            Folientechnik Schweiz, Ihrer
+                            <a href="{{ route('car-wrapping') }}" class="url-link">Autofolierung</a> in Zürich, damit
+                            Ihr Auto immer glänzt als wäre es gerade frisch poliert.
                         </p>
-                        <p class="p-reg roboto-regular mb-4">Beispielsweise nutzen viele Unternehmen das Verfahren, um sich
-                            von der Konkurrenz abzuheben. Durch die Folien haben die Betriebsfahrzeuge einen
-                            aussergewöhnlichen Look und fallen auf der Strasse direkt ins Auge.</p>
-                        <p class="p-reg roboto-regular mb-4">Hierdurch lassen sich oft teure und aufwendige Werbemassnahmen
-                            über andere Kanäle einsparen. Mit einem erfahrenen Team wie unseren Experten von Folientechnik
-                            Schweiz wird es mit Auto Folieren in der Schweiz nämlich kein Problem, Informationen und
-                            Werbebotschaften auch auf Ihrem Fahrzeug gekonnt unterzubringen.</p>
-                        <p class="p-reg roboto-regular mb-4">Ebenso geniessen es Privatleute, ihr Auto auf einzigartige
-                            Weise zu gestalten. Einige wollen sich selbst etwas Gutes tun, andere möchten auf Tuningtreffen,
-                            Autoshows und bei Messen etwas hermachen.</p>
-                        <p class="p-reg roboto-regular mb-4">Es besteht die Möglichkeit, eine Vollfolierung vorzunehmen,
-                            aber auch Teilfolierungen sind kein Problem. Einige entscheiden sich beispielsweise dafür, ihr
-                            Autodach folieren zu lassen, andere versehen die Motorhaube oder den Innenraum mit einer Folie.
-                        </p>
-                        <p class="p-reg roboto-regular mb-4">Ihrer Kreativität und Gestaltungsfreude sind somit keine
-                            Grenzen gesetzt.</p>
+                        <p class="p-reg roboto-regular mb-4">Steinschläge haben ab sofort keine Chance mehr. Wir bieten
+                            Ihnen den professionellen
+                            Auftrag von transparenter Folie, die den Lack Ihres Autos optimal schützt. Die hydrophobe
+                            Oberfläche mit selbstheilungseffekt sorgt für spielend leichte Reinigung. Obendrauf bieten wir
+                            Ihnen unschlagbare 10 Jahre Garantie.</p>
+
                     </div>
                     <hr class="underline" />
-                    <div class="div-flex">
-                        <a href="#contact" class="nice-btn plenka-modal-protection-btn custom-button-style">
-                            Kostenloses Beratungsgespräch buchen
-                        </a>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -224,41 +199,132 @@
             <div class="d-flex flex-column-reverse-1023">
                 <div class="box-container half-width-min-1023">
                     <div class="header-container">
-                        <h2 class="zag text-center">Auto folieren Schweiz - ein zuverlässiger Partner bietet Ihnen
-                            Unterstützung</h2>
+                        <h3 class="zag text-center">7 Gründe, um sich für eine <a href="{{ route('car-wrapping') }}"
+                                class="url-link">Autofolierung</a> bei Ihrem Fachbetrieb in Zürich zu entscheiden:</h3>
                     </div>
                     <hr class="underline" />
-                    <div class="text-center">
-                        <p class="p-reg roboto-regular mb-4">Damit ein Fahrzeug vom Auto folieren in der Schweiz
-                            profitiert,
-                            müssen die Produkte hochwertig, attraktiv und langlebig sein. Deswegen ist es ratsam,
-                            ausschliesslich auf die Artikel eines namhaften und erfahrenen Anbieters zu setzen.</p>
-                        <p class="p-reg roboto-regular mb-4">Wir bieten Ihnen ein breites Produktportfolio, aus dem Sie
-                            wählen können. Gerne beraten wir Sie umfassend zu den einzelnen Artikeln und stellen Ihnen deren
-                            Vor- und Nachteile ausführlich und klar verständlich vor. Gemeinsam mit Ihnen ermitteln wir
-                            Ihren ganz individuellen Bedarf und Ihre persönlichen Vorlieben. So fällt Ihnen die Auswahl der
-                            für Sie am besten geeigneten Folien leicht.</p>
-                        <p class="p-reg roboto-regular mb-4">Wir bringen langjährige Erfahrungen mit und konnten schon
-                            vielen Kunden auf der Suchen nach den geeigneten Artikeln für das Auto folieren in der Schweiz
-                            helfen.</p>
-                        <p class="p-reg roboto-regular mb-4">Zudem zeichnet sich unser Team durch eine grosse Liebe zu
-                            Autos
-                            im Allgemeinen und zu Autofolien im Speziellen aus. Gerne begleiten wir Sie auf Ihrem Weg hin zu
-                            den optimalen Produkten.</p>
-                        <p class="p-reg roboto-regular mb-4">Melden Sie sich am besten noch heute bei uns und lernen Sie
-                            Ihre vielfältigen Möglichkeiten beim Auto folieren in der Schweiz kennen.</p>
+                    <div class="p-reg roboto-regular list-style list-center">
+                        <ul>
+                            <li>✅ Verändern Sie Ihr Auto optisch, ohne es neu zu lackieren</li>
+                            <li>✅ Entfernung der Folie hinterlässt keine Schäden am Auto</li>
+                            <li>✅ Eine Folierung ist kostengünstiger als Lackierung</li>
+                            <li>✅ Eine Folierung ist zeitsparender als Lackierung</li>
+                            <li>✅ Folie bietet Schutz vor Kratzern, Steinschlägen und Umweltschäden</li>
+                            <li>✅ Profitieren Sie von beinahe unbegrenzten Gestaltungsmöglichkeiten</li>
+                            <li>✅ Folie bietet Schutz für die Scheibe vor UV-Einstrahlung, Hitze und Rissen im Glas</li>
+                        </ul>
                     </div>
                     <hr class="underline" />
-                    <div class="div-flex">
-                        <a href="#contact" class="nice-btn plenka-modal-protection-btn custom-button-style">
-                            Kostenloses Beratungsgespräch buchen
-                        </a>
-                    </div>
+
                 </div>
                 <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
                     <img class="image-width-100"
                         src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Opel_folieren_Schweiz.png"
                         alt="Folientechnik Schweiz - diese Methoden und Arten stehen Ihnen zur Wahl" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="background-website">
+        <div class="wrapper">
+            <div class="d-flex flex-column-1023">
+                <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
+                    <img class="image-width-100"
+                        src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/BMW folieren .png"
+                        alt="Scheibentönung - eins von vielen praktischen Angeboten bei Ihrer Autofolierung in Zürich" />
+                </div>
+                <div class="box-container half-width-min-1023">
+                    <div class="header-container">
+                        <h2 class="zag text-center">Scheibentönung - eins von vielen praktischen Angeboten
+                            bei Ihrer Autofolierung in Zürich</h2>
+                    </div>
+                    <hr class="underline" />
+                    <div class="text-center">
+                        <p class="p-reg roboto-regular mb-4">Getönte Scheiben schützen nicht nur neugierigen Blicken und
+                            setzen zudem ein stylishes
+                            Statement, sondern bieten ihnen auch einen Hitze und UV Schutz. Sie erfreuen sich nicht nur
+                            wegen des smarten Looks grosser Beliebtheit, sondern auch, weil sie an heissen Tagen vor
+                            Ausbleichung des Interieurs durch UV- Einstrahlung und Hitze im Innenraum schützen. Die auf
+                            die Scheiben aufgetragene Scheibentönungsfolie schützt das Glas ausserdem vor Rissen und
+                            bei Steinschlägen.</p>
+
+                    </div>
+                    <hr class="underline" />
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="background-website">
+        <div class="wrapper">
+            <div class="d-flex flex-column-reverse-1023">
+                <div class="box-container half-width-min-1023">
+                    <div class="header-container">
+                        <h2 class="zag text-center">Ihr Auto - Ihr persönliches Aushängeschild
+                        </h2>
+                    </div>
+                    <hr class="underline" />
+                    <div class="text-center">
+                        <p class="p-reg roboto-regular mb-4">Sie wünschen sich ein Design auf Ihrem Auto, das so
+                            individuell ist wie Sie? Mit einer
+                            <a href="{{ route('car-wrapping') }}" class="url-link">Autofolierung</a> ist das kein
+                            Problem mehr. Kommen Sie zu unserem Sitz in Zürich und lassen
+                            Sie Ihr Auto nach Ihren Wünschen folieren. Mit dem Digitaldruckverfahren sind uns
+                            gestalterisch beinahe keine Grenzen mehr gesetzt. Ihr Design wird auf die Folie gedruckt und
+                            wir bringen diese auf Ihrem Auto an. Egal, ob für private oder
+                            geschäftliche Zwecke, Ihr Auto erhält durch ein ausgefallenes Foliendesign
+                            Wiedererkennungswert.
+                        </p>
+                        <p class="p-reg roboto-regular mb-4">Wir überlegen uns gern mit Ihnen zusammen die
+                            Umsetzungsmöglichkeiten!
+                            Natürlich bieten wir Ihnen auch gern eine Auswahl etablierter Designs an, die sich für die
+                            <a href="{{ route('car-wrapping') }}" class="url-link">Autofolierung</a> bewährt haben.
+                        </p>
+                    </div>
+                    <hr class="underline" />
+                </div>
+                <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
+                    <img class="image-width-100"
+                        src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Mercedes folieren .png"
+                        alt="Ihr Auto - Ihr persönliches Aushängeschild" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="background-website">
+        <div class="wrapper">
+            <div class="d-flex flex-column-1023">
+                <div class="half-width-min-1023 d-flex justify-content-center align-items-center image-border-margin">
+                    <img class="image-width-100"
+                        src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Tesla folieren.png"
+                        alt="Autofolierung von Folientechnik Schweiz, Ihrem Experten für Auto folieren in Zürich" />
+                </div>
+                <div class="box-container half-width-min-1023">
+                    <div class="header-container">
+                        <h2 class="zag text-center"><a href="{{ route('car-wrapping') }}"
+                                class="url-link">Autofolierung</a> von Folientechnik Schweiz,<br />
+                            Ihrem Experten für Auto folieren in Zürich</h2>
+                    </div>
+                    <hr class="underline" />
+                    <div class="text-center">
+                        <p class="p-reg roboto-regular mb-4">Unser Anliegen ist es Ihnen Qualität bei der Umsetzung Ihrer
+                            Bedürfnisse und der
+                            individuellen Umsetzung zu liefern. Bei der <a href="{{ route('car-wrapping') }}"
+                                class="url-link">Autofolierung</a> sind sich die Experten in Ihren
+                            Berichten einig: Hier kann nur der Profi für zufriedenstellende Ergebnisse sorgen. Wer seine
+                            <a href="{{ route('car-wrapping') }}" class="url-link">Autofolierung</a> in Zürich
+                            vornehmen lassen möchte, kann sich bei uns sicher sein, dass das
+                            Qualitätsversprechen eingelöst wird.
+                        </p>
+
+                        <p class="p-reg roboto-regular mb-4">Nehmen Sie noch heute mit uns unverbindlich <a
+                                href="{{ route('contact') }}" class="url-link yello-color">Kontakt</a> auf.</p>
+                    </div>
+                    <hr class="underline" />
+
                 </div>
             </div>
         </div>
