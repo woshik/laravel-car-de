@@ -1,12 +1,13 @@
 @extends('layouts.app')
 
 @section('title')
-    <title>Scheiben Tönen lassen von | Folientechnik Schweiz</title>
+    <title>Scheiben tönen lassen in Zürich | Folientechnik Schweiz</title>
 @endsection
 
 @section('meta')
-    <meta name="keywords" content="scheiben tönen" />
-    <meta name="description" content="Du willst Dich vor Hitze in deinem Auto schützen? Dann lass Dir die Scheiben tönen! ✅ UV-Schutz. ✅ Blendschutz. ✅ Sichtschutz!| Folientechnik Schweiz"/>
+    <meta name="keywords" content="Scheiben tönen für Zürich, Auto folieren in Zürich, Scheibentönung für Zürich" />
+    <meta name="description"
+        content="Du willst die Hitze in deinem Auto loswerden? Dann lass Dir die Scheiben tönen! ✅ UV-Schutz. ✅ Blendschutz. ✅ Sichtschutz! Folientechnik Schweiz" />
 @endsection
 
 @section('style-file')
@@ -22,167 +23,144 @@
         <div class="gradient-header-main-bottom"></div>
         <div class="header-content-box">
             <h1 class="h1 sup-bold-Italic">
-                Scheiben tönen<br />Black Glass
+                Scheiben tönen Zürich
             </h1>
+            <p class="h5 sup-light">Hitzeschutz - Blendschutz - UV Schutz</p>
         </div>
     </header>
 
     <div class="background-website">
-        <section class="section-main-page-1">
-            <div class="wrapper">
-                <div class="box-left-text-right-image clearfix">
-                    <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-1.png" />
-                    </div>
-                    <div class="row">
-                        <div>
-                            <h2 class="zag">
-                                Scheibentönung – Scheiben tönen
-                            </h2>
-                            <span class="p-reg roboto-regular">
-                                <p>
-                                    In Zürich, Winterthur und anderen Schweizer Städten sieht man immer mehr Fahrzeuge mit
-                                    getönten
-                                    Scheiben, was nicht nur cool aussieht und den schnellen Blick ins Fahrzeuginnere
-                                    verwehrt, sondern
-                                    auch weitere Vorteile hat. Insbesondere bietet Scheiben tönen:
-                                </p>
-                                <ul>
-                                  <li>Hitzeschutz im Fahrzeuginnern</li>
-                                  <li>UV-Schutz im Innern für Mensch und Material (Interieur bleicht weniger schnell aus)</li>
-                                  <li>Erhöhung Einbruchschutz</li>
-                                  <li>Blendschutz</li>
-                                  <li>Entlastung Klimaanlage – damit Senkung Spritverbrauch/Energieverbrauch</li>
-                                  <li>Nächtlicher Schutz vor den Schweinwerfern des Hintermannes</li>
-                                  <li>Sichtschutz – unerwünschte Einblicke von aussen werden verhindert</li>
-                                </ul>
-                            </span>
-                        </div>
-                    </div>
-                    <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld-1.png"
-                            alt="" />
-                    </div>
-                    <div></div>
-                </div>
+        <div class="box-container">
+            <div class="header-container">
+                <h1 class="zag text-center">Scheiben tönen für Zürich</h1>
             </div>
-        </section>
+            <hr class="underline" />
+            <div class="text-center">
+                <p class="p-reg roboto-regular mb-4">Zürich ist für die Schweiz genauso wichtig wie der Käse für unser
+                    tolles Land. Deshalb verwundert es auch keinen, dass Zürich das kulturelle und gesellschaftliche Zentrum
+                    der Deutschschweiz ist. Durch unsere Dienstleistung des <a href="{{ route('car-window-tinting') }}"
+                        class="url-link">Scheiben tönen</a> für Zürich wollen wir den
+                    Fahrzeug begeisterten Zürichern einen Mehrwert bieten. Auch ein zentraler Bereich beim Autotuning ist
+                    <a href="{{ route('car-window-tinting') }}" class="url-link">Scheiben tönen</a>. Wenn wir ein <a
+                        href="{{ route('car-wrapping') }}" class="url-link">Auto folieren</a>
+                    für Zürich, lassen wir die Scheiben nur selten unbeachtet.
+                    Kein Wunder, sorgt das <a href="{{ route('car-window-tinting') }}" class="url-link">Scheiben tönen</a>
+                    doch
+                    zusammen mit anderen Details wie Leichtmetallfelgen, Spoiler
+                    oder Tieferlegung für eine besonders ansprechende, sportliche Optik. Neben dem reinen Blickfang hat das
+                    <a href="{{ route('car-window-tinting') }}" class="url-link">Scheiben tönen</a> auch noch weitere
+                    Vorteile,
+                    die unbedingt erwähnenswert sind. Dies sind übrigens die
+                    Gründe, warum auch für Familienfahrzeuge und Flottenfahrzeuge von Unternehmen das <a
+                        href="{{ route('car-window-tinting') }}" class="url-link">Scheiben tönen</a> für
+                    Züricher angefragt wird.
+                </p>
+            </div>
+            <hr class="underline" />
+        </div>
     </div>
 
     <div class="background-website">
-        <h2 class="zag" style="text-align: center;">Wähle deine Scheibentönung</h2>
-        <section class="section-range-tonirovka">
-            <div class="wrapper">
-                <div class="box-left-image-right-text">
-                    <div class="row box-left-image-right-text__img"
-                        style="display: flex;justify-content: center;align-items: center;">
-                        <img class="box-left-image-right-text__img tonirovka-fon"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/background.png" />
-                        <img class="box-left-image-right-text__img tonirovka-back"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/tint.png"
-                            style="opacity: 0.4" />
-                    </div>
-                    <div class="row display-flex-center">
-                        <div class="tonirovka-info-box">
-                            <div class="tonirovka-name">
-                                WERKSTÖNUNG
-                            </div>
-                            <div class="range-text">
-                                <div class="row-3-range">
-                                    <i class="number-range">0%</i><br />
-                                    <p class="p-rang">
-                                        Hitzeschutz
-                                    </p>
-                                </div>
-                                <div class="row-3-range">
-                                    <i class="number-range">0%</i><br />
-                                    <p class="p-rang">
-                                        UV Schutz
-                                    </p>
-                                </div>
-                                <div class="row-3-range">
-                                    <i class="number-range">0%</i><br />
-                                    <p class="p-rang">
-                                        Blendschutz
-                                    </p>
-                                </div>
-                            </div>
-                            <button onclick="openContactModal()" class="blue-btn-form range-modal-form-btn">
-                                Termin zur Beratung
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div id="slider" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content">
-                    <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" style="left: 0%"></span>
-                    <div class="name-slider-range-col number-col-slider-1" style="left: 0%">
-                        <i>ohne Folie</i>
-                    </div>
-                    <div class="name-slider-range-col number-col-slider-2" style="left: 25%">
-                        <i>NR 14</i>
-                    </div>
-                    <div class="name-slider-range-col number-col-slider-3" style="left: 50%">
-                        <i>NR 04</i>
-                    </div>
-                    <div class="name-slider-range-col number-col-slider-4" style="left: 75%">
-                        <i>HP 15</i>
-                    </div>
-                    <div class="name-slider-range-col number-col-slider-5" style="left: 100%">
-                        <i>HP 05</i>
-                    </div>
-                </div>
-                <div class="text-single-slider-tonirovka">
-                    Wähle deine Scheibentönung
-                </div>
+        <div class="box-container">
+            <div class="header-container">
+                <h2 class="zag text-center">Ist eine Werkstönung nicht besser als <a
+                        href="{{ route('car-window-tinting') }}" class="url-link">Scheiben tönen</a>?</h2>
             </div>
-        </section>
+            <hr class="underline" />
+            <div class="text-center">
+                <p class="p-reg roboto-regular mb-4">Es gibt Vorteile, die mit einer nachträglichen <a
+                        href="{{ route('car-window-tinting') }}" class="url-link">Scheibentönung</a> nicht
+                    erreicht werden können. So handelt es sich bei einer Werkstönung um eine dauerhaft verbleibende Tönung,
+                    die witterungsbeständig ist und niemals erneuert werden muss. Die Nachteile sind allerdings nicht von
+                    der Hand zu weisen. So hat das eingefärbte Glas keinen nennenswerten zusätzlichen <a
+                        href="{{ route('car-window-tinting') }}" class="url-link">UV-Schutz</a>, keinen
+                    <a href="{{ route('car-window-tinting') }}" class="url-link">Hitzeschutz</a> und keine
+                    Einbruchshemmung.
+                    All dies wird durch Experten wie auch durch die Versicherungen
+                    nachdrücklich empfohlen. Darüber hinaus wird durch das <a href="{{ route('car-window-tinting') }}"
+                        class="url-link">Scheiben tönen</a> die Klimaanlage
+                    entlastet und der
+                    Kraftstoffverbrauch damit reduziert. Sogar nachts kann man von getönten Scheiben profitieren, denn
+                    man
+                    wird durch die Scheinwerfer des hinter einem fahrenden Autos weniger geblendet. Dass man nur
+                    schlecht in
+                    ein parkendes Auto mit <a href="{{ route('car-window-tinting') }}" class="url-link">getönten
+                        Scheiben</a> hineinschauen kann, hält viele Autoknacker von ihrem
+                    kriminellen Tun ab.
+                </p>
+            </div>
+            <hr class="underline" />
+        </div>
     </div>
 
     <div class="background-website">
-        <section class="section-main-page-1">
-            <div class="wrapper">
-                <div class="box-left-text-right-image clearfix">
-                    <div class="row box-left-text-right-image-mobile">
-                        <img class="box-left-text-right-image__img"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld--3.png"
-                            alt="" />
-                    </div>
-                    <div class="row">
-                        <div>
-                            <h2 class="zag">
-                                SCHEIBENTöNUNG
-                                <br />
-                                <br />
-                                mit Hitzeschutz<br />
-                                mit UV Schutz<br />
-                                mit Einbruchschutz
-                            </h2>
-                            <span class="p-reg roboto-regular">
-                                <p>
-                                    Es gibt viele Gründe die für eine Scheibentönung von uns sprechen, schon in
-                                    Betracht das eine Werkstönung es sich nur um eingefärbtes Glas handelt und
-                                    keinerlei Hitzeschutz oder UV Schutz bietet.
-                                </p>
-                                <p>
-                                    Getönte Scheiben mit Folie bieten noch zusätzlich einen massiven Einbruchschutz.
-                                    Die innen geklebte Folie verbindet das Einscheibensicherheitsglas und bildet so
-                                    einen massiven Einbruchschutz.
-                                </p>
-                            </span>
-                        </div>
-                    </div>
-                    <div class="row box-left-text-right-image-pc">
-                        <img class="box-left-text-right-image__img loaded"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/feature-images/Scheibentönung-BIld--3.png"
-                            alt="" />
-                    </div>
-                </div>
+        <div class="box-container">
+            <div class="header-container">
+                <h2 class="zag text-center">Wie wird das <a href="{{ route('car-window-tinting') }}"
+                        class="url-link">Scheiben tönen</a> durchgeführt?</h2>
             </div>
-        </section>
+            <hr class="underline" />
+            <div class="text-center">
+                <p class="p-reg roboto-regular mb-4">Prinzipiell ist beim <a href="{{ route('car-window-tinting') }}"
+                        class="url-link">Scheiben tönen</a> nicht alles erlaubt. Die
+                    Frontscheibe und die Seitenscheiben dürfen nicht getönt werden, sodass der Fokus auf der Heckscheibe und
+                    den hinteren Seitenscheiben liegt. Die Tönungsfolie wird immer von der Innenseite auf die gereinigte
+                    Scheibe geklebt. Denn hier kann die Witterung oder das Reinigen des Autos nicht mechanisch auf die
+                    Scheibe einwirken. Ausserdem ist sie davor geschützt, von aussen aus Gründen von Vandalismus oder für
+                    einen geplanten Einbruch ins Fahrzeug abgezogen zu werden.
+
+                </p>
+            </div>
+            <hr class="underline" />
+        </div>
     </div>
 
+    <div class="background-website">
+        <div class="box-container">
+            <div class="header-container">
+                <h2 class="zag text-center">Kann man <a href="{{ route('car-window-tinting') }}"
+                        class="url-link">Scheiben tönen</a> auch selbst machen?</h2>
+            </div>
+            <hr class="underline" />
+            <div class="text-center">
+                <p class="p-reg roboto-regular mb-4">Es gibt keine Vorschrift, die dagegenspricht, das tönen der Scheiben
+                    selbst durchzuführen. Allerdings muss hierbei unbedingt auf hochwertiges und zulässiges Material
+                    geachtet werden. Und selbst dann ist es mit dem geeigneten Werkzeug schwierig, die Arbeit faltenfrei und
+                    glatt durchzuführen. Schon kleinste Ungenauigkeiten beeinträchtigen die Sicht und sorgen dafür, dass die
+                    Freude am <a href="{{ route('car-window-tinting') }}" class="url-link">Scheiben tönen</a> für Zürich
+                    nicht lange vorhält. Gerne übernehmen wir diese Arbeit, die wir zu
+                    einem fairen Preis anbieten. Natürlich führen wir das <a href="{{ route('car-window-tinting') }}"
+                        class="url-link">Scheiben tönen</a> für Zürichern professionell und mit
+                    bestem Material durch.
+                </p>
+            </div>
+            <hr class="underline" />
+        </div>
+    </div>
+
+    <div class="background-website">
+        <div class="box-container">
+            <div class="header-container">
+                <h2 class="zag text-center">Gibt es unterschiedliche Tönungsfolien?</h2>
+            </div>
+            <hr class="underline" />
+            <div class="text-center">
+                <p class="p-reg roboto-regular mb-4">Auf unserer Website zeigen wir Ihnen welche <a
+                        href="{{ route('home') }}" class="url-link">Folierungstechniken</a> wir
+                    anbieten und welche verschiedenen Folien wir zur Tönung der Scheiben bereithalten. Die Unterschiede sind
+                    einerseits optischer Natur, zeigen sich aber auch in den technischen Details. Diese beziehen sich vor
+                    allem auf den <a href="{{ route('car-window-tinting') }}" class="url-link">Blendschutz</a>, den <a
+                        href="{{ route('car-window-tinting') }}" class="url-link">Hitzeschutz</a> und den <a
+                        href="{{ route('car-window-tinting') }}" class="url-link">UV-Schutz</a>. Sprechen Sie uns gerne
+                    an um zu erfahren,
+                    was bei Ihrem Auto möglich und sinnvoll ist. Wir beraten Sie gerne gratis und ohne jede Verpflichtung.
+                    Nehmen Sie dazu gerne mit uns <a href="{{ route('contact') }}"
+                        class="url-link yello-color">Kontakt</a> auf!
+                </p>
+            </div>
+            <hr class="underline" />
+        </div>
+    </div>
     @include('partials.contactForm')
 @endsection
 
