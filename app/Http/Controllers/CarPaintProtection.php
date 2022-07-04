@@ -10,4 +10,9 @@ class CarPaintProtection extends Controller
     {
         return view('carPaintProtection', ['page' => 'Services']);
     }
+
+    public function view2()
+    {
+        return view('carPaintProtectionNew', ['page' => 'Services']);
+    }
 }

@@ -38,6 +38,8 @@ Route::get('/auto-detailing', [CarDetailing::class, 'view'])->name('car-detailin
 
 Route::get('/steinschlagschutzfolie', [CarPaintProtection::class, 'view'])->name('car-paint-protection');
 
+Route::get('/lackschutzfolie', [CarPaintProtection::class, 'view2'])->name('car-paint-protection-new');
+
 Route::get('/scheiben-tönen', [CarWindowTinting::class, 'view'])->name('car-window-tinting');
 
 Route::get('/autofolierung', [CarWrapping::class, 'view'])->name('car-wrapping');
