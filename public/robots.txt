@@ -1,5 +1,4 @@
-User-agent: *
-Disallow:
-Allow:
-
 Sitemap: https://www.folientechnik-schweiz.ch/sitemap.xml
+
+User-agent: * 
+Disallow: 
