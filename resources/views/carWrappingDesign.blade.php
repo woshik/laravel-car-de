@@ -5,7 +5,7 @@
 @endsection
 
 @section('meta')
-    <link rel="canonical" href="https://folientechnik-schweiz.ch/auto-folien-design">
+    <link rel="canonical" href="https://www.folientechnik-schweiz.ch/auto-folien-design">
     <meta name="keywords" content="Digitalprint-Folierung, Motorsport-Folierung, Motorsport Design, eigene Folie designen" />
     <meta name="description"
         content="Du willst deine eigene Folie gestalten? Nur für dich? ✅ Beste Grafiker für Designs ✅ Motorsport Designs ✅ Autofolien by Folientechnik Schweiz" />

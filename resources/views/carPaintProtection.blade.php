@@ -5,7 +5,7 @@
 @endsection
 
 @section('meta')
-    <link rel="canonical" href="https://folientechnik-schweiz.ch/steinschlagschutzfolie">
+    <link rel="canonical" href="https://www.folientechnik-schweiz.ch/steinschlagschutzfolie">
     <meta name="keywords" content="steinschlagschutzfolie" />
     <meta name="description"
         content="Steinschlagschutzfolie der neuen Generation! Schütze Dein Auto vor Steinschlag! ✅ Selbstheilungseffekt! ✅ 100% Steinschlagschutz » | Folientechnik Schweiz" />
@@ -224,7 +224,7 @@
                     <div class="row box-left-image-right-text__img"
                         style="display: flex;justify-content: center;align-items: center;">
                         <img class="box-left-image-right-text__img tonirovka-fon"
-                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/ppf-1.png" />
+                            src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/slider/ppf-1.png" alt="Lackschutzpakete" />
                     </div>
                     <div class="row display-flex-center">
                         <div class="tonirovka-info-box"

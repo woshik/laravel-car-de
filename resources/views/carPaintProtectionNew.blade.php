@@ -5,7 +5,7 @@
 @endsection
 
 @section('meta')
-    <link rel="canonical" href="https://folientechnik-schweiz.ch/steinschlagschutzfolie">
+    <link rel="canonical" href="https://www.folientechnik-schweiz.ch/steinschlagschutzfolie">
     <meta name="keywords" content="Lackschutzfolie, Lackschutzfolierung, Lackschutz, XPEL LACKSCHUTZ, Hexis Lackschutz" />
     <meta name="description"
         content="Lackschutzfolie vom zertifizierten Spezialisten für den Premiumsegment ✅ unsichtbar ✅ ohne Risiko ✅ bestes Niveau ✅ beste Aftersale Service der Schweiz ✅ Folientechnik Schweiz" />

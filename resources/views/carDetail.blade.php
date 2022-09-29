@@ -5,7 +5,7 @@
 @endsection
 
 @section('style-file')
-    <link rel="canonical" href="https://folientechnik-schweiz.ch/detail/{{ $page }}">
+    <link rel="canonical" href="https://www.folientechnik-schweiz.ch/detail/{{ $page }}">
     <link rel="stylesheet" href="{{ mix('/css/car_detail.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.1.8/css/lightgallery.min.css"
         integrity="sha512-DY7doCjzDiHKPjOIz7TBml+ZGeiORmxLdMEa8x7j+I0kuHD/vBogtvqhZCUbeCKJ8TR1slujyv9wxO4x0hbBMQ=="
@@ -40,7 +40,8 @@
                     <span property="name" class="post post-post current-item">{{ $data->title }}</span>
                 </span>
             </div>
-            <div class="title-single-page">{{ $data->title }}</div>
+
+            <h1 class="title-single-page">{{ $data->title }}</h1>
 
             <div class="content-single-page">
                 <div class=" p-reg roboto-regular">

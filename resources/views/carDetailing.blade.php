@@ -5,7 +5,7 @@
 @endsection
 
 @section('meta')
-    <link rel="canonical" href="https://folientechnik-schweiz.ch/auto-detailing">
+    <link rel="canonical" href="https://www.folientechnik-schweiz.ch/auto-detailing">
     <meta name="keywords" content="auto detailing" />
     <meta name="description" content="Du willst Dein Auto in neuem Glanz erstrahlen lassen? Dann probier unser 1 a Auto Detailing! ✅ Schutz vor Dreck ✅ Langer Schutz! | Folientechnik Schweiz"/>
 @endsection

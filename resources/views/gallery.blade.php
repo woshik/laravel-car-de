@@ -1,11 +1,17 @@
 @extends('layouts.app')
 
 @section('title')
-    <title>Gallery</title>
+    <title>Gallery | Folientechnik Schweiz</title>
+@endsection
+
+@section('meta')
+    <link rel="canonical" href="https://www.folientechnik-schweiz.ch/gallery">
+    <meta name="keywords" content="folientechnik schweiz gallery" />
+    <meta name="description"
+        content="Auto folieren in der Schweiz ✔️ schützende Lackschutzfolien ✔️ Car Wrapping bei einem erfahrenen Team ✔️ Scheiben tönen an ihrem Fahrzeug ✔️ Folientechnik Schweiz" />
 @endsection
 
 @section('style-file')
-    <link rel="canonical" href="https://folientechnik-schweiz.ch/gallery">
     <link rel="stylesheet" href="{{ mix('/css/gallery.css') }}">
 @endsection
 

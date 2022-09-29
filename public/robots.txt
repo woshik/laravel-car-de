@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 Allow:
 
-Sitemap: https://folientechnik-schweiz.ch/sitemap.xml
+Sitemap: https://www.folientechnik-schweiz.ch/sitemap.xml
