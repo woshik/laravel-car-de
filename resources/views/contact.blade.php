@@ -7,8 +7,7 @@
 @section('meta')
     <link rel="canonical" href="https://www.folientechnik-schweiz.ch/kontakt">
     <meta name="keywords" content="folientechnik schweiz contact" />
-    <meta name="description"
-        content="Auto folieren in der Schweiz ✔️ schützende Lackschutzfolien ✔️ Car Wrapping bei einem erfahrenen Team ✔️ Scheiben tönen an ihrem Fahrzeug ✔️ Folientechnik Schweiz" />
+    <meta name="description" content="Contact with Folientechnik Schweiz" />
 @endsection
 
 @section('style-file')
