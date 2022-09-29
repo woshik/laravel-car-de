@@ -5,6 +5,7 @@
 @endsection
 
 @section('style-file')
+    <link rel="canonical" href="https://folientechnik-schweiz.ch/{{ $page }}">
     <link rel="stylesheet" href="{{ mix('/css/car_detail.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.1.8/css/lightgallery.min.css"
         integrity="sha512-DY7doCjzDiHKPjOIz7TBml+ZGeiORmxLdMEa8x7j+I0kuHD/vBogtvqhZCUbeCKJ8TR1slujyv9wxO4x0hbBMQ=="

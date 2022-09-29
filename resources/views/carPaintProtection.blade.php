@@ -5,6 +5,7 @@
 @endsection
 
 @section('meta')
+    <link rel="canonical" href="https://folientechnik-schweiz.ch/steinschlagschutzfolie">
     <meta name="keywords" content="steinschlagschutzfolie" />
     <meta name="description"
         content="Steinschlagschutzfolie der neuen Generation! Schütze Dein Auto vor Steinschlag! ✅ Selbstheilungseffekt! ✅ 100% Steinschlagschutz » | Folientechnik Schweiz" />

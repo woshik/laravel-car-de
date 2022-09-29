@@ -5,6 +5,7 @@
 @endsection
 
 @section('meta')
+    <link rel="canonical" href="https://folientechnik-schweiz.ch/autofolierung">
     <meta name="keywords" content="Autofolierung, Autofolierung Zürich, Autofolierung Schweiz, Auto folieren" />
     <meta name="description"
         content="Autofolierung in der Schweiz ✅ selbstheilende Lackschutzfolien ✅ Car Wrapping bei einem Team mit mehrjähriger Erfahrung ✅ Scheiben tönen für mehr Hitzeschutz ..." />

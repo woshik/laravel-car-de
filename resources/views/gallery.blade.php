@@ -5,12 +5,13 @@
 @endsection
 
 @section('style-file')
+    <link rel="canonical" href="https://folientechnik-schweiz.ch/gallery">
     <link rel="stylesheet" href="{{ mix('/css/gallery.css') }}">
 @endsection
 
 @section('content')
     <section class="section-portfolio-page-1">
-        <h2 class="zag text-center">Gallery</h2>
+        <h1 class="zag text-center">Gallery</h1>
         <div class="div-grid grid-4-col portfolio-grid">
             <div class="grid-portfolio">
                 <a href="{{ route('detail', ['slug' => 'BMW-folieren-Schweiz']) }}">

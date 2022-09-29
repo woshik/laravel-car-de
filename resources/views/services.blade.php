@@ -5,6 +5,7 @@
 @endsection
 
 @section('style-file')
+    <link rel="canonical" href="https://folientechnik-schweiz.ch/services">
     <link rel="stylesheet" href="{{ mix('/css/services.css') }}">
 @endsection
 

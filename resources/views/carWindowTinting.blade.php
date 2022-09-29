@@ -5,6 +5,7 @@
 @endsection
 
 @section('meta')
+    <link rel="canonical" href="https://folientechnik-schweiz.ch/scheiben-tönen">
     <meta name="keywords" content="Scheiben tönen für Zürich, Auto folieren in Zürich, Scheibentönung für Zürich" />
     <meta name="description"
         content="Du willst die Hitze in deinem Auto loswerden? Dann lass Dir die Scheiben tönen! ✅ UV-Schutz. ✅ Blendschutz. ✅ Sichtschutz! Folientechnik Schweiz" />
