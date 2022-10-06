@@ -229,6 +229,8 @@ body {
 .wrapper {
     max-width: 1440px;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
 }
 .back-box {
     background-size: cover !important;
@@ -791,7 +793,7 @@ body {
     overflow: hidden;
     background: rgba(40, 42, 50, 0.4);
     width: calc(33% - 2.1vw);
-    margin: 0 2vw 2vw 0;
+    margin: 10px;
 }
 .image-service {
     width: 100%;
@@ -13879,4 +13881,8 @@ button.swiper-pagination-bullet {
 
 .yello-color {
     color: #f7a816;
+}
+
+.service-box .row-3:first-child {
+    margin-left: 0;
 }

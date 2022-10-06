@@ -20,11 +20,6 @@
             <span>Design mit Folie</span>
             <i class="services-link 4">Mehr Details</i>
         </a>
-        <a href="{{ route('car-detailing') }}" class="row-5">
-            <div class="image-service back-box" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/service/car-detailing.jpg)"></div>
-            <span>Detailing</span>
-            <i class="services-link 7">Mehr Details</i>
-        </a>
     </div>
 </div>
 <div class="close-box-service"></div>

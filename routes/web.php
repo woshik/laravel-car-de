@@ -34,7 +34,7 @@ Route::get('/gallery', [Gallery::class, 'view'])->name('gallery');
 
 Route::get('/kontakt', [Contact::class, 'view'])->name('contact');
 
-Route::get('/auto-detailing', [CarDetailing::class, 'view'])->name('car-detailing');
+// Route::get('/auto-detailing', [CarDetailing::class, 'view'])->name('car-detailing');
 
 Route::get('/steinschlagschutzfolie', [CarPaintProtection::class, 'view'])->name('car-paint-protection');
 
