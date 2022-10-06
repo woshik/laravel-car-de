@@ -1,5 +1,5 @@
 <h1 class="zag text-center">DIENSTLEISTUNGEN</h1>
-<div class="wrapper">
+<div class="wrapper service-wrapper">
     <div class="service-box custom-service-grid">
         <div class="row-3">
             <a href="{{ route('car-wrapping') }}">

@@ -229,8 +229,6 @@ body {
 .wrapper {
     max-width: 1440px;
     margin: 0 auto;
-    display: flex;
-    justify-content: center;
 }
 .back-box {
     background-size: cover !important;
@@ -13885,4 +13883,9 @@ button.swiper-pagination-bullet {
 
 .service-box .row-3:first-child {
     margin-left: 0;
+}
+
+.service-wrapper {
+    display: flex;
+    justify-content: center;
 }
