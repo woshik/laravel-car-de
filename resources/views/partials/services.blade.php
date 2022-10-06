@@ -33,14 +33,14 @@
                 <i class="services-link service-link-4">Mehr Details</i>
             </a>
         </div>
-        <div class="row-3">
+        {{-- <div class="row-3">
             <a href="{{ route('car-detailing') }}">
                 <div class="image-service back-box" style="background-image: url(https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/service/car-detailing.jpg)">
                 </div>
                 <span>Detailing</span>
                 <i class="services-link service-link-7">Mehr Details</i>
             </a>
-        </div>
+        </div> --}}
     </div>
 </div>
 
