@@ -1,4 +1,3 @@
 Sitemap: https://www.folientechnik-schweiz.ch/sitemap.xml
-
 User-agent: * 
 Disallow: 

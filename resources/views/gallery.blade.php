@@ -30,7 +30,7 @@
                 </a>
             </div>
             <div class="grid-portfolio">
-                <a href="{{ route('detail', ['slug' => 'BMW-folieren-Zürich']) }}">
+                <a href="#">
                     <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/BMW-folieren-Zürich.jpg" alt="BMW folieren Zürich">
                     <div class="hover-portfolio-box">
                         <div>
@@ -41,7 +41,7 @@
                 </a>
             </div>
             <div class="grid-portfolio">
-                <a href="{{ route('detail', ['slug' => 'Chevrolet-Camaro-folieren-Schweiz']) }}">
+                <a href="#">
                     <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Chevrolet-Camaro-folieren-Schweiz.jpg" alt="Chevrolet Camaro folieren Schweiz">
                     <div class="hover-portfolio-box">
                         <div>
@@ -52,7 +52,7 @@
                 </a>
             </div>
             <div class="grid-portfolio">
-                <a href="{{ route('detail', ['slug' => 'Corvette-folieren-Zürich']) }}">
+                <a href="#">
                     <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Corvette-folieren-Zürich-.jpg" alt="Corvette folieren Zürich">
                     <div class="hover-portfolio-box">
                         <div>
@@ -63,7 +63,7 @@
                 </a>
             </div>
             <div class="grid-portfolio">
-                <a href="{{ route('detail', ['slug' => 'Die-Folizei']) }}">
+                <a href="#">
                     <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Die-Folizei.jpg" alt="Die Folizei">
                     <div class="hover-portfolio-box">
                         <div>
@@ -74,7 +74,7 @@
                 </a>
             </div>
             <div class="grid-portfolio">
-                <a href="{{ route('detail', ['slug' => 'Ferrari-folieren-Schweiz']) }}">
+                <a href="#">
                     <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Ferrari-folieren-Schweiz.jpg" alt="Ferrari folieren Schweiz">
                     <div class="hover-portfolio-box">
                         <div>
@@ -85,7 +85,7 @@
                 </a>
             </div>
             <div class="grid-portfolio">
-                <a href="{{ route('detail', ['slug' => 'Fiat-Abarth-124-Folierung']) }}">
+                <a href="#">
                     <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/FiatAbarth124Folierung.jpg" alt="Fiat Abarth - 124 Folierung Zürich">
                     <div class="hover-portfolio-box">
                         <div>
@@ -96,7 +96,7 @@
                 </a>
             </div>
             <div class="grid-portfolio">
-                <a href="{{ route('detail', ['slug' => 'Mercedes-folieren-Zürich']) }}">
+                <a href="#">
                     <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Mercedes-folieren-Zürich.jpg" alt="Mercedes folieren Zürich">
                     <div class="hover-portfolio-box">
                         <div>
@@ -107,7 +107,7 @@
                 </a>
             </div>
             <div class="grid-portfolio">
-                <a href="{{ route('detail', ['slug' => 'Nissan-GTR-folieren-Schweiz']) }}">
+                <a href="#">
                     <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Nissan-GTR-folieren-Schweiz.jpg" alt="Nissan GTR folieren Schweiz">
                     <div class="hover-portfolio-box">
                         <div>
@@ -118,7 +118,7 @@
                 </a>
             </div>
             <div class="grid-portfolio">
-                <a href="{{ route('detail', ['slug' => 'Porsche-911-Turbo-folieren-Schweiz']) }}">
+                <a href="#">
                     <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Porsche-911-Turbo-folieren-Schweiz.jpg" alt="Porsche 911 Turbo folieren Schweiz">
                     <div class="hover-portfolio-box">
                         <div>
@@ -140,7 +140,7 @@
                 </a>
             </div>
             <div class="grid-portfolio">
-                <a href="{{ route('detail', ['slug' => 'Porsche-folieren-Schweiz']) }}">
+                <a href="#">
                     <img src="https://raw.githubusercontent.com/woshik/laravel-car-de/main/public/images/gallery/Porsche-folieren-Schweiz-.jpg" alt="Porsche folieren Schweiz">
                     <div class="hover-portfolio-box">
                         <div>

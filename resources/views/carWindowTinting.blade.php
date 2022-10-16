@@ -33,7 +33,7 @@
     <div class="background-website">
         <div class="box-container">
             <div class="header-container">
-                <h1 class="zag text-center">Scheiben tönen für Zürich</h1>
+                <h2 class="zag text-center">Scheiben tönen für Zürich</h2>
             </div>
             <hr class="underline" />
             <div class="text-center">

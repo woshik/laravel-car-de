@@ -25,7 +25,7 @@
     <div class="background-website">
         <div class="box-container">
             <div class="header-container">
-                <h1 class="zag text-center">Mit einer ausdrucksstarken Motorsport-Folierung aus der Masse hervorstechen</h1>
+                <h2 class="zag text-center">Mit einer ausdrucksstarken Motorsport-Folierung aus der Masse hervorstechen</h2>
             </div>
             <hr class="underline" />
             <div class="text-center">
@@ -66,7 +66,7 @@
     <div class="background-website">
         <div class="box-container">
             <div class="header-container">
-                <h1 class="zag text-center">Motorsport-Folierung - grossartiges Design aus der Hand von Fachleuten</h1>
+                <h2 class="zag text-center">Motorsport-Folierung - grossartiges Design aus der Hand von Fachleuten</h2>
             </div>
             <hr class="underline" />
             <div class="text-center">
@@ -98,7 +98,7 @@
     <div class="background-website">
         <div class="box-container">
             <div class="header-container">
-                <h1 class="zag text-center">Das Auto als Werbefläche nutzen: Mit Motorsport-Folierung kein Problem!</h1>
+                <h2 class="zag text-center">Das Auto als Werbefläche nutzen: Mit Motorsport-Folierung kein Problem!</h2>
             </div>
             <hr class="underline" />
             <div class="text-center">
@@ -123,8 +123,8 @@
     <div class="background-website">
         <div class="box-container">
             <div class="header-container">
-                <h1 class="zag text-center">Auf Hochwertigkeit und Langlebigkeit ist beim Profi für Motosport Folierung
-                    Verlass!</h1>
+                <h2 class="zag text-center">Auf Hochwertigkeit und Langlebigkeit ist beim Profi für Motosport Folierung
+                    Verlass!</h2>
             </div>
             <hr class="underline" />
             <div class="text-center">

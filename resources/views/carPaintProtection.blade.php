@@ -33,7 +33,7 @@
     <div class="background-website">
         <div class="box-container">
             <div class="header-container">
-                <h1 class="zag text-center">STEINSCHLAGSCHUTZFOLIE</h1>
+                <h2 class="zag text-center">STEINSCHLAGSCHUTZFOLIE</h2>
                 <p class="sup-light text-center">unauffällig aber mit grosser Wirkung!</p>
             </div>
             <hr class="underline" />
