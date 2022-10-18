@@ -53,3 +53,17 @@ Route::post('/send-mail', [Contact::class, 'sendEmail'])->name('send-email');
 Route::get('/tesla-model-y', [TeslaModelY::class, 'view'])->name('tesla-model-y');
 
 Route::get('/all/{slug}', [Landing::class, 'view'])->name('landing');
+
+// redirect routes
+
+Route::redirect('/design-deine-folie', '/auto-folien-design', 301);
+
+Route::redirect('/lackschutzfolie-steinschlagschutz', '/steinschlagschutzfolie', 301);
+
+Route::redirect('/porschefolieren', '/', 301);
+
+Route::redirect('/lackschutzfolien-i-steinschlagschutz', '/steinschlagschutzfolie', 301);
+
+Route::redirect('/contact', '/kontakt', 301);
+
+Route::redirect('/auto-detailing', '/', 301);

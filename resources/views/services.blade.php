@@ -16,6 +16,7 @@
 
 @section('content')
     <div class="background-website padding-bottom-0">
+        <h1 class="zag text-center">DIENSTLEISTUNGEN</h1>
         @include('partials.services')
     </div>
 @endsection

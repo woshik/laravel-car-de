@@ -2,9 +2,9 @@
     <div class="wrapper" style="max-width: 635px;">
         <div class="div-flex flex-column">
             <div class="row-form-box mb-4">
-                <h1 class="zag">
+                <h2 class="zag">
                     KONTAKT FORMULAR
-                </h1>  
+                </h2>  
             </div>
             <div class="modal-content-form">
                 <div role="form" class="wpcf7" id="wpcf7-f3638-o2" lang="ru-RU" dir="ltr">
