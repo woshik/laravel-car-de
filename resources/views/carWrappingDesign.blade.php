@@ -29,13 +29,11 @@
             </div>
             <hr class="underline" />
             <div class="text-center">
-                <p class="p-reg roboto-regular mb-4">Sie sind ein begeisterter Fan des <a
-                        href="{{ route('car-wrapping-design') }}" class="url-link" title="Motorsports">Motorsports</a> und
+                <p class="p-reg roboto-regular mb-4">Sie sind ein begeisterter Fan des Motorsports und
                     haben sich
                     dazu entschlossen, nicht mehr nur als
                     Zuschauer auf der Tribüne zu sitzen, sondern selbst mit einer aufsehenerregenden
-                    <a href="{{ route('car-wrapping-design') }}" class="url-link"
-                        title="Motorsport-Folierung">Motorsport-Folierung</a> auf die Rennstrecke zu gehen? Dann brauchen
+                    Motorsport-Folierung auf die Rennstrecke zu gehen? Dann brauchen
                     Sie das
                     perfekte Fahrzeug, das
                     viel PS
@@ -53,8 +51,7 @@
                     Stelle
                     kommen Profis ins Spiel. Ihr individuelles Motiv wird mittels Digitaldruck auf hochwertige
                     Autofolie
-                    aufdruckt. Anschliessend verschönern wir von <a href="{{ route('home') }}" class="url-link"
-                        title="Folientechnik Schweiz">Folientechnik Schweiz</a> Ihr Auto mit Ihrem Motorsport
+                    aufdruckt. Anschliessend verschönern wir von Folientechnik Schweiz Ihr Auto mit Ihrem Motorsport
                     Design. Die Motorsport-Folierung bietet nicht nur einen dauerhaften Lackschutz. Vielmehr
                     überzeugt die Folie durch Ihre Einzigartigkeit.
                 </p>
@@ -78,14 +75,11 @@
                     der eigenen Ideenfindung behindern. Ein wichtiger Aspekt bei der Motorsport-Folierung besteht darin, die
                     Zielsetzung festzulegen. Soll diese rein zu Werbezwecken dienen und auf Ihren Sponsor aufmerksam machen
                     oder möchten Sie Ihrem privaten Fahrzeug einen einzigartigen Look verpassen? Grundsätzlich ist mit einem
-                    Motorsport <a href="{{ route('car-wrapping-design') }}" class="url-link"
-                        title="Auto Folien Design">Auto Folien Design</a> fast alles möglich und in vielen Bereichen, nicht
-                    nur im Rennsport
-                    verwendbar. Motorsport-Folierung ist ausserdem für die Fahrzeugflotte und Leasingfahrzeuge interessant,
+                    Motorsport Auto Folien Design fast alles möglich und in vielen Bereichen, nicht
+                    nur im Rennsport verwendbar. Motorsport-Folierung ist ausserdem für die Fahrzeugflotte und Leasingfahrzeuge interessant,
                     um auf Ihr Unternehmen aufmerksam zu machen. Ihr Firmenlogo auf der Motorhaube oder der Beifahrer- und
                     Fahrertüre fällt sofort ins Auge, sogar wenn andere Verkehrsteilnehmer nicht explizit darauf achten. Wir
-                    von <a href="{{ route('home') }}" class="url-link" title="Folientechnik Schweiz">Folientechnik
-                        Schweiz</a> arbeiten mit grossartigen Designern zusammen, die Ihre individuelle
+                    von Folientechnik Schweiz arbeiten mit grossartigen Designern zusammen, die Ihre individuelle
                     Motorsport-Folierung erst möglich machen. Sie können uns selbstverständlich Ihren eigenen Entwurf
                     zusenden. Wir schauen, inwieweit die Umsetzung möglich ist und setzen alles daran, dass Sie zum Schluss
                     mit der Motorsport-Folierung glücklich und zufrieden sind.
@@ -132,7 +126,7 @@
                     zu machen, dass diese nach kurzer Zeit ihre besondere Optik verliert. Der verwendete Digitaldruck ist
                     ein erprobtes Druckverfahren, das schon seit vielen Jahren in unterschiedlichen Bereichen zum Einsatz
                     kommt. Da auch die Autofolie als solches hochwertig und langlebig sein muss, setzen wird von
-                    <a href="{{ route('home') }}" class="url-link" title="Folientechnik Schweiz">Folientechnik Schweiz</a>
+                    Folientechnik Schweiz
                     auf erfahrene Anbieter. Ist Ihr Interesse an einer Motorsport-Folierung besonders
                     gross, sind wir genau der richtige Ansprechpartner. Uns ist es daran gelegen, dass Sie die beste
                     Motorsport-Folierung für Ihr Fahrzeug bekommen und beraten Sie hinsichtlich der Möglichkeiten sowie der
@@ -140,7 +134,7 @@
                     der Motorsport-Folierung unser gesamtes Know-how mit ein. Auch andere Wünsche wie ein guter Hitzeschutz
                     und UV-Schutz sind bei uns willkommen. Unser Team zeichnet sich durch eine grosse Leidenschaft zu
                     Fahrzeugen aller Art aus, um diese ganz individuell gemäss Kundenwunsch zu gestalten. Nehmen Sie einfach
-                    <a href="{{ route('contact') }}" class="url-link yello-color">Kontakt</a> mit uns auf. Wir beraten Sie
+                    Kontakt mit uns auf. Wir beraten Sie
                     umfassend hinsichtlich der Möglichkeiten mit Autofolien, damit Sie
                     die richtige Wahl treffen.
                 </p>
