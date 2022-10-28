@@ -41,8 +41,7 @@
                     tolles Land. Deshalb verwundert es auch keinen, dass Zürich das kulturelle und gesellschaftliche Zentrum
                     der Deutschschweiz ist. Durch unsere Dienstleistung des Scheiben tönen für Zürich wollen wir den
                     Fahrzeug begeisterten Zürichern einen Mehrwert bieten. Auch ein zentraler Bereich beim Autotuning ist
-                    Scheiben tönen. Wenn wir ein Auto folieren
-                    für Zürich, lassen wir die Scheiben nur selten unbeachtet.
+                    Scheiben tönen. Wenn wir ein <a href="{{ route('home') }}" class="url-link">Auto folieren für Zürich</a>, lassen wir die Scheiben nur selten unbeachtet.
                     Kein Wunder, sorgt das Scheiben tönen
                     doch zusammen mit anderen Details wie Leichtmetallfelgen, Spoiler
                     oder Tieferlegung für eine besonders ansprechende, sportliche Optik. Neben dem reinen Blickfang hat das

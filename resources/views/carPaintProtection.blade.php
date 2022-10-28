@@ -79,7 +79,7 @@
 
                 <p class="zag mb-4 heading">Ihre selbstheilende Oberfläche lässt Waschanlagenkratzer einfach verschwinden.
                 </p>
-                <p class="p-reg roboto-regular mb-4">Wir von Folientechnik Schweiz setzen auf Steinschlagschutzfolien aus
+                <p class="p-reg roboto-regular mb-4">Wir von <a href="{{ route('home') }}" class="url-link">Folientechnik Schweiz</a> setzen auf Steinschlagschutzfolien aus
                     Polyurethan, einem Material, das wegen seiner hohen Dehnbarkeit bevorzugt benutzt wird. Es bietet die
                     Möglichkeit, die Folie gleichmässig auf der Oberfläche des Fahrzeugs anzubringen, ohne, dass optisch ein
                     Unterschied zu erkennen wäre.</p>
@@ -297,7 +297,7 @@
                     werden den Unterschied zwar nicht
                     sehen, aber merken. Angst vor Lackschäden können mit dem fachgerechten Auftrag einer
                     Steinschlagschutzfolie der Vergangenheit an.
-                    Nehmen Sie gerne Kontakt zu uns auf. Wir von Folientechnik Schweiz beraten Sie gerne bei der Wahl der
+                    Nehmen Sie gerne Kontakt zu uns auf. Wir von <a href="{{ route('home') }}" class="url-link">Folientechnik Schweiz</a> beraten Sie gerne bei der Wahl der
                     richtigen Folierung und dem passenden
                     Anwendungsgebiet auf Ihrem Auto</p>
             </div>

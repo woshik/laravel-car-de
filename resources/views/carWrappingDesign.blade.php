@@ -50,7 +50,7 @@
                     Fahrzeugdesign zu überzeugen, eignet sich eine Motorsport-Folierung ziemlich gut. An dieser
                     Stelle
                     kommen Profis ins Spiel. Ihr individuelles Motiv wird mittels Digitaldruck auf hochwertige
-                    Autofolie
+                    <a href="{{ route('home') }}" class="url-link">Autofolie</a>
                     aufdruckt. Anschliessend verschönern wir von Folientechnik Schweiz Ihr Auto mit Ihrem Motorsport
                     Design. Die Motorsport-Folierung bietet nicht nur einen dauerhaften Lackschutz. Vielmehr
                     überzeugt die Folie durch Ihre Einzigartigkeit.
@@ -105,8 +105,8 @@
                     anderer Verkehrsteilnehmer zu wecken. Das können kryptische Symbole sein, die mit Ihrem Unternehmen
                     direkt in Verbindung stehen oder ein exklusives grossformatiges Logo, welches direkt das Interesse
                     weckt. Auch in diesem Bereich gilt unsere Devise, dass fast alles mit einer Motorsport-Folierung möglich
-                    ist. Verwendet werden nur hochwertige Folien, die gleichzeitig den Fahrzeuglack vor Steinschlag,
-                    Kratzern und Parkremplern schützen. Auch Eis, Streusalz und intensive Sonneneinstrahlung haben keine
+                    ist. Verwendet werden nur <a href="{{ route('car-paint-protection') }}" class="url-link">hochwertige Folien, die gleichzeitig den Fahrzeuglack vor Steinschlag,
+                    Kratzern und Parkremplern schützen</a>. Auch Eis, Streusalz und intensive Sonneneinstrahlung haben keine
                     Chance, den Alterungsprozess voranzutreiben und den Lack zu beschädigen.
                 </p>
             </div>
@@ -125,7 +125,7 @@
                 <p class="p-reg roboto-regular mb-4">Bei einer Motorsport-Folierung brauchen Sie sich keine Gedanken darüber
                     zu machen, dass diese nach kurzer Zeit ihre besondere Optik verliert. Der verwendete Digitaldruck ist
                     ein erprobtes Druckverfahren, das schon seit vielen Jahren in unterschiedlichen Bereichen zum Einsatz
-                    kommt. Da auch die Autofolie als solches hochwertig und langlebig sein muss, setzen wird von
+                    kommt. Da auch die <a href="{{ route('home') }}" class="url-link">Autofolie</a> als solches hochwertig und langlebig sein muss, setzen wird von
                     Folientechnik Schweiz
                     auf erfahrene Anbieter. Ist Ihr Interesse an einer Motorsport-Folierung besonders
                     gross, sind wir genau der richtige Ansprechpartner. Uns ist es daran gelegen, dass Sie die beste

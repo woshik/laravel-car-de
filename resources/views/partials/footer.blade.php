@@ -30,7 +30,7 @@
         </div>
         <div class="wrapper">
             <div class="copyright">
-                <span>© {{ date('Y') }} Folientechnik Schweiz. Alle Rechte vorbehalten</span>
+                <span>© {{ date('Y') }} <a href="{{ route('home') }}" class="url-link">Folientechnik Schweiz</a>. Alle Rechte vorbehalten</span>
             </div>
         </div>
     </section>
