@@ -28,6 +28,7 @@
             </h1>
             <p class="h5 sup-light">Hitzeschutz - Blendschutz - UV Schutz</p>
         </div>
+        @include('partials.hubspot-call-action-button')
     </header>
 
     <div class="background-website">

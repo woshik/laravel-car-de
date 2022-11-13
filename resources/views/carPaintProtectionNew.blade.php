@@ -24,6 +24,7 @@
             <h1 class="h1 sup-bold-Italic">
                 Lackschutzfolie von Folientechnik Schweiz
             </h1>
+            @include('partials.hubspot-call-action-button')
         </div>
     </header>
 

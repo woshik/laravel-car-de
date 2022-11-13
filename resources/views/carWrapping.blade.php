@@ -22,7 +22,9 @@
     <header class="header">
         <div class="header-content-box">
             <h1 class="h1 sup-bold-Italic">Autofolierung in Zürich von Folientechnik Schweiz</h1>
+            <p class="h5 sup-light"></p>
         </div>
+        @include('partials.hubspot-call-action-button')
     </header>
 
     <div class="background-website">
@@ -90,6 +92,7 @@
                             Teilfolierung, Lackschutzfolierung oder Branding, wir nehmen uns für Sie Zeit.</p>
                     </div>
                     <hr class="underline" />
+                    @include('partials.hubspot-call-action-button')
                 </div>
 
             </div>

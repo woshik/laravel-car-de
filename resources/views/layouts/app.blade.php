@@ -99,6 +99,14 @@
             target: "#hubspot-contact-form",
         });
     </script>
+
+    <script charset="utf-8" src="https://js-eu1.hscta.net/cta/current.js"></script>
+    <script type="text/javascript"> 
+        hbspt.cta.load(26537669, '217e5f68-9d81-40d2-8f74-aa04ce366751', {
+            "useNewLoader":"true",
+            "region":"eu1"
+        }); 
+    </script>
 </body>
 
 </html>

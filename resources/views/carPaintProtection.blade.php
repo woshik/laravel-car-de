@@ -28,6 +28,7 @@
                 Wir schützen deine Investition...
             </p>
         </div>
+        @include('partials.hubspot-call-action-button')
     </header>
 
     <div class="background-website">
@@ -237,10 +238,7 @@
                                 <p class="ppf-info"> - Stossstange vorne</p>
                                 <p class="ppf-info"> - Spiegelkappen</p>
                             </div>
-                            <a href="javascript:void(0)" onclick="openContactModal()"
-                                class="blue-btn-form range-modal-form-btn">
-                                Termin zur Beratung
-                            </a>
+                            @include('partials.hubspot-call-action-button')
                         </div>
                     </div>
                 </div>

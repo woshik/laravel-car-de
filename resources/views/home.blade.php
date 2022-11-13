@@ -26,6 +26,7 @@
             <h1 class="h1 sup-bold-Italic">Auto folieren Schweiz</h1>
             <p class="h5 sup-light">Car Wrapping - Lackschutz folieren - Scheiben tönen</p>
         </div>
+        @include('partials.hubspot-call-action-button')
     </header>
 
     <div class="background-website">
@@ -61,6 +62,7 @@
                 </p>
             </div>
             <hr class="underline" />
+            @include('partials.hubspot-call-action-button')
         </div>
     </div>
 
