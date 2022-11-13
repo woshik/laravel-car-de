@@ -90,6 +90,15 @@
 
     @yield('script-file')
 
+    <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+    <script>
+        hbspt.forms.create({
+            region: "eu1",
+            portalId: "26537669",
+            formId: "8935022e-0810-4d01-b944-e9cc4e949091",
+            target: "#hubspot-contact-form",
+        });
+    </script>
 </body>
 
 </html>
