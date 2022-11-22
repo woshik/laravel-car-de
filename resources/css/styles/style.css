@@ -772,8 +772,6 @@ body {
 }
 .row-3 {
     width: 33%;
-    margin: 0 0 2vw;
-    height: 10vw;
     float: left;
 }
 .row-3:nth-child(3) {
@@ -840,8 +838,8 @@ body {
 .row-3 p {
     display: block;
     text-align: center;
-    color: rgba(255, 255, 255, 0.8);
-    font-size: 0.95vw;
+    color: #fff;
+    font-size: 14px;
 }
 .cifra-info:after {
     content: "";
@@ -854,8 +852,8 @@ body {
 .row-4 p {
     display: block;
     text-align: center;
-    color: rgba(255, 255, 255, 0.8);
-    font-size: 0.95vw;
+    color: #fff;
+    font-size: 14px;
 }
 .back-info-image {
     width: 100%;
@@ -13888,4 +13886,11 @@ button.swiper-pagination-bullet {
 .service-wrapper {
     display: flex;
     justify-content: center;
+}
+
+.sub-heading {
+    color: #fff;
+    font-family: supermolot-bold-Italic, sans-serif;
+    font-size: 18px;
+    margin: 16px 0px;
 }

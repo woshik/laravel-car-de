@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-    <title>Auto folieren Schweiz - cooler Style, bestes Niveau ✔️</title>
+    <title>Car Wrapping & Auto folieren lassen ► Folientechnik Schweiz</title>
 @endsection
 
 @section('meta')
@@ -23,8 +23,8 @@
 
     <header class="header">
         <div class="header-content-box">
-            <h1 class="h1 sup-bold-Italic">Auto folieren Schweiz</h1>
-            <p class="h5 sup-light">Car Wrapping - Lackschutz folieren - Scheiben tönen</p>
+            <h1 class="h1 sup-bold-Italic">Auto folieren lassen</h1>
+            <p class="h5 sup-light">Professionelles Car Wrapping mit Folientechnik Schweiz GmbH</p>
         </div>
         @include('partials.hubspot-call-action-button')
     </header>
@@ -32,12 +32,11 @@
     <div class="background-website">
         <div class="box-container">
             <div class="header-container">
-                <h2 class="zag text-center">Car Wrapping für
-                    die persönliche Note!</h2>
+                <h2 class="zag text-center">Car Wrapping - individuell, schützt & sieht gut aus!</h2>
             </div>
             <hr class="underline" />
             <div class="text-center">
-                <p class="p-reg roboto-regular mb-4">Radkappen, Aufkleber, Lenkräder… Es gibt unzählige Möglichkeiten, ein
+                <p class="p-reg roboto-regular mb-4">Sie möchten Ihrem Auto eine persönliche Note geben und den Lack mit einer Autofolie schützen? Dann ist eine Auto Folierung der Schweizer Profis von Folientechnik Schweiz genau das richtige. Wir bieten attraktive, hochwertige Folien, die sowohl optische Effekte als auch Schutz bieten. Sie haben eine grosse Auswahl und können frei entscheiden welche Art von Design oder Muster wir für das Car Wrapping verwenden sollen. Wir bieten folieren ihr Fahrzeug massgeschneidert mit einer individuellen Lösung, die all Ihre Bedürfnisse abdeckt. Es gibt unzählige Möglichkeiten, ein
                     Auto
                     zu individualisieren und ihm eine persönliche Note zu verleihen. Eine besonders
                     moderne und vielfältige Variante besteht darin, das Auto folieren in der
@@ -65,6 +64,58 @@
             @include('partials.hubspot-call-action-button')
         </div>
     </div>
+
+    <section class="background-website">
+        <div style="margin-bottom: 32px">
+            <h2 class="zag text-center">Profitieren Sie von Folientechnik Schweiz GmbH</h2>
+        </div>
+        <div class="wrapper">
+            <div class="div-table">
+                <div class="row-3 d-flex flex-column align-items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" width="40px" height="40px">
+                        <g id="surface162766718">
+                            <path style="stroke:none;fill-rule:nonzero;fill:rgb(20%,20%,20%);fill-opacity:1;" d="M 20 22 C 18.894531 22 18 21.105469 18 20 C 18 18.894531 18.894531 18 20 18 C 21.105469 18 22 18.894531 22 20 C 22 21.105469 21.105469 22 20 22 Z M 20 22 "/>
+                            <path style="stroke:none;fill-rule:nonzero;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M 20 38.5 C 9.800781 38.5 1.5 30.199219 1.5 20 C 1.5 9.800781 9.800781 1.5 20 1.5 C 30.199219 1.5 38.5 9.800781 38.5 20 C 38.5 30.199219 30.199219 38.5 20 38.5 Z M 20 38.5 "/>
+                            <path style="stroke:none;fill-rule:nonzero;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M 20 2 C 29.898438 2 38 10.101562 38 20 C 38 29.898438 29.898438 38 20 38 C 10.101562 38 2 29.898438 2 20 C 2 10.101562 10.101562 2 20 2 M 20 1 C 9.5 1 1 9.5 1 20 C 1 30.5 9.5 39 20 39 C 30.5 39 39 30.5 39 20 C 39 9.5 30.5 1 20 1 Z M 20 1 "/>
+                            <path style="fill:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 11.199219 20.101562 L 17 25.898437 L 30.199218 12.699219 " transform="matrix(1,0,0,1,0,0)"/>
+                        </g>
+                    </svg>
+                    <h3 class="sub-heading">Voll- und Teilfolierung</h3>
+                    <p class="p-reg roboto-regular">
+                        Bei Folientechnik Schweiz haben Sie die Wahl zwischen einer Vollfolierung oder Teilfolierung. Für Car Wrapping benutzen wir nur die besten Materialien.
+                    </p>
+                </div>
+                <div class="row-3 d-flex flex-column align-items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" width="40px" height="40px">
+                        <g id="surface162766718">
+                            <path style="stroke:none;fill-rule:nonzero;fill:rgb(20%,20%,20%);fill-opacity:1;" d="M 20 22 C 18.894531 22 18 21.105469 18 20 C 18 18.894531 18.894531 18 20 18 C 21.105469 18 22 18.894531 22 20 C 22 21.105469 21.105469 22 20 22 Z M 20 22 "/>
+                            <path style="stroke:none;fill-rule:nonzero;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M 20 38.5 C 9.800781 38.5 1.5 30.199219 1.5 20 C 1.5 9.800781 9.800781 1.5 20 1.5 C 30.199219 1.5 38.5 9.800781 38.5 20 C 38.5 30.199219 30.199219 38.5 20 38.5 Z M 20 38.5 "/>
+                            <path style="stroke:none;fill-rule:nonzero;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M 20 2 C 29.898438 2 38 10.101562 38 20 C 38 29.898438 29.898438 38 20 38 C 10.101562 38 2 29.898438 2 20 C 2 10.101562 10.101562 2 20 2 M 20 1 C 9.5 1 1 9.5 1 20 C 1 30.5 9.5 39 20 39 C 30.5 39 39 30.5 39 20 C 39 9.5 30.5 1 20 1 Z M 20 1 "/>
+                            <path style="fill:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 11.199219 20.101562 L 17 25.898437 L 30.199218 12.699219 " transform="matrix(1,0,0,1,0,0)"/>
+                        </g>
+                    </svg>
+                    <h3 class="sub-heading">Zertifizierte Mitarbeiter & Profis</h3>
+                    <p class="p-reg roboto-regular">
+                        Unsere zertifizierten Mitarbeiter haben jahrelange Erfahrung in beiden Disziplinen und arbeiten mit höchster Präzision.
+                    </p>
+                </div>
+                <div class="row-3 d-flex flex-column align-items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" width="40px" height="40px">
+                        <g id="surface162766718">
+                            <path style="stroke:none;fill-rule:nonzero;fill:rgb(20%,20%,20%);fill-opacity:1;" d="M 20 22 C 18.894531 22 18 21.105469 18 20 C 18 18.894531 18.894531 18 20 18 C 21.105469 18 22 18.894531 22 20 C 22 21.105469 21.105469 22 20 22 Z M 20 22 "/>
+                            <path style="stroke:none;fill-rule:nonzero;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M 20 38.5 C 9.800781 38.5 1.5 30.199219 1.5 20 C 1.5 9.800781 9.800781 1.5 20 1.5 C 30.199219 1.5 38.5 9.800781 38.5 20 C 38.5 30.199219 30.199219 38.5 20 38.5 Z M 20 38.5 "/>
+                            <path style="stroke:none;fill-rule:nonzero;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M 20 2 C 29.898438 2 38 10.101562 38 20 C 38 29.898438 29.898438 38 20 38 C 10.101562 38 2 29.898438 2 20 C 2 10.101562 10.101562 2 20 2 M 20 1 C 9.5 1 1 9.5 1 20 C 1 30.5 9.5 39 20 39 C 30.5 39 39 30.5 39 20 C 39 9.5 30.5 1 20 1 Z M 20 1 "/>
+                            <path style="fill:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 11.199219 20.101562 L 17 25.898437 L 30.199218 12.699219 " transform="matrix(1,0,0,1,0,0)"/>
+                        </g>
+                    </svg>
+                    <h3 class="sub-heading">Individuelles Design</h3>
+                    <p class="p-reg roboto-regular">
+                        Sie entscheiden, ob Sie ihr Auto komplett folieren lassen möchten oder nur bestimmte Stellen und in welchem Look bzw. Design.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <div class="background-website">
         <div class="wrapper">

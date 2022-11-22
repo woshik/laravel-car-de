@@ -21,33 +21,35 @@ class FacebookConversionAPI
      */
     public function handle(Request $request, Closure $next)
     {
-        $access_token = env('FACEBOOK_CONVERSION_API_ACCESS_TOKEN');
-        $pixel_id = env('FACEBOOK_PIXEL_ID');
-
-        Api::init(null, null, $access_token);
-        $api = Api::instance();
-        $api->setLogger(new CurlLogger());
-
-        $events = array();
-
-        $user_data = (new UserData())
-            ->setClientIpAddress($request->ip())
-            ->setClientUserAgent($request->header('user-agent'));
-
-        $event = (new Event())
-            ->setEventName("ViewContent")
-            ->setEventTime(time())
-            ->setEventSourceUrl($request->fullUrl())
-            ->setUserData($user_data)
-            ->setActionSource("website");
-
-        array_push($events, $event);
-
-        $conversion_api_request = (new EventRequest($pixel_id))
-            ->setEvents($events);
-
-        $conversion_api_request->execute();
-
+        if (env('APP_ENV') == "production") {
+            $access_token = env('FACEBOOK_CONVERSION_API_ACCESS_TOKEN');
+            $pixel_id = env('FACEBOOK_PIXEL_ID');
+    
+            Api::init(null, null, $access_token);
+            $api = Api::instance();
+            $api->setLogger(new CurlLogger());
+    
+            $events = array();
+    
+            $user_data = (new UserData())
+                ->setClientIpAddress($request->ip())
+                ->setClientUserAgent($request->header('user-agent'));
+    
+            $event = (new Event())
+                ->setEventName("ViewContent")
+                ->setEventTime(time())
+                ->setEventSourceUrl($request->fullUrl())
+                ->setUserData($user_data)
+                ->setActionSource("website");
+    
+            array_push($events, $event);
+    
+            $conversion_api_request = (new EventRequest($pixel_id))
+                ->setEvents($events);
+    
+            $conversion_api_request->execute();
+        }
+        
         return $next($request);
     }
 }
