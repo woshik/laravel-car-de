@@ -90,6 +90,10 @@
 
     @yield('script-file')
 
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/26537669.js"></script>
+    <!-- End of HubSpot Embed Code -->
+
     <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
     <script>
         hbspt.forms.create({
