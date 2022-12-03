@@ -101,6 +101,9 @@
             portalId: "26537669",
             formId: "8935022e-0810-4d01-b944-e9cc4e949091",
             target: "#hubspot-contact-form",
+            onFormSubmit: () => {
+                window.location.replace("{{ route('thankYou') }}");
+            }
         });
     </script>
 

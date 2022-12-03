@@ -45,6 +45,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://www.folientechnik-schweiz.ch/thank-you</loc>
+  <lastmod>2022-09-29T17:57:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://www.folientechnik-schweiz.ch/detail/BMW-folieren-Schweiz</loc>
   <lastmod>2022-09-29T17:57:18+00:00</lastmod>
   <priority>0.64</priority>
@@ -54,6 +59,4 @@
   <lastmod>2022-09-29T17:57:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-
-
 </urlset>

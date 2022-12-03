@@ -12,6 +12,7 @@ use App\Http\Controllers\Home;
 use App\Http\Controllers\Services;
 use App\Http\Controllers\TeslaModelY;
 use App\Http\Controllers\Landing;
+use App\Http\Controllers\ThankYou;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -33,6 +34,8 @@ Route::get('/services', [Services::class, 'view'])->name('services');
 Route::get('/gallery', [Gallery::class, 'view'])->name('gallery');
 
 Route::get('/kontakt', [Contact::class, 'view'])->name('contact');
+
+Route::get('/thank-you', [ThankYou::class, 'view'])->name('thankYou');
 
 // Route::get('/auto-detailing', [CarDetailing::class, 'view'])->name('car-detailing');
 

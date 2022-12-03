@@ -15,12 +15,8 @@
 @endsection
 
 @section('content')
-@include('partials.contactForm')
+    @include('partials.contactForm')
 @endsection
-
-@section('footer')
-@endsection
-
 
 @section('script-file')
     <script src="{{ mix('/js/contact.js') }}"></script>
