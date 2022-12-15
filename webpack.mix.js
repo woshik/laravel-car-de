@@ -77,6 +77,15 @@ mix.scripts(
     .scripts(
         [...commonJS, "resources/js/page/thank_you.js"],
         "public/js/thank_you.js"
+    )
+    .scripts(
+        [
+            ...commonJS,
+            "resources/js/script/slick.min.js",
+            "resources/js/script/paint-protection-slider.js",
+            "resources/js/page/landing_paint_protection.js",
+        ],
+        "public/js/landing_paint_protection.js"
     );
 
 mix.postCss("resources/css/home.css", "public/css/home.css")
@@ -99,7 +108,11 @@ mix.postCss("resources/css/home.css", "public/css/home.css")
     .postCss("resources/css/gallery.css", "public/css/gallery.css")
     .postCss("resources/css/car_detail.css", "public/css/car_detail.css")
     .postCss("resources/css/landing.css", "public/css/landing.css")
-    .postCss("resources/css/thank_you.css", "public/css/thank_you.css");
+    .postCss("resources/css/thank_you.css", "public/css/thank_you.css")
+    .postCss(
+        "resources/css/landing_paint_protection.css",
+        "public/css/landing_paint_protection.css"
+    );
 
 if (mix.inProduction()) {
     mix.version();

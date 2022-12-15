@@ -1,9 +1,0 @@
-.image-22 {
-    width: 22% !important;
-}
-
-@media (max-width: 590px) {
-    .slick-slider img {
-        width: 60% !important
-    }
-}

@@ -12,6 +12,7 @@ use App\Http\Controllers\Home;
 use App\Http\Controllers\Services;
 use App\Http\Controllers\TeslaModelY;
 use App\Http\Controllers\Landing;
+use App\Http\Controllers\PpfLanding;
 use App\Http\Controllers\ThankYou;
 use Illuminate\Support\Facades\Route;
 
@@ -36,6 +37,9 @@ Route::get('/gallery', [Gallery::class, 'view'])->name('gallery');
 Route::get('/kontakt', [Contact::class, 'view'])->name('contact');
 
 Route::get('/thank-you', [ThankYou::class, 'view'])->name('thankYou');
+
+// landing page
+Route::get('/fb/ppf', [PpfLanding::class, 'view'])->name('fb_landing_paint_protection');
 
 // Route::get('/auto-detailing', [CarDetailing::class, 'view'])->name('car-detailing');
 

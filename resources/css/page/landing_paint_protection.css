@@ -1,0 +1,22 @@
+.icon-65 {
+    width: 56px;
+    height: 56px;
+}
+
+.icon-text {
+    font-family: supermolot-Italic, sans-serif;
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 12px;
+}
+
+.box-icon-custom {
+    color: #ffaa00;
+}
+
+.icon-text:last-child {
+    margin-bottom: 0;
+}
+
